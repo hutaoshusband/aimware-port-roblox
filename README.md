@@ -1,4 +1,4 @@
-# Aimware v5.0.2 for Roblox
+# Aimware v5.0.3 for Roblox
 
 ![Aimware GUI](./Pictures/gui.png)
 
@@ -15,7 +15,7 @@ Designed for subtle cheating that appears legitimate to other players and specta
 
 *   **Aimbot**: Automatically assists your aim towards enemy players.
 *   **AimKey**: Activates the aimbot only when a specific key (e.g., `MouseButton2`) is held down, making it look more natural.
-*   **~~Autofire~~**: *(Currently not working)*
+*   **AUTOFIRE UPDATED**
 *   **~~Triggerbot~~**: *(Currently not working)*
 
 ![Legitbot Features](./Pictures/legitbot.png)
@@ -38,6 +38,9 @@ Enhance your in-game awareness by seeing things others can't.
 *   **Player ESP**: Renders information and boxes on players, even through objects.
     *   **Colors**: Fully customizable colors for visible and non-visible players.
     *   **Style**: Classic 2D boxes.
+    *   **Name ESP**
+    *   **Bullet Tracer**
+    *   **local Trails**
 *   **Chams (Character Models)**: Renders players in solid colors, making them highly visible.
     *   **Colors**: A wide variety of selectable colors.
     *   **Materials**: Choose from multiple textures like **Neon, Glass, Fabric, Granite,** and **ForceField**.
