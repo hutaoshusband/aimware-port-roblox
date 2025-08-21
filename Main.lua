@@ -187,7 +187,7 @@ WebsiteLabel.Parent = Footer
 
 local function LoadTab(tabName, fileName)
     local success, raw = pcall(function()
-        return game:HttpGet("http://github.com/hutaoshusband/aimware-port-roblox/blob/main/" .. fileName, true )
+        return game:HttpGet("https://raw.githubusercontent.com/hutaoshusband/aimware-port-roblox/refs/heads/main/" .. fileName, true )
     end)
     if not success or not raw then
         warn("HTTP-Fehler bei " .. fileName .. ": " .. tostring(raw))

@@ -589,7 +589,7 @@ end
     createCheckbox(worldGroup, UDim2.new(0, 10, 0, 30), "FPS Booster", "Reduces graphics for more FPS", function(enabled)
         if enabled then
             spawn(function()
-                local success, scriptContent = pcall(game.HttpGet, game, "http://github.com/hutaoshusband/aimware-port-roblox/blob/main/fpsboost.lua"  )
+                local success, scriptContent = pcall(game.HttpGet, game, "https://raw.githubusercontent.com/hutaoshusband/aimware-port-roblox/refs/heads/main/fpsboost.lua"  )
                 if success and scriptContent then loadstring(scriptContent)() else warn("FPS Booster script could not be loaded.") end
             end)
         end
