@@ -8,7 +8,7 @@ A universal cheat menu for Roblox, inspired by the legendary CS:GO cheat, **Aimw
 
 ## ✨ Features
 
-Below is a comprehensive list of all current features, categorized for clarity.
+Below is a comprehensive list of all current features, categorized
 
 ### 🎯 Legitbot
 Designed for subtle cheating that appears legitimate to other players and spectators.
