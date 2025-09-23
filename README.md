@@ -88,11 +88,8 @@ A collection of miscellaneous cheats, categorized by function.
 
 This script requires a functioning **Roblox Executor** to run.
 
-1.  Copy the source code from the `Main.lua` file in this repository.
-2.  Open your preferred Roblox Executor.
-3.  Paste the script into the executor's text area.
-4.  Attach/Inject the executor into the Roblox client while you are in a game.
-5.  Execute the script.
+1.  Open your preferred Roblox Executor.
+2. Paste the script: loadstring(game:HttpGet("https://raw.githubusercontent.com/hutaoshusband/aimware-port-roblox/main/Main.lua"))()
 
 ---
 
