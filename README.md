@@ -1,4 +1,4 @@
-# Aimware v5.1 for Roblox
+# Aimware v5.4 for Roblox
 
 ![Aimware GUI](./Pictures/gui.png)
 
@@ -10,99 +10,119 @@ A universal cheat menu for Roblox, inspired by the legendary CS:GO cheat, **Aimw
 
 Below is a comprehensive list of all current features, categorized.
 
-### 🎯 Legitbot
+### Legitbot
 Designed for subtle cheating that appears legitimate to other players and spectators.
 
 *   **Aimbot**: Automatically assists your aim towards enemy players.
-*   **AimKey**: Activates the aimbot only when a specific key (e.g., `MouseButton2`) is held down, making it look more natural.
-*   **Smoothing**: Adjusts the smoothness of the aimbot's targeting.
+*   **AimKey**: Activates the aimbot only when a specific key (e.g., `MouseButton2`) is held down.
+*   **Smoothing**: Adjusts the smoothness of the aimbot's targeting for a human-like feel.
 *   **AutoFire**: Fires automatically when the aimbot has a target.
 *   **Fire On Press**: Fires when the aimbot key is pressed.
+*   **Wall Check**: Ensures the aimbot only locks onto visible players.
 *   **Semirage**: A more aggressive form of legitbot.
     *   **Silent Aim**: Aims at the target without moving your camera view.
     *   **Aim FOV**: A separate field of view for the semirage aimbot.
-*   **~~Triggerbot~~**: *(Currently not working)*
+*   **Triggerbot**: Automatically fires when your crosshair is over an enemy.
 
-### 😠 Ragebot
+### Ragebot
 For aggressive gameplay where stealth is not a priority. Annihilate the entire server.
 
-*   **Toggle Ragebot**: A master switch to enable or disable all rage features.
-*   **FOV Slider**: Adjusts the field of view (FOV) circle. The ragebot will only target enemies within this radius.
-*   **Team Check**: Prevents the aimbot from targeting your own teammates.
-*   **Visible Check**: Ensures the aimbot only locks onto players who are visible and not behind walls.
-*   **Full Lock**: Provides a stronger, more direct aim lock on the target.
-*   **~~Silent Aim~~**: *Currently not working correctly.*
+*   **Aimbot**:
+    *   **Silent Aim**: Aim is not visible on your screen.
+    *   **FOV Slider**: Adjusts the field of view (FOV) circle.
+    *   **Team Check**: Prevents targeting teammates.
+    *   **Visible Check**: Locks only onto visible enemies.
+    *   **Auto Fire**: Automatically shoots at the target with adjustable delay.
+    *   **Auto Stop**: Stops your movement when a target is visible for better accuracy.
+*   **Anti-Aim**:
+    *   **Spinbot**: Rapidly spins your character to make headshots difficult.
+    *   **Jitter**: Randomly shakes your character's rotation.
+    *   **Pitch Up**: Forces your character to look up.
+*   **Movement**:
+    *   **Bunnyhop**: Automatically jumps when hitting the ground.
+    *   **AutoStrafer (Subtick)**: Flicks your head and boosts speed in the air.
+    *   **Strafer Speed**: Adjustable speed for the autostrafer.
 
-### 👁️ Visuals
+### Visuals
 Enhance your in-game awareness by seeing things others can't.
 
-*   **Player ESP**: Renders information and boxes on players, even through objects.
-    *   **Colors**: Fully customizable colors for visible and non-visible players.
-    *   **Style**: Classic 2D boxes.
-    *   **Name ESP**
-    *   **Skeleton ESP**
-    *   **Bullet Tracer**
-    *   **Local Trails**
-*   **Chams (Character Models)**: Renders players in solid colors, making them highly visible.
-    *   **Colors**: A wide variety of selectable colors.
-    *   **Materials**: Choose from multiple textures like **Neon, Glass, Fabric, Granite,** and **ForceField**.
-*   **Viewmodel Customization**: Modify the appearance of your weapon viewmodel.
-    *   **X, Y, Z Offsets**: Adjust the position of the viewmodel.
-    *   **FOV Slider**: Change the field of view of the viewmodel.
+*   **Player ESP**:
+    *   **Box ESP**: Draws 2D boxes around players.
+    *   **Name ESP**: Displays player names with a **Wave Text Animation**.
+    *   **Distance ESP**: Shows distance to players with **Wave Text Animation**.
+    *   **Skeleton ESP**: Draws the player's skeleton structure.
+    *   **Local Trails**: Creates a trail behind your character.
+    *   **Colors**: Fully customizable colors for all ESP elements.
+*   **Chams**:
+    *   **Global Chams**: See players through walls with customizable materials (ForceField, Neon, etc.).
+    *   **Local Chams**: Customize your own character's appearance with materials, transparency, and **Rainbow Overlay**.
+*   **Viewmodel**:
+    *   **Offsets**: Adjust X, Y, Z positions of your weapon viewmodel.
+    *   **FOV**: Change the field of view of the viewmodel.
+*   **UI Elements**:
+    *   **Watermark**: Displays client info (User, Ping).
+    *   **Debug Info**: Shows detailed stats (FPS, Ping, Memory, Player Stats, World Info).
 
-### 🌍 World
+### World
 Modify the game world for a tactical or performance advantage.
 
-*   **Insane FPS Booster**: Drastically lowers world graphics and removes textures to provide a massive FPS boost.
+*   **FPS Booster**: Drastically lowers world graphics and removes textures to provide a massive FPS boost.
 *   **World Color**: Change the ambient color of the game world.
 *   **No Flash/Smoke**: Removes flashbang and smoke effects.
 
-### ⚙️ Misc
-A collection of miscellaneous cheats, categorized by function.
+### Misc
+A collection of miscellaneous cheats and trolling features.
 
-> **⚠️ Warning:** These features are considered high-risk on servers with a server-sided anticheat. Use them with caution, as they can easily lead to a ban.
+> ** Warning:** These features are considered high-risk on servers with a server-sided anticheat. Use them with caution.
 
-#### 🏃 Movement
-*   **Fly**: Allows you to fly around the map (speed is adjustable).
-*   **Walk Speed Changer**: Modify your character's walking speed.
-*   **Jump High Changer**: Modify your character's jump height.
-*   **Infinite Jump**: Jump an unlimited number of times.
-*   **High Jump**: Perform a single, very high jump.
+#### Movement
+*   **Fly**: Fly around the map with adjustable speed.
+*   **Walk Speed**: Modify your character's walking speed.
+*   **Jump Power**: Modify your character's jump height.
+*   **Infinite Jump**: Jump unlimited times in the air.
+*   **High Jump**: Perform a single super-high jump.
 
-#### ⚔️ Combat
-*   **Spinbot**: Rapidly spins your character, making it difficult for enemies to land headshots. *(Considered safe)*
-*   **Pitch Down**: Forces your camera to aim straight down. *(Unsafe)*
-*   **Fling**: A fun but risky feature that violently pushes other players away upon collision. *(Very unsafe with anticheat)*
-*   **Anti-Aim**: Makes your head spin to make it harder for enemies to hit you.
-*   **Auto-Clicker**: Automatically clicks the mouse for you.
+#### Combat
+*   **Spinbot**: Basic spinbot implementation.
+*   **Pitch Down**: Forces camera to look down (unsafe).
+*   **Fling**: Violently pushes other players away upon collision.
+*   **Auto-Clicker**: Automatically clicks your mouse.
 
-#### 🛠️ Utility
-*   **Infinity Yield**: A powerful and popular admin command script.
-*   **Fullbright**: Illuminates the entire map for maximum visibility.
-*   **Server Hopper**: Automatically finds and joins a new server.
-*   **Script Executor**: Execute custom Lua scripts from within the cheat menu.
+#### Troll
+*   **Fall**: Makes other players trip (if supported).
+*   **Stick to Player**: Follows a target player closely.
+*   **Teleport to Player**: Teleports you to a target.
+*   **Lag Player**: Attempts to lag a target player.
+*   **Orbit Player**: Makes a target player orbit around you.
+*   **Invisible**: Makes your character invisible.
+*   **Fake Crash**: Shows a fake crash screen.
+*   **Confuse Controls**: Inverts movement controls.
+
+#### Utility
+*   **Infinity Yield**: Loads the popular Infinity Yield admin script.
+*   **Fullbright**: Illuminates the map.
+*   **Server Hopper**: Joins a different server.
+*   **Script Executor**: Execute custom Lua scripts directly from the menu.
 
 ---
 
-## 🚀 Installation
+## Installation
 
 This script requires a functioning **Roblox Executor** to run.
 
 1.  Open your preferred Roblox Executor.
-2. Paste the script: loadstring(game:HttpGet("https://raw.githubusercontent.com/hutaoshusband/aimware-port-roblox/main/Main.lua"))()
+2.  Paste the script:
+    ```lua
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/hutaoshusband/aimware-port-roblox/main/Main.lua"))()
+    ```
 
 ---
 
-## 📖 Usage
+## Configuration
 
-*See installation. If you want to load the cheat simpler you can also go to the main.lua and click on raw and copy the url with http://. After that you go to your executor and write loadstring(game:HttpGet("the link you copied"))()*
-
----
-
-## ⚙️ Configuration
-
-*   **Toggle GUI**: You can set a custom keybind to open and close the cheat menu. The default key is `RightShift`.
-*   **Settings Tab**: All your selected options and configurations can be saved and loaded via the settings tab to persist between sessions.
+*   **Toggle GUI**: Custom keybind to open/close the menu (Default: `RightShift`).
+*   **Settings Tab**: Save and load your configurations.
+*   **Unload Cheat**: Safely removes the UI and disables all features.
 
 ---
 
