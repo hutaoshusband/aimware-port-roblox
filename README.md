@@ -1,4 +1,4 @@
-# Aimware v5.4 for Roblox
+# Aimware v5.4.1 for Roblox
 
 ![Aimware GUI](./Pictures/gui.png)
 
