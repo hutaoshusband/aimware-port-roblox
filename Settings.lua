@@ -1,1 +1,6279 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _WuMwBkihRKrB = a; end)); return(function(m,...)local u;local l;local d;local f;local o;local t;local e=24915;local n=0;local r={};while n<761 do n=n+1;while n<0x101 and e%0x4a04<0x2502 do n=n+1 e=(e-333)%13670 local h=n+e if(e%0x101a)<0x80d then e=(e-0x3cf)%0x9c34 while n<0x367 and e%0x15fc<0xafe do n=n+1 e=(e-646)%38330 local u=n+e if(e%0x1db2)<=0xed9 then e=(e-0x2cf)%0x8767 local e=17981 if not r[e]then r[e]=0x1 d=getfenv and getfenv();end elseif e%2~=0 then e=(e-0x197)%0x7ffe local e=18282 if not r[e]then r[e]=0x1 t=function(t)local e=0x01 local function r(n)e=e+n return t:sub(e-n,e-0x01)end while true do local n=r(0x01)if(n=="\5")then break end local e=l.byte(r(0x01))local e=r(e)if n=="\2"then e=f.JU_cWcLg(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then d[e]=function(n,e)return m(8,nil,m,e,n)end elseif n=="\4"then e=d[e]elseif n=="\0"then e=d[e][r(l.byte(r(0x01)))];end local n=r(0x08)f[n]=e end end end else e=(e+0x274)%0x7a0d n=n+1 local e=31786 if not r[e]then r[e]=0x1 l=string;end end end elseif e%2~=0 then e=(e-0x5a)%0x9e34 while n<0x18f and e%0x3d72<0x1eb9 do n=n+1 e=(e-803)%30961 local d=n+e if(e%0x12ba)<0x95d then e=(e-0x2eb)%0x8fee local e=73159 if not r[e]then r[e]=0x1 u="\4\8\116\111\110\117\109\98\101\114\74\85\95\99\87\99\76\103\0\6\115\116\114\105\110\103\4\99\104\97\114\110\100\75\82\73\103\104\116\0\6\115\116\114\105\110\103\3\115\117\98\103\84\90\115\111\120\67\74\0\6\115\116\114\105\110\103\4\98\121\116\101\114\120\110\70\79\72\110\65\0\5\116\97\98\108\101\6\99\111\110\99\97\116\109\105\107\109\68\86\88\103\0\5\116\97\98\108\101\6\105\110\115\101\114\116\109\69\86\76\67\111\121\99\5";end elseif e%2~=0 then e=(e*0x147)%0x2173 local e=46608 if not r[e]then r[e]=0x1 end else e=(e*0x124)%0xc84 n=n+1 local e=79094 if not r[e]then r[e]=0x1 o=tonumber;end end end else e=(e*0x393)%0x8a98 n=n+1 while n<0x273 and e%0x266c<0x1336 do n=n+1 e=(e+476)%26288 local t=n+e if(e%0x39e2)<0x1cf1 then e=(e+0x1df)%0x918c local e=10063 if not r[e]then r[e]=0x1 f={};end elseif e%2~=0 then e=(e+0x2ca)%0xc1ab local e=38529 if not r[e]then r[e]=0x1 end else e=(e-0x173)%0x253d n=n+1 local e=61942 if not r[e]then r[e]=0x1 d=(not d)and _ENV or d;end end end end end e=(e+890)%4408 end t(u);local n={};for e=0x0,0xff do local r=f.ndKRIght(e);n[e]=r;n[r]=e;end local function h(e)return n[e];end local l=(function(m,l)local u,r=0x01,0x10 local n={{},{},{}}local d=-0x01 local e=0x01 local t=m while true do n[0x03][f.gTZsoxCJ(l,e,(function()e=u+e return e-0x01 end)())]=(function()d=d+0x01 return d end)()if d==(0x0f)then d=""r=0x000 break end end local d=#l while e<d+0x01 do n[0x02][r]=f.gTZsoxCJ(l,e,(function()e=u+e return e-0x01 end)())r=r+0x01 if r%0x02==0x00 then r=0x00 f.mEVLCoyc(n[0x01],(h((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+t)%0x100)));t=m+t;end end return f.mikmDVXg(n[0x01])end);t(l(18,"yj6WV8A=&pgB*s_zz!_jzB__ss*=B8BB*6p&=*p6=u8WWW_6*z_*j8_6z8*B*Vp8gWp=j*)p6=8*V*W8PzSp4VB*B68AV8AW8VVJ868=8:j_z8tpzs*sA*8*==AV86VjVBWp6CWB6Vl__**s=<Aj=B=j8AVAWV8s6Bj*j*6jtB_sszA68j=W8*V&V=8W6A6gW8x^zj_B=&A=&8=A8_pj=_8BWuVj686gz1&_=spB&_===B&W=sW_WsVVW=zsgVp8B6p*&s=BAgp&8_VBV686W=zg_=pA&WgW*pB6=*=&=z8cV=Wps5Bss*_&*p**B*B=gBgV&8:gz=j&Vjj&jBj5z{*}sz*WVVWj8W=j=V6B6w-pj_(=sA=_AB&_gs&_pW=z=&8&6B6_B&g=*VB8gV*&B=g&=W8AA=8W6p*_B*sg*Az6*B*WBppApA8*VpzA_VHWzQzBzVs6sFgBgB&p=8j_E*6gj=6EWVzAzjzp_zggsGVAWV8WWzV_VBj_6=6&,jz*sAA_8_=gAA8&VpA*8BWA6VW-_sQps6=6A6=sAg8gVpABAV86WBUp^V_=*&=AAV&8=:===BAB8s86Ws0z6ip_&*gpp*gjpW&J&&AjVdVp6p*ABVs8*jsB**g_Bz==&BA6A=__s*zB_gj8zp_*BWB6Bsg-p8jATV6VnzVWI{jpz&sAsj*BgVW_6*8jWpVg6=WAl&^AX84j_sAA8V=A8_As=_V&WAVjWB6=jJ&_=Bgj*pp&pg&BA=W_Vjjz*&BAsW*6*zB&BWg<pzA8&&=jz(ss j6VzW}*_*Bz*8*6&_6gj&W&666jjsxB66z_**s_gp86VNAXV*A(VjVs6pjV6W_6s6=gA&&B=8p_AW8V8_86WB6B6jg6pjgspB&&p&g&A=AY=6VVVzjjB&g=*WB6g=pspWgAp*AW8jVAWe*_Bssp*=BsssB=B8=s=BApAs8z_VsW_zs_*_zj_zB*gg&sgcpV&Vzg_p^8zV_6_Vzs*AB&B&Bsgk&jjSzzjB;gz=6AjAcg_>s6*Agj==6AjVWV666_jfWjj&R&zjssBsV_W*8*Vs8B8WV&6&zz3x}*zz=AAV&A=jg6&p8_A=6pVgW=jAp_&sgpp&&g&A&pAVAAW_Wg6Bn8BVgWBzg_pzs6Bs&jAW8*=V8zWp*gBps8*VB&*Agjp%g==WA&ABWW_1*___sszs_8s&B6g=&s&jAjm&zAjB^jj86cjjzg*zBBp*&zW,j_Vj6g8VVAW8vpz&Zjsz_.8&VAAW8==jV=W_6V6_zA_Wz=&W"));t(l(89,"X,Zw8>=O&F<r%a65<O>8=&,_r>>w55F56w6<<Z8,6r&8Z&r,=5Z8%5&wCw>6t=,&rZ>O_FrP=wy4&>wO%6OF8a66Z8%56,&<Z&a8&,f6%OOw,>r=8o6,r<6%FF<a>>5<F&8868ZFw&aw&aZw%5>rZr<F85MwF6>,ma8=5,.,F%>=5,w>8w6Z&<886wO,wOaa&O9arw8>pa>=M>,w<%=ZUZ<,>O6r<>wF6,FZwZ6&>%w8r5>=IF%8O<rs><>Rk=<r=w1><5,O5&<=Zaa&O=w6a&=k%O=6&&,F%&O<,5r=8,3>rr>66a&86O&a=%wa%wO<ZZ6ZF,,8%w,=%,a8O=Z,%F=6Q%r&>&5,&88>5rOFZ658Foa(O%FZZ=%6O5,5=OOa,a%=>6{Or==,a%rOw%#=O=8w5,Z6aO6a&aw=%6OOZ=%%>ZZ,r58Z,rrO=wF68=>&z,F58r5&Frwr%aOOw&%&=rZF=O,_Z8ra=rerrT=&5><>>nn,O<Z>56<wawO6&6ZF6wO6%Z%<OOZ,%&OZ,8<58%bZFawOaaF.68"));local e=(-f.KdLBjZOA+(function()local r,e=f.kJoWbEek,f.xzuamzDL;(function(e)e(e(e))end)(function(n)if r>f.XozZCioQ then return n end r=r+f.xzuamzDL e=(e+f.MMFsnjZM)%f.mMPbyuim if(e%f.A_DZwTWc)>f.utcJmczR then e=(e+f.IcoBSlqI)%f.tLKTvmBA return n(n(n))else return n end return n end)return e;end)())local de=(getfenv)or(function()return _ENV end);local g=f.jIqhDvkp or f.oCwUxAgn;local t=f.kfBPiLUY;local d=f.PCXZgmxk;local u=f.oXmtfHyo;local p=f.xzuamzDL;local function y(s,...)local a=l(e,"_3/JSuN(ge4C>RrmeS//CJSSRu(mm(gg3em(44JC>CS3rS(J)0guJ(>NSrrSNr2C(3/J4mSHR/N>R)eS/uCSRJ(3mugN3(Z(e=Jm4gNJCm(e8geg3JeRuuCNouCR/(CgSe/rRJNu,WJr3u4eJR>(3JmC(N3eu(Jg>Cuerm(3vK4//SCSB3reN>{ggRRNeSS(RgNgRrg33hur/ueJm/g/3J4SgJ>Nu(rg(euSeC/>CReeSrRrNm}NggRSC,JCR6NNrrJ4Nrmg/m>JN3r((N334u/g>JSCrCNRCe(R3rCrS/RJNRR(eN3CNJJ4/gC/meJgpR4JJ^(>J>rr(S+rNBauCmuJrgNC>SNr/rCgSNrzNNmRgRRT4(JCR3ugr4gS>gJgReu4rC(>Smmme//CCguSr/(eZJg4m4C(SuReNRCm3RC(JmRZN3Sumg(Nmee(/e4NS4mF8C4J/RCrSm/CRN(CRNeJ3e4CR((gmeg43Crm4eJ(>mNJ>u((3Ne(/4>SSCRe((drerC>uJRrNm8*rSe(3uegJN>gm(e/3e44JC3r>Nuur(gSmSe4/>C4ue((8(eg/eC4SCR>RNJreU/PC3S/RJNSmu>4u(4gJR>4uCr>>J((33eu>3u>rJ(S=uRmeu/gCrSr4RN3mS(m3RSVRgN/mJgSug3u4uJNCrSRrmq>4//rCmu;/(rSNS83g4CNugRgNem4RggC//C3JS4/NNmNg(3J4Jm(e4uSr/NR9N/>>WSrRm(iSgr(N>CSS>RNN(mgrmg>344e3m4uJ3g3334/JJ>SuuNNCgSgeeJJCCS>RR>/NS6geumr4SJN>4N/g(3C4eJ4>C>4u/mu+m4SJ3>/uJJyR4N>fC/gCmS4RCN>SRrme33u4mSNNJmRgu3N4((m3r4JJrm3Nmm/eY//u/r/(JVSeu/N((443eN4mmg>3R4rgSJrRNumgJ3g4uJN>(4NS4r((Ge>JuCrSmr+>3(3QNgR/e4mSNRNmegr3C4>JR3S>rurmu3/4RJS>uuN/rRR(RrRe2/r>JS(R/Nue///CJSSRuNNm(Ngug44Jm>>uRrrmN(33J4X>JuRru(N2(r3e(3rCSJm>r(/mre/C/S/RJNSmugN3(>>(e>4NCr>(RdrmS4J/N>S/>r/(uMCeCkC4rS>r3NumzgJC SyR3N/mJgSRuYgm(>guCr4(C8>m>(u>/u3r/(/AJeS/uCNg(/g4em4gm3>4RJr/J>uNemN3JC/Ju>Nu(xgeeu3mO(uRR43SSrS(umCe33CCgRNNRmgge34m/4CS3>NuYrR334rJJ>SuuJCru(SpggC3mN>/zRNNSm3euC/u3RSNumN>Rg33(er33>uumm3gJrJee/CCmSg(NWNe(/gCeS4RC44JRgr/NCiS3R/4NNJmJ(>3)emJ>u4rm(>7RereN/3CrS((SqSeu/NC(SgReu4J4g>/J4rJmRA4SN3rmgJ3(Ne>gugre(4aCe>/Rm(gmrOgej/eJ/SmC4mSu>>JmmJgR3mC3Lm>RuJrNgu3(4JJ(4uSRCC(umCer/mSRr/Nmdve3(u3>CrJ4NNmmgg3e44gSJ4RiN/r<(rYSe(>JuCru(NO(RRe(3C4RSgR/N/gm/rC3S/RJCgu4mrgCZ)(4JN>SuJrC(CnSerJuu/m3(SEueN(N/g4rSge4JmmegR//4um34RugmR3uC>J(>gue/>R>NmjgeuJ3CmuNrqN(rge(3(CuSCReuCmRg33C43SgN3m3g/3J4SJuSNCR/g(eE>eC/>CRNrmm(%;4e//JCSegJeReuRrrggm/C3JNumrmg<334/JJ>SgJ4N(gDgee/4CCS>RRe4Jmez/gC/SJRSCCumm4g3OC4NJMuRrR(rjm4VJ3>/C3/S(u7>e(/gCeCJSC>RNNtje/CQSeR/NJmSRe(C3m4>3>>JNur33,er/m>4u3r/(Jugm4er/Cg4SrRrNmmCgC4mJmRzN3m/gJeS3<(N>(N2re(4BCrme/J/>JSeRmNe+N/SCmSNR(NgSEmegm3SerJC43umrR(N4JSm>uuNr(>4NrX(e4J/C/u3gm(Smeg(RJgC/44m3(rCgg3(4CJg>/N/rS(>34N2>JuCru(NF(RCeg/gCmS3RC(/e /LC3S/RJNSmugN3(4eJe>4uCr>(RFr4((q>3u(rJ(SVurCNC/3CNB>NC6JgR3r4mgRJNR!Ng>m(43mJ(RJuer4(CSm8>e>JJCuSmrNSSaNg43(S(r/Nem4gC(?3/CNSJ4JN1rrg/3NNg>NNNrg(e94RReC/mC/SSr/uSmCeR3eeuJmRmuRmu3m4CJ>>RNCrmgo334uJJ>Su4rN((1g;egC/SCru (3PdeFJ3C/SJRS4(u(r4gJ3d4>J4R3uCr/u/2meRJ3>u3((NXNe(/gCeS4RCC6JRgr/NCKS3R/>eNNmSgJme(msCuCrC(>{Rer/mSvC(//(J!Ceu/NC(erS/RRNSrrge3JSYRZN3m/gJ3S/ug3%(ugm/(4!Ce>(N/>CJSeRSNJc(eJ/(S(R(Ngmeg43C4>4N.rumm4g33/4Jgg/4>ruCCC(g6Ne4/rg?Rr(un2e3//mNCJS3RuNeCC3e44JC>>uR//(m3L43J/mguSru(NF(eg/eC4u3mrNRmrgmJNC3SJRJNSmug4(>4gJe>4(3r>(rzremNu>3u/rJ(S5ueN/(>4g4R4N>m>e43r4mS<m3NJmJgu3u4(J(>ruem>g4V>em/r>Su<r3(/3u4//uCeS(RRNem4gC/rCNJrRJNkmNg/3J4SJu>>u(re(eMreC/rCRurme(1M3e//(CSSNRNN(/Rge344CJ>>Rurrme/u/4/JS>SN/rN((+gCeJrCCSRRRNmmmeN/3>Su3RSN(mNgr3g4eJ4RRumrRg3<m4(J3>/uJmNg3cNeC/g>QS4RCN>mRem3mC3S3RNNJmNgu/NCsJg>eu4m((>:rer/mmuu3r/(J{Seu/NC(NguCN4mCg>3R4rSeRPe3PSgJ3S4uJr>(uereg>/Se>/RCru3rc(3&/eJueCuS(R(Nemeg43C4>NJ>rummVgJ3/4uJS>eCCr((g eCu/CCRSRFrg3Z,eu//CCSSRNNNmReJ3e44JCrNuRrm(m3/43JN/guSru(N/3eg/4C4SC33NRmrgm//C3S/RJeSm>gN3(4gS3>4urr>(R3NemJh>3uurJ(S?u4gJSCgS4R4(gm>gR3r>muRR3NJmJgu3u4>J(R4Nhr4(R,>4N/rCmujmJgRHJe(/uCmS(RgNeU>gR3>C3JrRgN!m3g/3JmmJu>(u(r>(e >eCJ>:/SrRm(;!ue//SCSSuR4N(mgge3R4CJ>>R(cmggA3/4/S7>SuurNe(ieee/CCCSRRR(Smm4/JSC/SuRS(cmNg(3gCCSS>CumrRgJ1m4BJ3RSNRrS(e!Ne>/gCeS4RC>(mRgm3mCSS3RSNJQSr/3N4(JgRuu4r>(>aRCJ/m>5u3rN(J;SeuuN>SSgReN4iJg>/i4rJmR>N3m/gJ3(4uJN>(ugm3(4}Ce>/RCrSmrZ(3!>eJ/SCuS(R(NgmeC33C4>JR>rNem.g33/mueR/>CruC>C(3zJe3JWSRrSNmh!e3(RA3CJSJ>CuSgg/344JC>>4/u>mS(Rr44N/g>3ru(RU(eg/emRC4S4RCNJm/eSC3SgRJNSmu>egN3S4gJ>grr>g3WremJ6TN>iugr3nueR/(CgSe/uRF(uRWgR3J4uR3N4mJgS3um4e>Sx>RJRrSgN;//r>Suwr3(/ugRggr/J(eRg(Jm4gC3>i34JS(RSJSm3(m3J4(meu(rr(e{4eC(J/>>/S(R3Nre//(CSSuRNCuuemN(m4CS/>RurrmRd(/3SegJ/>erN(CDgee/4a3CCSCr/;#e</3C/SJRSNurN>N3gC3J4>Cu>JNr>g/3Se/JOCNSe(u,Re(/gCeCVSRRCN4rdNNm/S/R/NJmSgu3N4(43+eu4m3(>6Rer4JJe>3S(r/N4euJMC(SgReCrN=0Se3m5CSSSRuN3m33SCNJN>(ugJNregDOme/YF>SuSru(3 3uumgC/SK>CNSg43m4>JR>r4Cuur(gN4JS4>uuNr(C4N4mReN/JCmSRrSNrmu(N/u4uSJReN(regC?m4e/mRNrrgJ3d43J/3(CeuRr4Lgeg/eC4SCR>NRS(>m/3C3S/RJNSmugNm(r(Je>ruCr>(RN3Ig44/Nu/ru(SaueNgNmmSer/NCm>gR(33SCSSu>CN3rCgg4(J(>guer4(Cg>RrNrCmN&r3(/}JRNgN3eC/JmRCNeV g433g3Jr>>N2mSSN4uJu>Nu(rg(e04eC/>CRuNRm(;c3r/e//(4rS4R9N(m(3C4CJ>>RurrmgGSuN/JS>SuurN((cgeeuNmCS>rCNrmmeP(u3(CCSgCRJ(mJg33z4gJg>3uCm/lm4JJ3>/uJu/R4(Re(/RCeS4RCC/Nmrmg>3uS3RCNJmSguN4B>C)JR4NS>Rr(/t4Jf>bu3r/(4TSeu/NC(SmReN4mC>mg>3>4RJu>SNNgJ3r4uJN>(emSrrrurK3emJSCgSJRNF/eR/SCuSN/vRNNemmgmrr4/Ju>?urg33(4JJS>uC33u4NJ(m(/C>WSRRrNmuSmNe4/(SSReNNm(gggZLC4gJ3uRmr(m3{43g(JNCeu(Cm(uMger/rerS3Rm(SmggJ3NSJRJNSmue#3(4gJe>4N/r>(R1rr4euJ4euu/RgN4eNJSCgSeR4>nNmm/evmg4rS3R(N(Rggr3Ne>>gN3r4(CG>rgeJJgC/uMRJ(umg/u>/S(RgNeS(m4e3/74J33RuNumNg/3/N(>Numrg(e 4rre3J3>/SgRrNgdu/JCgSuRNN(JRm(gm3gJ>R3urrmg!um6J4?/euurg((Tgeege{/S>r(NrmmeWNu3CCNJ(RSNSmu(Rj>4r>CN rR(rwmmSeNJ4>(rS(uvNe(/4RSS4RCN>dJr>3mC3S3r>NJmugu3(4(J>/ru4rC(>/(erJ^>K(3NS(J0Neu/NC(S4Re(>3Sg>/t4rSuR2N3m/4JeN4uJe>(uCre(>!CC>4mCru/ro(SY/eN/SCCC4R(N4meeg3C4RJRR3ummSrN3/4JJSRJuNrg(g/e3>/CCrSRRrNm:/e3JS>>SSRgNNmRgg3e44uCSruRm3(m3J43JS>J(SN((NL4eg/>C4SmR>(J/mgm//C3u>RJNumuge3(4>er>4uCr>e(cr4WJ7RJNCrJ(NAuer/(CgSem4NCm>gm3rC3SpRNN/mJgR3u4eJ(>guer4(C/>CH/r>Ju,r3(/tSeS/uCCS(R4NemRgC/!4RJrR3NImJg/3S4SJu>N((mS(eFReC/>CRSmRme)3(e//NCSSgRNNrmgeeuR4CJr>RNgrmgJ334/Ng>Su(rN(e-gee/4RCR(RR(Pmme//3CCSJRSNemNge3g4CJ4>>u>rRRRzm4!J3>JuJrS(u9N4(/gCeS4RCrCmRgr3mCMS3R/NJ/Se(3N4(Jg>ru4rm(>.RC3/m>Tu3r/(JWSeuJgCeSgR4N4O3g>3R4rumRSN3mJgJ3u4uJg>(N4mr(4yre>JSCrSmrG(3:ueJ/uCuSeR(N4me44eR4>Jr>rNam0gS3/>JCm>uu(r((eheeC/C>/4/Rr(/z-e3//CSSSRgNNm(CN3e44JC>RuRrr(m3O>mJ/>JuSru(NH(eg/em4SCR>NRmrgm/2C3S//rNSmNgN344gJC>4uCmN(R!remJ3>3u/rJ(SNSeN/(CgS4R4NCm>e3ee4mScR3(SgugS3e4NS(>guer4eC/(eRJ/CmuSr3e(DJ4NS/CNS>Rggmm4gC3>4RSS>mNSm3gS3J4NJuRNN>rg(RA4C>/>CrSrm3ge)3e(/JCRSuRNN(3ge334CXJ>R/ur3Sg*/JmCJJ>4uumu((sgeeJ>m/S>rSNr/3e-/3C/uuRNNumrg(Jg4eJ4>CNrmu(r3g4bSm>/uJrS(u3Ne(/RCeuJRCNrmRerJeC}SuR/(rmSg43NR(Sg>eurrCeJXR4R/mR.urr/((MS4//NC(SgrCNRmCe33RCrJmREN33/ge3S44JN>>ug)r(43RCd/R>SSmA((3T/eJ/SC(SNR>NgmCg43R4>SmRSummNg33C4JJS>u(NP/(gUme4J3C>(/Rrg39Re3/eCJurRuNNm(e4/u44SJ>>(Rrr(m3-CJS4>JuRruguh(eg/e>>N(R>((mr4m/YC3S/RJ(3mug>3(C/Je>>uCm>e(Vr4SJ{R>u/re(SJuer/(CRSem3NCKCgRJX>/S&R(N/megS3u4Nu(S4uem#(C3/eRJ>Cm(;NJ(/2eeS/CCNu/Rg(eJRgC/34RS>>mNNm3e/u%4SJ4>NNmrg(C944R/RCRuSRm(ui3e//JRSSCRNNRmggm34C>J>RmNrrmg(33CSJJ>SuumgeB8g43/4>RS>RRNr33e3/3CCSJrNNumNg(3gCuJ4R3u>mN(r334fS35uuJre(u37e(/rCe(433N>t/gr/(CGNSR/(u3qgu3>4(Jr>eu4rCe>3JerJu>du(r/e(<SCuJrC(SrRe(2mC4/3RCruJRGNNm/4(3S4CJNR(Nmre(mPC4e/R>/Smm/gCE/ee/S>uSNR(Ng3e233CC/JRRSum3ug3/SCoJS>>uNmC(g6ee4/C>rSRrSNm2/e3/SCJuNreNNmrgg//44JC>>(Rmm(m3(43Je>J(eruggO>egJ3C4NuR>NRmr43/4C3SCRJgSmugN3(C44e>4Nur>g>DremJIRJN4rJ(mxuCN/(CgSeR4(Cm>eS3rC4SyRJN/wJge3u4>J(rJuem3(C3r4N/r>Nu%r4(/dJeSSu>(S(RmNeD3gCS34Ru2ruNYmeg//R4SJu>NNe//(e3JeCS>CRSrRmg/{Je//RCSNuRNN(mgeCJ34CS(>R(rrmgA334/S>>Su>rNg/wgeC/4>CurRR(SmmC3/3CeSJrN((mNgr3g4rJ4>Cu>FRef9m4(J3>euJmu(u3gR3/g>3S4mSN>mRgrJ3CJS3RCNJpRgu3N4(S4>4u4mu(>/Ner/m>xu3rJ(JnCeuJTC(S4Re(4zCg>/J4rurRINgm/eu3N4uJR>(urre(4MCC>JmCruNr;(gK/43/SRu>gR(Nmmee33CC(JRRre>mAg(3/C3JS>>uNmeg(fe43/C>3SRRrNm/1eg//C4SSR>NNlggg/CC4JCRSuR^B(m3<43SS>(uSrr(N3eeg/eC4uRr>NR ggmJ/C3S/RJNSmmgN3r4gSJ>4uRr>gR(SemJN>3u>rJ(Cju>NJNCgSmR4(Jm>CY3rCmuSR3NgmJe33u44J(R4(ur4g/Z>Ce/rCmux<3gRtJeC/uCRS(muNem4e/3>CSJrRNNjmSg/3eC/Ju>Ru(SS(e%CeC/RCRu/SS(OL3e/(mCSSNRNNCuRge344C4N>Rumrme//44/J4>SNgrN((Ag4CgNCCuSRRg4mmeb/3R/SRRSNRmNgm3g>NJ4>C(JrRgNhm4gJ3>uuJrS(m{Ner/gCCS4RRN>/Je/3mC(S3JNNJmugu3e4(J>/ru4rC(>(3erJ >huuS((JxSeue=C(SeRe(>3Sg>/S4ruCR=N3m/4J3>4uJR>(umree(ACe>JeCruNrL(go/eN/SRuS>R(Nmmee33CCgJRRr(Jmqg(3/CCJS>>uNrCgJ&ee4/C/RSRRmNmJv4J//CeSSrRNNmegg/C3CJCRJuRG4(m3Y43u/RUuSr>(NhregSNC4uRrmNRnNgm/NC3S/RJgSm(gN3m4gS3>4N/r>eR/eemJg>3u4rJ(uhueNJJCgu+R4Nrm>eu3r>m>/R3NemJg43uCCJ(rgrSr4g/;>4S/r>JuZr(>(}JeR/uCNS(ReNem>gC3>rRJr>mNwm(g/3J4SJuFNu(rg(e^ReC/>CRSrrg(fpge//>CSSNRNN(mCge/34CSt>RurrmgV3N4/JC>SuCrN(()geeJJCCuJRR(3mme,/3C/u7RSNumNgg3g4eJ4m/u>rR(rKmCNJ3>/uJ/NRNNed/gm/CCeu^R4N3r/e3334mSuRJuum((C3ueCS/u4me(>dRergJ/u>euN>CSu^3gm3rCNSN>mNe}.3r4rJmR}N3m/gJ3S4uJ(>(ugre(4hCe>S3(rSmrS(3Q/eJNe/JCCSSNgmRg43C4>e6J(Reuug3344JJS>uemuurC(RmCee3mC/Rr(uc*e3//mNCJS3RuNeCC3eC3JC>>uRuSm3(m:rgSa4eNrN(NZ(eg/eC4SC^S4RmreS/IC3S//g4gurmJSe4eJe>4uCr>(R9r4((d>3u4rJ(S*urNeN/CC/SrRSNCmC3m4mSnR3N/mJgSSeNNJ(R/uer4(CNF0/4NJJe/uNrN((*JeJCNSmRgNem4rANumG4RS3>ruNmS3J44Ju>Nu(/mrg(rPJgR/4SrmF(Y}3e/(v/JC4Se>>J4mrgr3m4CJCgmJ/r>(4yuer>SugrN((Mg&(gmJ/S>r/NrmmedN(/S4SS3>4m(g(3g4eJ4>Cu>RRCR?m4SJ3>/uJJeCeNmoS/eCeS4RCN>mRgrNgmIS3RCNJmSguN4P>CzJR4NS>Rr(/#4/m>Su3r/(JuBm4g>/CSeReN4mCg>3R4reR3lN/m/gJ3S4uJN)(Cg/e(C+Ce>/RCrSmr^R4S/eJ/CCuSNR(4CNgmgge334%S/N:mLg33/4JJSbuCN4((g3Je4/CC>43SJr((SRSe33mCJS(eem(g>3e44JC/y>/NNmJ3B4(J/>JuSJuR((emRe(/rSCrZNRmrgmNN/lCtS(NSVugN3(4g(C/CCru(rSg!Wr4u/mCN/NrJ(39ueerCS4R4NCm>gR3r4mN>33NJmJgS3u4NJ(Sge4/4(C3SeR/rCm4SSNr4((r(grJf4>Rg(um4gC3>mv4RS3>ruNmSNujuee/m>>uC(e+4eC/>>/C4Rm(LX34SCuCSS4RNNrmgge34>Cuo>RNJrmgu33CuJJRNNCrN(Rwg4R/4CCS>RRNmmmeu/3CSSJRNNutN4J3g4rJ4Rgu>rr(r/343J3>guJrm(u2Ne(SgCrS4r3N><JgrJ/CKuJ/CNJmCgu/C4(Jg>eN>//(>3uerJR>0u3r/gu3reu/mC(SCReN4mCer/>4rSeRKgNm/gJ3S4uJ(>(urregS,Cer/R>rN,rB(Nv/ee/SCCSNi((7megm3C4RJRrJum}&gg3/4gJSrNuNr((g3CeR/C>/SRruNmH5e3S/>NSSRCNNmRgg/>44SR>muRmu(m3m43J/>JuSm4(N8Reg/CC4SRR>(m3Bgm/(C3SRRJNSmu4N/u4gSV>4N/r>eUUrC3SJ>3u4rJ((ZueN/(>4gJR4(Sm>4(3r4mSGrJ(rmJgr3uCCJ(>guem>gR >4g/r>Ju!r3(/bJ4S/uCRS(rJNem>gC/>C/JrRuNhm(g/344SS(>4u(rm(e3/eC/>CRNrrJ(,Age//4CSSrRN(eJ/ge//4CuJ>Rurrme//>4/J>>SN>rN((.g4CJ(CCuNRRgummeX/3C/SNRSN>mNe33g4CJ4RCN/rRgStm>JJ3>euJmNgCKNer/gCrS4RCN>3R4/3mC(S3ReNJ3NguJN/eJgRDu4m/(>3rerJmAJu3rg(J/Neu/RC(ug3NN4.3g>JR4rS3RA(J=ygJ3C4uJr>(ugree43>e>JSCruNrw(4B/4u/NCuSrR(gSmeg43CCrS4>rNgmheR3/4JJSR((3r(g/WeCN/CC>SRRr(msLeg//CRSSR(NNx(>C3eCkJCrCuRmu(mSTCJJ/>euS%C(N/CegJemRSCr/NR3mgm/uC3uSRNNSm>gN3r4gJe>4(CoN(R3uemJ(>3NurJgNVeeN/mCgueR4NCm>gR/-4mS(R3NSmJgN3uCgSe>gN3r4e3 >eR/rRmNNr3(4VJe>/u>eS(r4gSm4eS3>CDJr>mNUQJgm3J4rJuR/u(rg(e<44N/>>uSrre()GJe/JJ>JSuRRN(3mge//4CS>RdurmNg0J/4/Je>SN(dJ((3+eeJ3CCS>RRgrB2eI/eC/SCRS(gmNeeJ34eSJ>C(SrR(rkm4y((>/uCrS((ZNee/g>C>CRC(umRee3mCnS3m/NgmSgr3NChJgR>u4mRgCPR4g/mRuu3r/(J3N4>/N>/Sgm(N4mCg>/m>gJmR>N3P(gJ3S4uSg>gugmN(4&re>/RCrSmmR(3kCeJJ3CuSgR((gJ>g4/J4>SJ>rNgmpeJeJ4JJR>uN3r((gdeC4/rC>uNRr(gWv4S//>uNyRu(%m(gC3e44JCRrNerrg43yC>J/>JuSm(gNW(4S/eCRSCR>NR3kem/)CrS/RNNSmugN3(4eJeRJuCme(R3temS}0Su/rC(S3/eNJwCg(e3UNCMSgR3m4muuR3(S0JgS3r4NJ>>guer4eC/LeRJ(Cmuer3eS=JCS/4CNuBRg(/m4e>3>CRSm>mNgm34S3J4RJuRNuCrgg3:4CC/>>XSrm3g3G3eC/JC>SuRNN(3gem34CSJ>RNurmggI/JC-JJ>ruu s((qgeeJ>>4S>rgNr3ee%/3C/uuruNuQ/g(J/4eJ4>Cu>mg(r3g4sJR>/uurSguW>e(J{CeNeRC(umRCrJ>CbSeR/gemSgm3NCeJe>eNJrCg3dRer/mrwNgr/(>YSer/NCeSgme(3mCeu3RC(JmreN3Q/gu3S4RJN>eugm/(43C4J/R>NSmW3(3U(eJ/4C4SNRCNgN3g43>4>JR>rNJuug33/4Je>>uu(r(eggCe4JSC>uJRrg3=*C34RCJSRRuNmm(4u3e44Su>>NgrrgJ3P43J/>JCuru(m{(4J/eCCSCR>((mreg/}CNS/RJNSmueD3(C/JeRkuCr>(R1rmmJy>4u/rN(SBueN/(3(SeR4NCmRgR3r4mSuR3N/mJgS3(4NJ(>gCgJ3(C3JeR/rCmeRSNrj(gRmg4/mS(RmNem4gCN33CemJ3>>uNrN3J4CJu>Nu(JJRrgJRreC/3CJRm(g 3e//JB(44S4RCN3m(g33rJ>>Rurrmg//(4/JJ>SuCSS((8eee/RCCSRRRNmmmeSgNC/SJRSNgmNgg3g4Rem>Cu>rRg/hm43J3>/C/rS(uPNeg/gCeS4rRgumReV3mC3S3R/NJ3S<(3N4eJg>Cu4mP(>/R/i/m>/u3rS(JYNeu/>ReSgRCN432g>3r4rJmRZNuu(gJ3S4uSC>(ueree4gRe>/mCrSmr)(uI/4uJRCuSeR(Nemeg43C>>Cm>rN/mBgS3/4gJSruRgr((C eeR/CCrSRrSrJG-eJ//>JSSRNNNm4gg3RcmJC>>uRmr(m3343JN/guSru(N3>eg/4C4SC33NRkHgm/9C3S/RJNS/4gN344gJe>4uCr>eReaemJJ>3uurJ((*ueNeJCgS>R4Nrm>gR3rCmgJR3NSmJg(3u4eJ(>gCgr4(C9>er/rCmuqrS(/MJeS/uCmS(RgNeSRrrgr3/4JJR4(NNrC3J4CJu>Nu(/>Rr(RDmer/>>(Rmggp3e//Jm44rSS>CJrm/g>3rC!dr>>u/rugS3N4/JN4SS>C4(Sm4eR/rS>RRNrmme:/CC/SJRSNu(>g(3g4eJ4>Cu>rRer3C47J3>/uJrS(gyN4eJNCeS>RCNRmRgr3mCauSR/NJmSg(3N4eJg>m(SrC(>!R4u/m>3u3rJ(J%gm4/NC(SgrqN4m>g>/33JJmR!N3mCgJ3u4uuNu/ugr4(4WCe>/mCrSmrS(3LJeJ/NCuS(R(Ngugg43C4>Jr>rumm}g/Sh4SJS>uNg1&(go4e4SrC>SRRrgmg/e3/JCJSuRu44m(gr((44J>>>NSrrgM3c4/J/>(Ceru(Ni(em/eCCSCrrgNmreA/DRSS/RJNSmuyS3(44Je>4uCr>(R3rr/J%>/u//((ST(eNJeR3SeRCNC3mgR3r4mNZuJN/mSgS3N4N(C>g(eN>(C}ReR/mCmeCr3(gN3eS/NCNueRgN4m4g>3>C34J>mNcm3eS3J4uJuRg(lrg(4y4Cr/>CRSrmmgCn3eJ/JCuSu34N(;4ee344RJ>ruurrmgdJ3C3JJ>Nuurg((a>eeS4>RS>RmNrW3ei/gC/uJrmNum(g(NJ4eJ>>Cur/m(r364HJJ>/uJrS((Sge(/4CeSCRCN>mR4AuRCoSSR/eNmSgu3N>(SS>euRrC(m:RC3/mR/urr/((oS4//NC(SgRegJmCgm3RCYJmR/N3//e33S4gJNr9ugr>(43R4u/R>/Sm/4(3</eJSSCRSNRCNgmRg4/r4>Sm/(ummug3u44JJS>uNg/3(gXme4S/C>SRRrg3Bee3/eCJ(/RuNNm(e4/r44SJ>>4urr(m3-43S3>Jugru(rs(e4/e>4SmR>(6mr>3/<CuS/ru((mug43(R(Je>4uCn>e/zr4JJE>uu/mJ(S3(>R/(CRSerJNCm>gRJK>CS9R(N/m>gS3u4NSe>muem3(C3ueR/rCmuwmy(/F(eS/>CNSeRg(eIegC3m4RSE>mNSm3C//34SJg>N4urg>3c44CSuCRu3RmguL3e//J>NgJRNNCmgC>344CJ>rRN4rmgS334NJJR(uumggC:ger/4>gS>RRNrmm4(/3CNSJRNNumgg(SgCNJ4>mu>zN(ruC4TSJ>CuJre(uuhe(/gCeN4m(N>L/gr/SC)uSR/(uSRgu3>4(NN>eu4rCgrS(erJN>=(Jr/(J?S4(SFC(u6ReegmCg>3R>iSJRpN4m/>C3S4uJN>(Nure(mWC4u/R>tSmm6(>}/e(/Sr(SNR>Ng%CgC3CC3JR3gumm,g3J/CNJS>4uNr>(g3>e4JR3uSRrSNmSge3//CJuN/rNNmrggJ144JC>>NmS((m3g43(4>JuSruggSJegJ/C4eJR>NRmrgmJCC3S(RJNRmugg3(CgSJ>4umr>e(6r4SJym3NgrJ(gku>R/(rNSe04ggm>e33rmRSD3eN//JgN3u44J(>Rue=r(C3>4C/r>Ju^mN(/aJeS/uJSS(RRNem>gC3>4Ru5/gN{m(g///4SJu>NNeS3(e33eCugCRSrRm(:Sre//gCSS>RNNgmggeeg4CS/>Rurrmgw334/eC>Su>rN(r?gee/4>RuJRR(Nmm>m/3C/SJRS((mNeG3g4rJ4>Cu>rR(mDm4gJ3>SuJrr(uI4er/gCeS4eJN>mrgrJ3>eS3RmNJ/(gu3N4(ug/Ju4mg(>34erS/>^NJme(J3/euNgC(SgReN43Jg>/44rS3RENJm/gJ3N4uSS>(NSre(4nC4r/mCrurrt((1/eJ/SCuS(R((Nmeeg3CCCJRRrNSmTgr3/C>JSRJuNmemeae4g/CsNSRRrNm/z44//>3SSrJNNt4gg/C>(JCRCuR3>(m3k43SSReuSmu(NSmeg/eC4uRRmNRqmgmNgC3S/RJ(NmNgN/e4gS/>4uCr>(R/CemJr>3NSrJ(N,u4NN4CguNR4eRm>eC3r>3ueR3(7mJ>r3u4NJ(rgg3r4ged>4C/rR/u)mJgNLJ4J/umrS(RgNeQ>e(3>CRJr3(Nsm3g//uCuJuR(u(Jb(e?4eCS>CmSrm3(z=>e/u3CSNur>N(Q4ge/>4CSu>Rur%3gU3m4/Su>Su(rNg(SueeJ(CCNNRR(>mm4//JC/u3RSeSmNg(3g>eJC>CN4rRg>%mC-J3RSNrrSgSAN4</gCeS4rRgJmRer3mCeS3R/NJWNeu3NCgJgR/u4rC(>FR4C/m>ru3mJ(J)NeuJNm4SgrNN4mRg>/C4rNmr/N3mmgJN/4u(r>(N4(/(43ee>SuCrSmrAe33JeJJ/CuuSR(gJme44/34>SC>rNRmd4e3/CJJ(>uNJr(eJne4g/C>rNSRr(Rv&>4//CJSSRuNRm(e(3eCNJC>>uRrrgm3 4mJ/R3uSmS(N3(Ru/e>(SCG/NR=>gmJ/CrS/r3NS/SgN3(4guerJuCm4(R3>emS.>3NSrN(S3SeNumCgSeR4(RZegR/r4m(gR3N/mJeN3>4NSg>ge3r4(CT>eRSeCmurr3gJHJeN/u>Ng4Rg(Nm4Rg3>CCJrmmeNm3gm3JrSJuD/u(m4gJc44e/>RuSrRm(;/3eg/J>/SurSN(/RgeJ4CJJ>RCurmRgH/u4/SJReuumJ((JReeJgCCu>m4Nrw>eHJNC/SNRS((s>g(/N4eNR>Cu>rRere34dJm>/N3rSgglN4e(3CeueRC(emRgr3mC%uSR/(3mSg(3N4eJgmeNRrCg4QRC(/mRmu3mSgJFS4S/N;3SgReN43CeS3RCRJmRmN3xugJ/NCgJNR(ugJ3(4OCe>JmRJSmm3(3SCeJ/SCuugS(NgVCg4Se4>JR>r(3Ygg3/u4J(>>uuNr((gZre4J4C>NnRr(3MD43/CCJu/Ruegm(e(3eC>S4>>N>rr4r3s43J/rJN4rugus(4(/e>4SCrrgJmrem/+CeS/RJNS{(C/3(CeJeRJuCr>(R/WC(J^RJu/r>(SWueN/(>>SereNCMrgR/K4mu%R4N/X3gS3(4NSN>ggex/(C34eR(>Cmegr34/33eSJJCNgSRg44m4eC/-4RS>>m(um3gm3JCNSr>NNNrg4>y4eC/>RR4gRm(mq343/J>(Surg(gmgee34CgJ>>Rurrmgm33C3JJ>Nuurg((&g4>/4>CS>reNrmmejJJ>/SJruNuJRg(3g4eJ4Rmu>mR(r3m4US/>/NJr>(u3ue(S3Ceu4RC(r(rgr/mCzgCR/NJmS4u/r4(Sg>eN4rCgmwRCaSJ>HN/r/43*Seu/N>eS4Re(>mCRS3R4rJmr/(3m/eN3SRJJN>(ugmCgr*CC%/RnNSmrW(3E/4S/S>uSNrCNgmCg4/C3uJRRRum//g3//4JNSRNuNmN(gS#e4ueC>(RmeNmzme3umCJguRu(N3/gg/g44uh>>N3rr(m3N43Jg>JNkrugu^(CgSuC4uCR>(4mreR/:R3ugRJ(SmueN3(CSJeRsC6r>gmoremJB>/u/rg(SBuRN/(CgSer3NCm>gR3rrmS=R3N/megS3u4NJ(*guer4(C3CeR/rCmuH/3(/ZJeSJ/CNS(RgNeJ4gC3>4RS>>mN m3g/(S4SSu>NNerg(4^4eC4(CRuCRm(hw3e//JC4uoRNNmmgRN344>J>>murmJru334/JJ33uur(((/g3C/4>JS>rJNrnre}JJCuSJRRNu/eg(3g4eu4RCu>mN(r3g4kSS>/NumS(u3ye(JuCeS4RCN>7>gr/gCKSJR/NumSe(/(4(S/>e4SrC(>sRCrS(>?uCr/(RES4g/N>euNRe(umCRS3R4rJmr/eCm/gm3S>uJN>(ugmCgm<C4e/R8NSmr1(33S4C/S>JSNm(Ngmeg43C>gJRRgummrg33S4JSSRSuNms(g/Je4JuC>umrSNm;4e3N>CJSSRugN&Ngg/J44Su>>(lrre3Ne43JR>J(3ru(NI(44NJC4u(R>4gmrgm/Q>Ju3RJ(3mu>r3(4gJeR>((r>gCGrRRJ}>3u/rJgr-u45/(>NSeR>NCG>e>3rCgSL&JN/mRgS/(CgJ(R/ue3e(CU>eRSr>muhrC(/!ReSJuCNueJ3Ne<ugC/R4RJr>m(/S4g/3m4SSN>Nu(rggC3(eCJeCRumRm(*93e//gCSSmRN(SmggC34CCu(>RN(rmg/334>JJRSNCrNgOfg4r/4>JS>rmg4mme4/3ruSJRSNu3NeS3gCJJ4Ruu>j5(r/3CRJ3>RuJmN(u2Ne(/gmmS4ruN>mmgr/3C9uJuJNJmmguN94(Jg>e(4me(>3gerJ4>yNSr/guoCeuJ/C((NReN4mCerJe4rS>RZ4em/gJ3SC(Jg>(NNre>/HCe>/RRFuSrfgGX/>J/SCuSNR((Smeeu3CCCJRROum{+>S3/4RJSm(uNm/(gJeru/C>NSR3uNm/re3JSC(SSrQNNTmgg3e44uCrSuRme(m3C43SR>J(Sr>(N3/egJSC4eaR>(R33gm/4C3uRRJNmmuCN/C4gSJ>4g3r>4SZrC3SJ>3uRrJ4JjueN/(RgumR4(Nm>eg3rCmSzrJ(NmJec3ureJ(>guem>ehV>44/rc/uKr3(/3ueu/u>SS(3CNem4gC3>C>JrR4Ndmmg/3u4SSuRRu(m/(eu(eCJ(CR(rrN(L&Ce/NJCSg3RN(e33ge/u4CuS>Rurrm4HeJ4/Jr>SN)rN4>KgCe(4CCu(RR(emm4S/3>/ueRSNmmNC>3gCSJ4RCN/rRgg!mCuJ3>CuJrS(N6N4//gCCS4RCN>mRe.3mC>S3RCNJmSgu/g4gJgRNu4Ju(>^RerSmRgu3rm(J33euJeC(u4J/N4qeg>Nu4rJmRn(JhmgJ/J4uuN>(ugreg>3re>JRCre(rn(3l/4uJCCuu(R(eJmeg43C4>uh>rN>mQe/3/4uJSR(N/r(gNaeR,/CC>SRmq(R;v4://mrSSRuNNm(eC3eCuJCRCuRrm(m3Y4CJ/>ruSrN(Nv(eg/e/eSCrgNR+(gm/*C3uSrSNS1/gNN34gJe>4(C#e(R3CemJR>3NurJgN3/eNJuCge3R4NCm>em/V4mSmR3g/mJgS3uCgJC>gNer4>J^>eR/rR3ugr3gJnJCe/uCNS(Rg>Sm4eg3>CrJrR3N!HJRC3JC/Jurmu(rg(e3>mS/>>>Sr/u({83e//e+eSurNN(m>ge3C4CJR>Rur/mg1334/JJ>SuurN(((/eeJuCCu>RRNmmmCT/uC/SrRSNCmNCJ3g>eSR>CNgrR(r1mR3J3RSN>rSgJ.NR3/gCeS4RCggmRe43mCrS3RSNJm44E3NCJJgr4uCr>(>,RerJJ/uu3r/(J/ueN/(C((grCN41(g>u34rNJRs(JgugJ/34uNJ>(ugree43ee>J4Cru>r6gR6/4u/CCuuuR(gemeg43C4>u/>rN>mje13/4uJSruNJr(gu6e4(/C>(SRmrgJ.,er//>?SSr3NNmRRR3eCeJC>muRrm(m3343J/jJuSru(N3Jeg/eC4SCJRNRGCgm/mC3SJRJNgu4gN3(4guR>Cu>r>gm/(emJR>3(<rJ(SGu4ggsCgu(R4N>m>gR3r4mSSR3NmmJgN3u4(J(rgrSr4ggp>42/rreuMmJ>CMJ4J/u>>S(RgNem4rN3>C4JrRrNtmJg/3e>NJuRJu(3u(4jCeC/>CRu/SS(0B3e/uXCuSNRNg((4ge/(4CJm>R(Srm4XeJ4/SO>SN/rNguwgCeCuCCueRR(Cmme4/3C/S(RS(/mNge3g44J4>CCCrR(rYm43J3>/uJrS(rbNe(/gCeR3RCN>mRgm3mC-S3rSN(mSgu3N4gJg>eu4mReu.Rer/m>/u3r/(J/44S/NC(SgRmN4m>g>/i4rSJJuN3m/gJ344uJ(>(ugSg(4ICe>/rCrSmrQ(JSSeJ/SCuSNR(Ngmeg4Ne4>JR>rN3m,g33/4JS4>uuNr((eiee4/C");local n=f.kJoWbEek;f.xnLWGKxr(function()f.rbFcrnVF()n=n+f.xzuamzDL end)local function e(r,e)if e then return n end;n=r+n;end local r,n,h=m(f.kJoWbEek,m,e,a,f.rxnFOHnA);local function l()local r,n=f.rxnFOHnA(a,e(f.xzuamzDL,f.kfBPiLUY),e(f.ezCJElgH,f.gZqozlQf)+f.PCXZgmxk);e(f.PCXZgmxk);return(n*f.lmpMBecK)+r;end;local k=true;local k=f.kJoWbEek local function z()local e=n();local n=n();local t=f.xzuamzDL;local d=(r(n,f.xzuamzDL,f.nYckZlDC)*(f.PCXZgmxk^f.OZJZGYIG))+e;local e=r(n,f.LrFSmuBz,f.RaFat_lX);local n=((-f.xzuamzDL)^r(n,f.OZJZGYIG));if(e==f.kJoWbEek)then if(d==k)then return n*f.kJoWbEek;else e=f.xzuamzDL;t=f.kJoWbEek;end;elseif(e==f.lmZZxGuP)then return(d==f.kJoWbEek)and(n*(f.xzuamzDL/f.kJoWbEek))or(n*(f.kJoWbEek/f.kJoWbEek));end;return f.WvuxWVAb(n,e-f.grrmMZOB)*(t+(d/(f.PCXZgmxk^f.KacgnkOr)));end;local c=n;local function b(n)local r;if(not n)then n=c();if(n==f.kJoWbEek)then return'';end;end;r=f.gTZsoxCJ(a,e(f.xzuamzDL,f.kfBPiLUY),e(f.ezCJElgH,f.gZqozlQf)+n-f.xzuamzDL);e(n)local e=""for n=(f.xzuamzDL+k),#r do e=e..f.gTZsoxCJ(r,n,n)end return e;end;local k=#f.YE_nESrg(o('\49.\48'))~=f.xzuamzDL local e=n;local function ne(...)return{...},f.ZcgqCGyw('#',...)end local function y()local e={};local m={};local a={};local o={a,m,nil,e};local e=n()local g={}for d=f.xzuamzDL,e do local r=h();local n;if(r==f.kfBPiLUY)then n=(h()~=#{});elseif(r==f.xzuamzDL)then local e=z();if k and f.MvMLYMYn(f.YE_nESrg(e),'.(\48+)$')then e=f.maWfZMLX(e);end n=e;elseif(r==f.kJoWbEek)then n=b();end;g[d]=n;end;for e=f.xzuamzDL,n()do m[e-(#{f.xzuamzDL})]=y();end;o[f.kfBPiLUY]=h();for o=f.xzuamzDL,n()do local e=h();if(r(e,f.xzuamzDL,f.xzuamzDL)==f.kJoWbEek)then local m=r(e,f.PCXZgmxk,f.kfBPiLUY);local h=r(e,f.oXmtfHyo,f.gZqozlQf);local e={l(),l(),nil,nil};if(m==f.kJoWbEek)then e[t]=l();e[u]=l();elseif(m==#{f.xzuamzDL})then e[t]=n();elseif(m==s[f.PCXZgmxk])then e[t]=n()-(f.PCXZgmxk^f.MQPjUFaS)elseif(m==s[f.kfBPiLUY])then e[t]=n()-(f.PCXZgmxk^f.MQPjUFaS)e[u]=l();end;if(r(h,f.xzuamzDL,f.xzuamzDL)==f.xzuamzDL)then e[d]=g[e[d]]end if(r(h,f.PCXZgmxk,f.PCXZgmxk)==f.xzuamzDL)then e[t]=g[e[t]]end if(r(h,f.kfBPiLUY,f.kfBPiLUY)==f.xzuamzDL)then e[u]=g[e[u]]end a[o]=e;end end;return o;end;local function j(r,e,n)local d=e;local d=n;return o(f.MvMLYMYn(f.MvMLYMYn(({f.xnLWGKxr(r)})[f.PCXZgmxk],e),n))end local function c(k,o,h)local function ee(...)local l,z,a,y,ee,n,re,j,_,b,s,r;local e=f.kJoWbEek;while-f.xzuamzDL<e do if f.kfBPiLUY>e then if e>=f.xzuamzDL then if f.PCXZgmxk~=e then a=m(f.gZqozlQf,f._bVyCiRi,f.kfBPiLUY,f.qglEVsho,k);ee=ne y=f.kJoWbEek;else n=-f.wFqbR_kV;re=-f.xzuamzDL;end else l=m(f.gZqozlQf,f.VEfJZkyw,f.xzuamzDL,f.QtPPmywr,k);z=m(f.gZqozlQf,f.sThkYBWG,f.PCXZgmxk,f.QLYXiAvq,k);end else if f.oXmtfHyo<e then if f.ezCJElgH<e then e=-f.PCXZgmxk;else r=m(f.lMxjOgvT);end else if f.kfBPiLUY<e then b=f.ZcgqCGyw('#',...)-f.xzuamzDL;s={};else j={};_={...};end end end e=e+f.xzuamzDL;end;for e=f.kJoWbEek,b do if(e>=a)then j[e-a]=_[e+f.xzuamzDL];else r[e]=_[e+f.xzuamzDL];end;end;local e=b-a+f.xzuamzDL local e;local m;local function a(...)while true do end end while true do if n<-f.AOOxfFjG then n=n+f.XKiWTuFH end e=l[n];m=e[p];if f.nEHdjego<m then if f.RtEPtXuI<m then if f.AInvOOVR>m then if m>f.kWgAQQgk then if m<f.iyXXMrxz then if m<f.FqLPbyna then if m==f.rtzbflYA then local n=e[d];local d=r[n];for e=n+f.xzuamzDL,e[t]do f.mEVLCoyc(d,r[e])end;else local o;for m=f.kJoWbEek,f.gZqozlQf do if m<f.kfBPiLUY then if f.kJoWbEek>=m then r[e[d]]=h[e[t]];n=n+f.xzuamzDL;e=l[n];else if-f.kfBPiLUY<=m then repeat if m~=f.xzuamzDL then r(e[d],e[t]);n=n+f.xzuamzDL;e=l[n];break;end;r[e[d]]=r[e[t]][e[u]];n=n+f.xzuamzDL;e=l[n];until true;else r(e[d],e[t]);n=n+f.xzuamzDL;e=l[n];end end else if m>f.oXmtfHyo then if f.gZqozlQf>m then o=e[d]r[o]=r[o](g(r,o+f.xzuamzDL,e[t]))n=n+f.xzuamzDL;e=l[n];else r[e[d]][e[t]]=r[e[u]];end else if m<f.oXmtfHyo then r(e[d],e[t]);n=n+f.xzuamzDL;e=l[n];else r(e[d],e[t]);n=n+f.xzuamzDL;e=l[n];end end end end end else if m~=f.rtzbflYA then repeat if f.FqLPbyna<m then local l=e[d];local d={};for e=f.xzuamzDL,#s do local e=s[e];for n=f.kJoWbEek,#e do local n=e[n];local t=n[f.xzuamzDL];local e=n[f.PCXZgmxk];if t==r and e>=l then d[e]=t[e];n[f.xzuamzDL]=d;end;end;end;break;end;local o,k,s,a,g,m;for m=f.kJoWbEek,f.gZqozlQf do if f.PCXZgmxk>=m then if f.xzuamzDL>m then r[e[d]][e[t]]=r[e[u]];n=n+f.xzuamzDL;e=l[n];else if f.xzuamzDL<m then r[e[d]][e[t]]=e[u];n=n+f.xzuamzDL;e=l[n];else r[e[d]][e[t]]=e[u];n=n+f.xzuamzDL;e=l[n];end end else if m<f.ezCJElgH then if m~=-f.xzuamzDL then repeat if f.kfBPiLUY<m then r[e[d]]=h[e[t]];n=n+f.xzuamzDL;e=l[n];break;end;r[e[d]][e[t]]=r[e[u]];n=n+f.xzuamzDL;e=l[n];until true;else r[e[d]]=h[e[t]];n=n+f.xzuamzDL;e=l[n];end else if f.oXmtfHyo<=m then for h=f.RFyrtom_,f._bVyCiRi do if f.gZqozlQf~=m then r[e[d]]=r[e[t]][e[u]];n=n+f.xzuamzDL;e=l[n];break;end;m=f.kJoWbEek;while m>-f.xzuamzDL do if m>=f.kfBPiLUY then if f.ezCJElgH<=m then if f.oXmtfHyo<m then for e=f.WahZCVty,f.voVqExwh do if m>f.ezCJElgH then m=-f.PCXZgmxk;break;end;r(g,a);break;end;else r(g,a);end else if m~=f.oXmtfHyo then a=o[s];else g=o[k];end end else if m<f.xzuamzDL then o=e;else if f.xzuamzDL~=m then s=t;else k=d;end end end m=m+f.xzuamzDL end break;end;else m=f.kJoWbEek;while m>-f.xzuamzDL do if m>=f.kfBPiLUY then if f.ezCJElgH<=m then if f.oXmtfHyo<m then for e=f.WahZCVty,f.voVqExwh do if m>f.ezCJElgH then m=-f.PCXZgmxk;break;end;r(g,a);break;end;else r(g,a);end else if m~=f.oXmtfHyo then a=o[s];else g=o[k];end end else if m<f.xzuamzDL then o=e;else if f.xzuamzDL~=m then s=t;else k=d;end end end m=m+f.xzuamzDL end end end end end until true;else local o,s,k,g,a,m;for m=f.kJoWbEek,f.gZqozlQf do if f.PCXZgmxk>=m then if f.xzuamzDL>m then r[e[d]][e[t]]=r[e[u]];n=n+f.xzuamzDL;e=l[n];else if f.xzuamzDL<m then r[e[d]][e[t]]=e[u];n=n+f.xzuamzDL;e=l[n];else r[e[d]][e[t]]=e[u];n=n+f.xzuamzDL;e=l[n];end end else if m<f.ezCJElgH then if m~=-f.xzuamzDL then repeat if f.kfBPiLUY<m then r[e[d]]=h[e[t]];n=n+f.xzuamzDL;e=l[n];break;end;r[e[d]][e[t]]=r[e[u]];n=n+f.xzuamzDL;e=l[n];until true;else r[e[d]]=h[e[t]];n=n+f.xzuamzDL;e=l[n];end else if f.oXmtfHyo<=m then for h=f.RFyrtom_,f._bVyCiRi do if f.gZqozlQf~=m then r[e[d]]=r[e[t]][e[u]];n=n+f.xzuamzDL;e=l[n];break;end;m=f.kJoWbEek;while m>-f.xzuamzDL do if m>=f.kfBPiLUY then if f.ezCJElgH<=m then if f.oXmtfHyo<m then for e=f.WahZCVty,f.voVqExwh do if m>f.ezCJElgH then m=-f.PCXZgmxk;break;end;r(a,g);break;end;else r(a,g);end else if m~=f.oXmtfHyo then g=o[k];else a=o[s];end end else if m<f.xzuamzDL then o=e;else if f.xzuamzDL~=m then k=t;else s=d;end end end m=m+f.xzuamzDL end break;end;else m=f.kJoWbEek;while m>-f.xzuamzDL do if m>=f.kfBPiLUY then if f.ezCJElgH<=m then if f.oXmtfHyo<m then for e=f.WahZCVty,f.voVqExwh do if m>f.ezCJElgH then m=-f.PCXZgmxk;break;end;r(a,g);break;end;else r(a,g);end else if m~=f.oXmtfHyo then g=o[k];else a=o[s];end end else if m<f.xzuamzDL then o=e;else if f.xzuamzDL~=m then k=t;else s=d;end end end m=m+f.xzuamzDL end end end end end end end else if f.DYFZDRUA>m then if f.iyXXMrxz~=m then local e=e[d]r[e](r[e+f.xzuamzDL])else o[e[t]]=r[e[d]];end else if m<=f.DYFZDRUA then r[e[d]]={};else if m>f.zwMALvs_ then repeat if f.XEFoMTiC>m then local a,s;for m=f.kJoWbEek,f.gZqozlQf do if f.PCXZgmxk>=m then if m>f.kJoWbEek then if-f.xzuamzDL<m then for h=f.gafRYQWI,f.WtwrYWJO do if f.PCXZgmxk>m then r[e[d]][e[t]]=e[u];n=n+f.xzuamzDL;e=l[n];break;end;for e=e[d],e[t]do r[e]=nil;end;n=n+f.xzuamzDL;e=l[n];break;end;else for e=e[d],e[t]do r[e]=nil;end;n=n+f.xzuamzDL;e=l[n];end else r[e[d]]=o[e[t]];n=n+f.xzuamzDL;e=l[n];end else if m<=f.oXmtfHyo then if f.PCXZgmxk~=m then for g=f.gafRYQWI,f.nrsYZuex do if m~=f.oXmtfHyo then r[e[d]]=h[e[t]];n=n+f.xzuamzDL;e=l[n];break;end;a=e[d];s=r[e[t]];r[a+f.xzuamzDL]=s;r[a]=s[e[u]];n=n+f.xzuamzDL;e=l[n];break;end;else r[e[d]]=h[e[t]];n=n+f.xzuamzDL;e=l[n];end else if f.gZqozlQf>m then r(e[d],e[t]);n=n+f.xzuamzDL;e=l[n];else a=e[d]r[a]=r[a](g(r,a+f.xzuamzDL,e[t]))end end end end break;end;local h;for m=f.kJoWbEek,f.gZqozlQf do if m<=f.PCXZgmxk then if f.kJoWbEek<m then if m>f.xzuamzDL then r(e[d],e[t]);n=n+f.xzuamzDL;e=l[n];else r(e[d],e[t]);n=n+f.xzuamzDL;e=l[n];end else r[e[d]]=r[e[t]][e[u]];n=n+f.xzuamzDL;e=l[n];end else if m<=f.oXmtfHyo then if f.kJoWbEek~=m then repeat if f.oXmtfHyo~=m then r(e[d],e[t]);n=n+f.xzuamzDL;e=l[n];break;end;r(e[d],e[t]);n=n+f.xzuamzDL;e=l[n];until true;else r(e[d],e[t]);n=n+f.xzuamzDL;e=l[n];end else if m>=f.PCXZgmxk then for f=f.cKTLhBAg,80 do if m>5 then r[e[d]][e[t]]=r[e[u]];break;end;h=e[d]r[h]=r[h](g(r,h+1,e[t]))n=n+1;e=l[n];break;end;else h=e[d]r[h]=r[h](g(r,h+1,e[t]))n=n+1;e=l[n];end end end end until true;else local m,a;for f=0,6 do if 2>=f then if f>0 then if-1<f then for m=45,91 do if 2>f then r[e[d]][e[t]]=e[u];n=n+1;e=l[n];break;end;for e=e[d],e[t]do r[e]=nil;end;n=n+1;e=l[n];break;end;else for e=e[d],e[t]do r[e]=nil;end;n=n+1;e=l[n];end else r[e[d]]=o[e[t]];n=n+1;e=l[n];end else if f<=4 then if 2~=f then for g=45,72 do if f~=4 then r[e[d]]=h[e[t]];n=n+1;e=l[n];break;end;m=e[d];a=r[e[t]];r[m+1]=a;r[m]=a[e[u]];n=n+1;e=l[n];break;end;else r[e[d]]=h[e[t]];n=n+1;e=l[n];end else if 6>f then r(e[d],e[t]);n=n+1;e=l[n];else m=e[d]r[m]=r[m](g(r,m+1,e[t]))end end end end end end end end else if 114>=m then if m<=112 then if m==112 then local m,o,k,a,s,f,b;for f=0,6 do if 2<f then if f<=4 then if f==4 then r[e[d]]=h[e[t]];n=n+1;e=l[n];else r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];end else if f>=1 then for h=10,83 do if 6~=f then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;f=0;while f>-1 do if f>2 then if 5>f then if f>=0 then repeat if 4~=f then a=m[k];break;end;s=m[o];until true;else a=m[k];end else if f>1 then for e=33,81 do if 5~=f then f=-2;break;end;r(s,a);break;end;else r(s,a);end end else if 1>f then m=e;else if f~=0 then for e=18,77 do if f~=2 then o=d;break;end;k=t;break;end;else o=d;end end end f=f+1 end break;end;else f=0;while f>-1 do if f>2 then if 5>f then if f>=0 then repeat if 4~=f then a=m[k];break;end;s=m[o];until true;else a=m[k];end else if f>1 then for e=33,81 do if 5~=f then f=-2;break;end;r(s,a);break;end;else r(s,a);end end else if 1>f then m=e;else if f~=0 then for e=18,77 do if f~=2 then o=d;break;end;k=t;break;end;else o=d;end end end f=f+1 end end end else if 1<=f then if-2<=f then for u=10,95 do if f<2 then f=0;while f>-1 do if f<=2 then if 0>=f then m=e;else if f>0 then repeat if f~=1 then k=t;break;end;o=d;until true;else o=d;end end else if f<=4 then if f==3 then a=m[k];else s=m[o];end else if 5<f then f=-2;else r(s,a);end end end f=f+1 end n=n+1;e=l[n];break;end;b=e[d]r[b]=r[b](g(r,b+1,e[t]))n=n+1;e=l[n];break;end;else b=e[d]r[b]=r[b](g(r,b+1,e[t]))n=n+1;e=l[n];end else f=0;while f>-1 do if f>2 then if f<=4 then if-1<f then for e=37,76 do if 4>f then a=m[k];break;end;s=m[o];break;end;else s=m[o];end else if 6>f then r(s,a);else f=-2;end end else if 1<=f then if f<2 then o=d;else k=t;end else m=e;end end f=f+1 end n=n+1;e=l[n];end end end else for f=0,6 do if f<3 then if f>0 then if 0~=f then repeat if f<2 then r[e[d]]=h[e[t]];n=n+1;e=l[n];break;end;r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];until true;else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end else r[e[d]]=r[e[t]];n=n+1;e=l[n];end else if f<=4 then if 0~=f then repeat if f>3 then r(e[d],e[t]);n=n+1;e=l[n];break;end;r(e[d],e[t]);n=n+1;e=l[n];until true;else r(e[d],e[t]);n=n+1;e=l[n];end else if 1~=f then for u=21,82 do if f~=5 then r(e[d],e[t]);break;end;r(e[d],e[t]);n=n+1;e=l[n];break;end;else r(e[d],e[t]);n=n+1;e=l[n];end end end end end else if 110<m then repeat if 113<m then n=e[t];break;end;for f=0,5 do if f<3 then if 0>=f then r[e[d]]=h[e[t]];n=n+1;e=l[n];else if f>=-2 then repeat if 2~=f then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;r[e[d]]=h[e[t]];n=n+1;e=l[n];until true;else r[e[d]]=h[e[t]];n=n+1;e=l[n];end end else if f<=3 then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];else if f<5 then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];else r[e[d]][r[e[t]]]=r[e[u]];end end end end until true;else n=e[t];end end else if 117<=m then if 117<m then if m>117 then repeat if m<119 then local m;for f=0,6 do if 2<f then if f>=5 then if f<6 then r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];else r[e[d]][e[t]]=r[e[u]];end else if f>2 then for m=45,62 do if f>3 then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end end else if f<1 then m=e[d]r[m]=r[m](g(r,m+1,e[t]))n=n+1;e=l[n];else if f<2 then r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];else r[e[d]]=h[e[t]];n=n+1;e=l[n];end end end end break;end;local f;r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];f=e[d]r[f]=r[f](r[f+1])n=n+1;e=l[n];r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);until true;else local m;for f=0,6 do if 2<f then if f>=5 then if f<6 then r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];else r[e[d]][e[t]]=r[e[u]];end else if f>2 then for m=45,62 do if f>3 then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end end else if f<1 then m=e[d]r[m]=r[m](g(r,m+1,e[t]))n=n+1;e=l[n];else if f<2 then r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];else r[e[d]]=h[e[t]];n=n+1;e=l[n];end end end end end else local e=e[d]r[e]=r[e](r[e+1])end else if 113<=m then repeat if m<116 then local n=e[d];local d=r[e[t]];r[n+1]=d;r[n]=d[e[u]];break;end;local f,m,k,a,g,b,o,h,s;local l=0;while l>-1 do if 2<l then if 5>l then if-1<l then repeat if l~=4 then o=f[a];h=f[g];break;end;s=o==h and m[b]or 1+k;until true;else o=f[a];h=f[g];end else if l>=2 then for e=34,72 do if l>5 then l=-2;break;end;n=s;break;end;else l=-2;end end else if 0<l then if l==2 then a=m[d];g=m[u];b=t;else m=e;k=n;end else f=r;end end l=l+1 end until true;else local d=e[d];local n=r[e[t]];r[d+1]=n;r[d]=n[e[u]];end end end end else if m<=137 then if m<133 then if 131>m then if m>126 then repeat if 130>m then local m;for f=0,6 do if 2>=f then if 1>f then r[e[d]]=h[e[t]];n=n+1;e=l[n];else if-2<f then repeat if f~=2 then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;r(e[d],e[t]);n=n+1;e=l[n];until true;else r(e[d],e[t]);n=n+1;e=l[n];end end else if f<=4 then if 3==f then r(e[d],e[t]);n=n+1;e=l[n];else r(e[d],e[t]);n=n+1;e=l[n];end else if f>3 then for u=12,73 do if 5<f then m=e[d]r[m]=r[m](g(r,m+1,e[t]))break;end;r(e[d],e[t]);n=n+1;e=l[n];break;end;else r(e[d],e[t]);n=n+1;e=l[n];end end end end break;end;r[e[d]]=r[e[t]][e[u]];until true;else local m;for f=0,6 do if 2>=f then if 1>f then r[e[d]]=h[e[t]];n=n+1;e=l[n];else if-2<f then repeat if f~=2 then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;r(e[d],e[t]);n=n+1;e=l[n];until true;else r(e[d],e[t]);n=n+1;e=l[n];end end else if f<=4 then if 3==f then r(e[d],e[t]);n=n+1;e=l[n];else r(e[d],e[t]);n=n+1;e=l[n];end else if f>3 then for u=12,73 do if 5<f then m=e[d]r[m]=r[m](g(r,m+1,e[t]))break;end;r(e[d],e[t]);n=n+1;e=l[n];break;end;else r(e[d],e[t]);n=n+1;e=l[n];end end end end end else if 127<=m then for n=15,87 do if 132~=m then r[e[d]]=(e[t]~=0);break;end;r[e[d]]=r[e[t]]*e[u];break;end;else r[e[d]]=r[e[t]]*e[u];end end else if m<135 then if m~=133 then local f,h;for m=0,4 do if m>=2 then if m<=2 then r(e[d],e[t]);n=n+1;e=l[n];else if 2<m then for u=39,78 do if 3~=m then if not r[e[d]]then n=n+1;else n=e[t];end;break;end;f=e[d]r[f]=r[f](g(r,f+1,e[t]))n=n+1;e=l[n];break;end;else f=e[d]r[f]=r[f](g(r,f+1,e[t]))n=n+1;e=l[n];end end else if m~=-4 then repeat if m>0 then f=e[d];h=r[e[t]];r[f+1]=h;r[f]=h[e[u]];n=n+1;e=l[n];break;end;r[e[d]]=o[e[t]];n=n+1;e=l[n];until true;else r[e[d]]=o[e[t]];n=n+1;e=l[n];end end end else local e=e[d];do return r[e],r[e+1]end end else if m<136 then for f=0,3 do if 2>f then if f>0 then h[e[t]]=r[e[d]];n=n+1;e=l[n];else r[e[d]]=(e[t]~=0);n=n+1;e=l[n];end else if-2<=f then for m=13,85 do if f~=3 then r[e[d]]=h[e[t]];n=n+1;e=l[n];break;end;if(r[e[d]]~=e[u])then n=n+1;else n=e[t];end;break;end;else if(r[e[d]]~=e[u])then n=n+1;else n=e[t];end;end end end else if m>=134 then repeat if 137>m then local m,f,k,g,h,s,a,o,b;local l=0;while l>-1 do if 2<l then if 4<l then if l==6 then l=-2;else n=b;end else if 1<=l then for e=11,73 do if l>3 then b=a==o and f[s]or 1+k;break;end;a=m[g];o=m[h];break;end;else a=m[g];o=m[h];end end else if 1>l then m=r;else if l>-3 then repeat if 1<l then g=f[d];h=f[u];s=t;break;end;f=e;k=n;until true;else g=f[d];h=f[u];s=t;end end end l=l+1 end break;end;local m,f;r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r[e[d]]=r[e[t]];n=n+1;e=l[n];m=e[t];f=r[m]for e=m+1,e[u]do f=f..r[e];end;r[e[d]]=f;until true;else local m,f,b,h,g,s,a,o,k;local l=0;while l>-1 do if 2<l then if 4<l then if l==6 then l=-2;else n=k;end else if 1<=l then for e=11,73 do if l>3 then k=a==o and f[s]or 1+b;break;end;a=m[h];o=m[g];break;end;else a=m[h];o=m[g];end end else if 1>l then m=r;else if l>-3 then repeat if 1<l then h=f[d];g=f[u];s=t;break;end;f=e;b=n;until true;else h=f[d];g=f[u];s=t;end end end l=l+1 end end end end end else if 142>=m then if m>139 then if 140>=m then do return r[e[d]]end else if 141~=m then local b,m,o,k,s,a,f;for f=0,6 do if 3>f then if 0>=f then b=e[d]r[b]=r[b](g(r,b+1,e[t]))n=n+1;e=l[n];else if f~=1 then r[e[d]]=h[e[t]];n=n+1;e=l[n];else r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];end end else if f>4 then if f~=1 then for u=16,85 do if f~=6 then f=0;while f>-1 do if 3<=f then if f<5 then if 2<f then repeat if 4>f then s=m[k];break;end;a=m[o];until true;else a=m[o];end else if 5<f then f=-2;else r(a,s);end end else if 0<f then if f>-1 then for e=40,52 do if 2~=f then o=d;break;end;k=t;break;end;else o=d;end else m=e;end end f=f+1 end n=n+1;e=l[n];break;end;f=0;while f>-1 do if 3>f then if f>=1 then if-1<=f then for e=24,60 do if f<2 then o=d;break;end;k=t;break;end;else o=d;end else m=e;end else if f<=4 then if 3<f then a=m[o];else s=m[k];end else if f==5 then r(a,s);else f=-2;end end end f=f+1 end break;end;else f=0;while f>-1 do if 3<=f then if f<5 then if 2<f then repeat if 4>f then s=m[k];break;end;a=m[o];until true;else a=m[o];end else if 5<f then f=-2;else r(a,s);end end else if 0<f then if f>-1 then for e=40,52 do if 2~=f then o=d;break;end;k=t;break;end;else o=d;end else m=e;end end f=f+1 end n=n+1;e=l[n];end else if 2~=f then repeat if f~=3 then f=0;while f>-1 do if 2<f then if 4<f then if f>3 then repeat if 6~=f then r(a,s);break;end;f=-2;until true;else r(a,s);end else if 2<=f then for e=20,77 do if f>3 then a=m[o];break;end;s=m[k];break;end;else a=m[o];end end else if 0<f then if f==2 then k=t;else o=d;end else m=e;end end f=f+1 end n=n+1;e=l[n];break;end;r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];until true;else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end end end end else local l=e[d];local u=e[u];local d=l+2 local l={r[l](r[l+1],r[d])};for e=1,u do r[d+e]=l[e];end;local l=l[1]if l then r[d]=l n=e[t];else n=n+1;end;end end else if m>=137 then repeat if 139>m then r[e[d]]=r[e[t]]*e[u];break;end;local n=e[d];local d=r[e[t]];r[n+1]=d;r[n]=d[e[u]];until true;else local d=e[d];local n=r[e[t]];r[d+1]=n;r[d]=n[e[u]];end end else if 144<m then if 146<=m then if m>145 then repeat if 147>m then local m;for f=0,6 do if 2>=f then if 1<=f then if f~=2 then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];else r(e[d],e[t]);n=n+1;e=l[n];end else r[e[d]]=h[e[t]];n=n+1;e=l[n];end else if f>4 then if 4~=f then repeat if 6~=f then r[e[d]]=h[e[t]];n=n+1;e=l[n];break;end;r[e[d]]=r[e[t]][e[u]];until true;else r[e[d]]=r[e[t]][e[u]];end else if 0<=f then repeat if 4>f then m=e[d]r[m]=r[m](r[m+1])n=n+1;e=l[n];break;end;r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];until true;else m=e[d]r[m]=r[m](r[m+1])n=n+1;e=l[n];end end end end break;end;local f,m;r[e[d]]=h[e[t]];n=n+1;e=l[n];f=e[d];m=r[e[t]];r[f+1]=m;r[f]=m[e[u]];n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];f=e[d]r[f]=r[f](g(r,f+1,e[t]))n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];f=e[d];m=r[e[t]];r[f+1]=m;r[f]=m[e[u]];until true;else local f,m;r[e[d]]=h[e[t]];n=n+1;e=l[n];f=e[d];m=r[e[t]];r[f+1]=m;r[f]=m[e[u]];n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];f=e[d]r[f]=r[f](g(r,f+1,e[t]))n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];f=e[d];m=r[e[t]];r[f+1]=m;r[f]=m[e[u]];end else if(r[e[d]]==r[e[u]])then n=n+1;else n=e[t];end;end else if m==144 then do return r[e[d]]end else do return end;end end end end end else if 92<=m then if m<=100 then if 96<=m then if m<98 then if m>=95 then repeat if m>96 then local n=e[d]r[n](g(r,n+1,e[t]))break;end;local e=e[d];do return r[e],r[e+1]end until true;else local n=e[d]r[n](g(r,n+1,e[t]))end else if 99<=m then if m~=97 then for n=42,91 do if m~=100 then o[e[t]]=r[e[d]];break;end;h[e[t]]=r[e[d]];break;end;else o[e[t]]=r[e[d]];end else local m;for f=0,6 do if f<=2 then if 0<f then if f>-1 then for m=39,98 do if f<2 then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;r(e[d],e[t]);n=n+1;e=l[n];break;end;else r(e[d],e[t]);n=n+1;e=l[n];end else r[e[d]]=h[e[t]];n=n+1;e=l[n];end else if 5>f then if 0<=f then repeat if 3<f then r(e[d],e[t]);n=n+1;e=l[n];break;end;r(e[d],e[t]);n=n+1;e=l[n];until true;else r(e[d],e[t]);n=n+1;e=l[n];end else if 3<=f then repeat if 5~=f then r[e[d]][e[t]]=r[e[u]];break;end;m=e[d]r[m]=r[m](g(r,m+1,e[t]))n=n+1;e=l[n];until true;else m=e[d]r[m]=r[m](g(r,m+1,e[t]))n=n+1;e=l[n];end end end end end end else if m<94 then if 91<m then repeat if m<93 then local f;for m=0,4 do if m<=1 then if m==1 then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];else r[e[d]]=h[e[t]];n=n+1;e=l[n];end else if 3<=m then if 1<=m then repeat if m~=3 then if(r[e[d]]~=e[u])then n=n+1;else n=e[t];end;break;end;f=e[d]r[f]=r[f](r[f+1])n=n+1;e=l[n];until true;else f=e[d]r[f]=r[f](r[f+1])n=n+1;e=l[n];end else r[e[d]]=r[e[t]][r[e[u]]];n=n+1;e=l[n];end end end break;end;r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]]=o[e[t]];n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]]=o[e[t]];n=n+1;e=l[n];o[e[t]]=r[e[d]];n=n+1;e=l[n];do return end;until true;else r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]]=o[e[t]];n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]]=o[e[t]];n=n+1;e=l[n];o[e[t]]=r[e[d]];n=n+1;e=l[n];do return end;end else if 94==m then if not r[e[d]]then n=n+1;else n=e[t];end;else do return end;end end end else if m>105 then if 108>m then if m~=105 then for f=32,87 do if 107~=m then local f,h;for m=0,5 do if m>=3 then if 4<=m then if m>0 then repeat if m<5 then f=e[d]r[f]=r[f](g(r,f+1,e[t]))n=n+1;e=l[n];break;end;if r[e[d]]then n=n+1;else n=e[t];end;until true;else if r[e[d]]then n=n+1;else n=e[t];end;end else r(e[d],e[t]);n=n+1;e=l[n];end else if 1<=m then if-1~=m then repeat if m<2 then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;f=e[d];h=r[e[t]];r[f+1]=h;r[f]=h[e[u]];n=n+1;e=l[n];until true;else f=e[d];h=r[e[t]];r[f+1]=h;r[f]=h[e[u]];n=n+1;e=l[n];end else f=e[d]r[f](g(r,f+1,e[t]))n=n+1;e=l[n];end end end break;end;local o,h,g,f,m,a,l;local n=0;while n>-1 do if n<3 then if n<1 then o=d;h=t;g=u;else if n>=-2 then repeat if n~=1 then m=f[h];break;end;f=e;until true;else m=f[h];end end else if n>=5 then if 6==n then n=-2;else r[a]=l;end else if-1~=n then for e=41,90 do if n~=4 then a=f[o];break;end;l=r[m];for e=1+m,f[g]do l=l..r[e];end;break;end;else l=r[m];for e=1+m,f[g]do l=l..r[e];end;end end end n=n+1 end break;end;else local f,h;for m=0,5 do if m>=3 then if 4<=m then if m>0 then repeat if m<5 then f=e[d]r[f]=r[f](g(r,f+1,e[t]))n=n+1;e=l[n];break;end;if r[e[d]]then n=n+1;else n=e[t];end;until true;else if r[e[d]]then n=n+1;else n=e[t];end;end else r(e[d],e[t]);n=n+1;e=l[n];end else if 1<=m then if-1~=m then repeat if m<2 then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;f=e[d];h=r[e[t]];r[f+1]=h;r[f]=h[e[u]];n=n+1;e=l[n];until true;else f=e[d];h=r[e[t]];r[f+1]=h;r[f]=h[e[u]];n=n+1;e=l[n];end else f=e[d]r[f](g(r,f+1,e[t]))n=n+1;e=l[n];end end end end else if 108>=m then r[e[d]]=(not r[e[t]]);else if 109~=m then local n=e[d]local t={r[n](r[n+1])};local d=0;for e=n,e[u]do d=d+1;r[e]=t[d];end else local f;r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];f=e[d]r[f]=r[f](g(r,f+1,e[t]))n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];end end end else if 103>m then if 100<m then repeat if 102>m then n=e[t];break;end;r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r[e[d]]=r[e[t]][r[e[u]]];n=n+1;e=l[n];if not r[e[d]]then n=n+1;else n=e[t];end;until true;else n=e[t];end else if m<104 then local m,f;r[e[d]]=r[e[t]];n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];m=e[t];f=r[m]for e=m+1,e[u]do f=f..r[e];end;r[e[d]]=f;n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r(e[d],e[t]);else if 103<m then repeat if 105>m then local g,o,m;for f=0,4 do if f<2 then if f>=-1 then repeat if 1~=f then for e=e[d],e[t]do r[e]=nil;end;n=n+1;e=l[n];break;end;r[e[d]]=h[e[t]];n=n+1;e=l[n];until true;else for e=e[d],e[t]do r[e]=nil;end;n=n+1;e=l[n];end else if 3<=f then if 3~=f then n=e[t];else g=e[d]o={r[g](r[g+1])};m=0;for e=g,e[u]do m=m+1;r[e]=o[m];end n=n+1;e=l[n];end else r[e[d]]=r[e[t]];n=n+1;e=l[n];end end end break;end;local m,f;r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]][r[e[t]]]=r[e[u]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];m=e[d];f=r[e[t]];r[m+1]=f;r[m]=f[e[u]];until true;else local m,f;r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]][r[e[t]]]=r[e[u]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];m=e[d];f=r[e[t]];r[m+1]=f;r[m]=f[e[u]];end end end end end else if 83<=m then if m<=86 then if m>=85 then if m>81 then repeat if m<86 then local a=z[e[t]];local g;local m={};g=f.tArVFRfu({},{__index=function(n,e)local e=m[e];return e[1][e[2]];end,__newindex=function(r,e,n)local e=m[e]e[1][e[2]]=n;end;});for d=1,e[u]do n=n+1;local e=l[n];if e[p]==64 then m[d-1]={r,e[t]};else m[d-1]={o,e[t]};end;s[#s+1]=m;end;r[e[d]]=c(a,g,h);break;end;local f;r(e[d],e[t]);n=n+1;e=l[n];f=e[d]r[f]=r[f](r[f+1])n=n+1;e=l[n];r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);until true;else local a=z[e[t]];local g;local m={};g=f.tArVFRfu({},{__index=function(n,e)local e=m[e];return e[1][e[2]];end,__newindex=function(r,e,n)local e=m[e]e[1][e[2]]=n;end;});for d=1,e[u]do n=n+1;local e=l[n];if e[p]==64 then m[d-1]={r,e[t]};else m[d-1]={o,e[t]};end;s[#s+1]=m;end;r[e[d]]=c(a,g,h);end else if m~=84 then r[e[d]][e[t]]=r[e[u]];else local m;for f=0,6 do if f<3 then if f>=1 then if f~=2 then r(e[d],e[t]);n=n+1;e=l[n];else r(e[d],e[t]);n=n+1;e=l[n];end else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end else if 4<f then if 4~=f then for h=43,70 do if 6>f then m=e[d]r[m]=r[m](g(r,m+1,e[t]))n=n+1;e=l[n];break;end;r[e[d]][e[t]]=r[e[u]];break;end;else r[e[d]][e[t]]=r[e[u]];end else if 4==f then r(e[d],e[t]);n=n+1;e=l[n];else r(e[d],e[t]);n=n+1;e=l[n];end end end end end end else if m<89 then if m~=84 then repeat if 87<m then if r[e[d]]then n=n+1;else n=e[t];end;break;end;r[e[d]]=(not r[e[t]]);until true;else if r[e[d]]then n=n+1;else n=e[t];end;end else if m<90 then local u,l,m,h,f;local n=0;while n>-1 do if n<3 then if 1>n then u=e;else if 0<=n then for e=12,96 do if n~=2 then l=d;break;end;m=t;break;end;else l=d;end end else if n<5 then if n>=0 then for e=35,75 do if n~=4 then h=u[m];break;end;f=u[l];break;end;else f=u[l];end else if 1<n then repeat if 5~=n then n=-2;break;end;r(f,h);until true;else n=-2;end end end n=n+1 end else if m>=87 then for f=12,83 do if m<91 then local m,g,h;for f=0,6 do if 2<f then if f>4 then if 1<=f then repeat if f>5 then r[e[d]][e[t]]=r[e[u]];break;end;g=e[t];h=r[g]for e=g+1,e[u]do h=h..r[e];end;r[e[d]]=h;n=n+1;e=l[n];until true;else r[e[d]][e[t]]=r[e[u]];end else if 1~=f then repeat if f>3 then r(e[d],e[t]);n=n+1;e=l[n];break;end;r[e[d]]=r[e[t]];n=n+1;e=l[n];until true;else r[e[d]]=r[e[t]];n=n+1;e=l[n];end end else if 0<f then if f~=0 then repeat if f~=1 then m=e[d]r[m]=r[m](r[m+1])n=n+1;e=l[n];break;end;r(e[d],e[t]);n=n+1;e=l[n];until true;else m=e[d]r[m]=r[m](r[m+1])n=n+1;e=l[n];end else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end end end break;end;local n=e[d]r[n]=r[n](g(r,n+1,e[t]))break;end;else local n=e[d]r[n]=r[n](g(r,n+1,e[t]))end end end end else if 77>=m then if 75<m then if m>=75 then repeat if 77~=m then local l,f,m,h,u;local n=0;while n>-1 do if n>=3 then if 5<=n then if 1<n then for e=18,73 do if n~=5 then n=-2;break;end;r(u,h);break;end;else n=-2;end else if 3==n then h=l[m];else u=l[f];end end else if n<=0 then l=e;else if n~=2 then f=d;else m=t;end end end n=n+1 end break;end;local n=e[d];local d=r[n];for e=n+1,e[t]do f.mEVLCoyc(d,r[e])end;until true;else local n=e[d];local d=r[n];for e=n+1,e[t]do f.mEVLCoyc(d,r[e])end;end else if 75>m then local l=e[d];local d={};for e=1,#s do local e=s[e];for n=0,#e do local n=e[n];local t=n[1];local e=n[2];if t==r and e>=l then d[e]=t[e];n[1]=d;end;end;end;else r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]]=h[e[t]];end end else if 79<m then if m>80 then if m~=79 then for f=24,98 do if m>81 then local m;for f=0,6 do if f>2 then if f<=4 then if f==4 then r[e[d]][e[t]]=e[u];n=n+1;e=l[n];else r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];end else if f>1 then for m=15,54 do if 5<f then r[e[d]]=h[e[t]];break;end;r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];break;end;else r[e[d]]=h[e[t]];end end else if f>=1 then if 1~=f then m=e[d]r[m]=r[m](g(r,m+1,e[t]))n=n+1;e=l[n];else r(e[d],e[t]);n=n+1;e=l[n];end else r(e[d],e[t]);n=n+1;e=l[n];end end end break;end;local n=e[d]r[n](g(r,n+1,e[t]))break;end;else local n=e[d]r[n](g(r,n+1,e[t]))end else for f=0,6 do if 2<f then if 4<f then if f~=5 then r[e[d]]=r[e[t]][e[u]];else r[e[d]]=h[e[t]];n=n+1;e=l[n];end else if 3<f then r[e[d]]=r[e[t]];n=n+1;e=l[n];else r[e[d]]=r[e[t]];n=n+1;e=l[n];end end else if 0<f then if f~=-2 then repeat if 2>f then r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];break;end;r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];until true;else r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];end else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end end end end else if 79>m then do return r[e[d]]end n=n+1;e=l[n];do return end;else for f=0,6 do if f>2 then if 4<f then if f>3 then repeat if 6>f then r[e[d]]=h[e[t]];n=n+1;e=l[n];break;end;r[e[d]]=r[e[t]][e[u]];until true;else r[e[d]]=h[e[t]];n=n+1;e=l[n];end else if f>-1 then repeat if 3~=f then r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];break;end;r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];until true;else r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];end end else if 1<=f then if f>=-1 then repeat if f>1 then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;r[e[d]]=h[e[t]];n=n+1;e=l[n];until true;else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end else r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];end end end end end end end end end else if 37>m then if m>17 then if 26>=m then if 21>=m then if 20>m then if m~=15 then repeat if 18<m then local m;for f=0,6 do if 2<f then if 4<f then if 4<=f then repeat if f~=6 then r(e[d],e[t]);n=n+1;e=l[n];break;end;r(e[d],e[t]);until true;else r(e[d],e[t]);n=n+1;e=l[n];end else if f>=1 then for m=21,60 do if 4>f then r[e[d]]=h[e[t]];n=n+1;e=l[n];break;end;r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end end else if f<=0 then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];else if f~=1 then m=e[d]r[m]=r[m](r[m+1])n=n+1;e=l[n];else r(e[d],e[t]);n=n+1;e=l[n];end end end end break;end;r[e[d]][e[t]]=e[u];until true;else local m;for f=0,6 do if 2<f then if 4<f then if 4<=f then repeat if f~=6 then r(e[d],e[t]);n=n+1;e=l[n];break;end;r(e[d],e[t]);until true;else r(e[d],e[t]);n=n+1;e=l[n];end else if f>=1 then for m=21,60 do if 4>f then r[e[d]]=h[e[t]];n=n+1;e=l[n];break;end;r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end end else if f<=0 then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];else if f~=1 then m=e[d]r[m]=r[m](r[m+1])n=n+1;e=l[n];else r(e[d],e[t]);n=n+1;e=l[n];end end end end end else if m~=21 then local f;r(e[d],e[t]);n=n+1;e=l[n];f=e[d]r[f]=r[f](g(r,f+1,e[t]))n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);else r[e[d]][e[t]]=e[u];end end else if m<24 then if 20<m then for f=27,78 do if 23>m then local m,s,o,a,h,f,k;r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];f=0;while f>-1 do if 2<f then if f<5 then if f>-1 then repeat if f~=4 then a=m[o];break;end;h=m[s];until true;else h=m[s];end else if 3~=f then repeat if 6>f then r(h,a);break;end;f=-2;until true;else r(h,a);end end else if f>=1 then if f~=-1 then repeat if f~=1 then o=t;break;end;s=d;until true;else o=t;end else m=e;end end f=f+1 end n=n+1;e=l[n];f=0;while f>-1 do if 3>f then if 0>=f then m=e;else if 1~=f then o=t;else s=d;end end else if 4>=f then if f~=-1 then repeat if 3<f then h=m[s];break;end;a=m[o];until true;else a=m[o];end else if f>=4 then for e=42,79 do if 6~=f then r(h,a);break;end;f=-2;break;end;else r(h,a);end end end f=f+1 end n=n+1;e=l[n];f=0;while f>-1 do if f>2 then if 4>=f then if f>-1 then for e=43,86 do if 3<f then h=m[s];break;end;a=m[o];break;end;else h=m[s];end else if 3<=f then repeat if f>5 then f=-2;break;end;r(h,a);until true;else f=-2;end end else if f<=0 then m=e;else if f~=-3 then for e=38,61 do if 2~=f then s=d;break;end;o=t;break;end;else o=t;end end end f=f+1 end n=n+1;e=l[n];k=e[d]r[k]=r[k](g(r,k+1,e[t]))n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=e[u];break;end;r[e[d]]=r[e[t]]-e[u];break;end;else local m,s,a,o,h,f,k;r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];f=0;while f>-1 do if 2<f then if f<5 then if f>-1 then repeat if f~=4 then o=m[a];break;end;h=m[s];until true;else h=m[s];end else if 3~=f then repeat if 6>f then r(h,o);break;end;f=-2;until true;else r(h,o);end end else if f>=1 then if f~=-1 then repeat if f~=1 then a=t;break;end;s=d;until true;else a=t;end else m=e;end end f=f+1 end n=n+1;e=l[n];f=0;while f>-1 do if 3>f then if 0>=f then m=e;else if 1~=f then a=t;else s=d;end end else if 4>=f then if f~=-1 then repeat if 3<f then h=m[s];break;end;o=m[a];until true;else o=m[a];end else if f>=4 then for e=42,79 do if 6~=f then r(h,o);break;end;f=-2;break;end;else r(h,o);end end end f=f+1 end n=n+1;e=l[n];f=0;while f>-1 do if f>2 then if 4>=f then if f>-1 then for e=43,86 do if 3<f then h=m[s];break;end;o=m[a];break;end;else h=m[s];end else if 3<=f then repeat if f>5 then f=-2;break;end;r(h,o);until true;else f=-2;end end else if f<=0 then m=e;else if f~=-3 then for e=38,61 do if 2~=f then s=d;break;end;a=t;break;end;else a=t;end end end f=f+1 end n=n+1;e=l[n];k=e[d]r[k]=r[k](g(r,k+1,e[t]))n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=e[u];end else if m<=24 then local f;r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];f=e[d]r[f]=r[f](r[f+1])n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];else if 24<=m then repeat if m~=25 then r[e[d]]=r[e[t]][e[u]];break;end;r[e[d]]=h[e[t]];until true;else r[e[d]]=r[e[t]][e[u]];end end end end else if m<=31 then if 29>m then if m~=24 then for f=35,59 do if m~=27 then for e=e[d],e[t]do r[e]=nil;end;break;end;for f=0,4 do if f>1 then if 3>f then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];else if f~=-1 then for m=18,67 do if f~=4 then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;r[e[d]][e[t]]=r[e[u]];break;end;else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end end else if f>=-3 then repeat if 1~=f then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;r[e[d]]=h[e[t]];n=n+1;e=l[n];until true;else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end end end break;end;else for f=0,4 do if f>1 then if 3>f then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];else if f~=-1 then for m=18,67 do if f~=4 then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;r[e[d]][e[t]]=r[e[u]];break;end;else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end end else if f>=-3 then repeat if 1~=f then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;r[e[d]]=h[e[t]];n=n+1;e=l[n];until true;else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end end end end else if 30<=m then if m>=28 then repeat if m~=31 then r[e[d]]=c(z[e[t]],nil,h);break;end;r[e[d]]=r[e[t]]-e[u];until true;else r[e[d]]=c(z[e[t]],nil,h);end else local u;r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];u=e[d]r[u]=r[u](g(r,u+1,e[t]))n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];u=e[d]r[u](g(r,u+1,e[t]))end end else if 34>m then if m>30 then for f=30,55 do if m>32 then local m;for f=0,6 do if f<3 then if f>=1 then if f>=-1 then for u=17,65 do if 1<f then m=e[d]r[m]=r[m](g(r,m+1,e[t]))n=n+1;e=l[n];break;end;r(e[d],e[t]);n=n+1;e=l[n];break;end;else r(e[d],e[t]);n=n+1;e=l[n];end else r(e[d],e[t]);n=n+1;e=l[n];end else if f<=4 then if f~=4 then r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];else r[e[d]][e[t]]=e[u];n=n+1;e=l[n];end else if f~=3 then repeat if 5~=f then r[e[d]]=r[e[t]][e[u]];break;end;r[e[d]]=h[e[t]];n=n+1;e=l[n];until true;else r[e[d]]=r[e[t]][e[u]];end end end end break;end;r[e[d]]=h[e[t]];break;end;else local m;for f=0,6 do if f<3 then if f>=1 then if f>=-1 then for u=17,65 do if 1<f then m=e[d]r[m]=r[m](g(r,m+1,e[t]))n=n+1;e=l[n];break;end;r(e[d],e[t]);n=n+1;e=l[n];break;end;else r(e[d],e[t]);n=n+1;e=l[n];end else r(e[d],e[t]);n=n+1;e=l[n];end else if f<=4 then if f~=4 then r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];else r[e[d]][e[t]]=e[u];n=n+1;e=l[n];end else if f~=3 then repeat if 5~=f then r[e[d]]=r[e[t]][e[u]];break;end;r[e[d]]=h[e[t]];n=n+1;e=l[n];until true;else r[e[d]]=r[e[t]][e[u]];end end end end end else if 34<m then if 34<m then for n=16,59 do if 35<m then r[e[d]][r[e[t]]]=r[e[u]];break;end;r[e[d]]=r[e[t]][r[e[u]]];break;end;else r[e[d]][r[e[t]]]=r[e[u]];end else if r[e[d]]then n=n+1;else n=e[t];end;end end end end else if 9>m then if 3>=m then if 2<=m then if 1<m then for f=33,62 do if 3~=m then local s,k,b,a,o,f,m;for f=0,6 do if f<3 then if f<=0 then f=0;while f>-1 do if 3>f then if f<1 then s=e;else if f>-2 then repeat if f~=1 then b=t;break;end;k=d;until true;else k=d;end end else if f<5 then if f==4 then o=s[k];else a=s[b];end else if 4<=f then for e=37,78 do if f>5 then f=-2;break;end;r(o,a);break;end;else r(o,a);end end end f=f+1 end n=n+1;e=l[n];else if f~=-2 then for h=27,55 do if 2~=f then m=e[d]r[m]=r[m](g(r,m+1,e[t]))n=n+1;e=l[n];break;end;r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];break;end;else r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];end end else if f<=4 then if f~=-1 then for m=35,59 do if f~=3 then r[e[d]]=h[e[t]];n=n+1;e=l[n];break;end;r[e[d]][e[t]]=e[u];n=n+1;e=l[n];break;end;else r[e[d]][e[t]]=e[u];n=n+1;e=l[n];end else if f~=2 then for m=28,62 do if 5~=f then r[e[d]]=r[e[t]][e[u]];break;end;r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end end end end break;end;local m,s,g,o,a,f,k;for f=0,6 do if f>2 then if 5<=f then if 3~=f then for h=32,72 do if f~=5 then f=0;while f>-1 do if 2>=f then if f>0 then if-1~=f then repeat if 2~=f then s=d;break;end;g=t;until true;else g=t;end else m=e;end else if f<=4 then if f~=2 then for e=21,82 do if 3<f then a=m[s];break;end;o=m[g];break;end;else o=m[g];end else if 1~=f then for e=31,92 do if 6~=f then r(a,o);break;end;f=-2;break;end;else r(a,o);end end end f=f+1 end break;end;r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;else f=0;while f>-1 do if 2>=f then if f>0 then if-1~=f then repeat if 2~=f then s=d;break;end;g=t;until true;else g=t;end else m=e;end else if f<=4 then if f~=2 then for e=21,82 do if 3<f then a=m[s];break;end;o=m[g];break;end;else o=m[g];end else if 1~=f then for e=31,92 do if 6~=f then r(a,o);break;end;f=-2;break;end;else r(a,o);end end end f=f+1 end end else if f>0 then repeat if f<4 then k=e[d]r[k]=r[k](r[k+1])n=n+1;e=l[n];break;end;r[e[d]]=h[e[t]];n=n+1;e=l[n];until true;else r[e[d]]=h[e[t]];n=n+1;e=l[n];end end else if f>0 then if 2>f then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];else f=0;while f>-1 do if 3>f then if f>0 then if f>-1 then for e=31,71 do if 2>f then s=d;break;end;g=t;break;end;else g=t;end else m=e;end else if f>=5 then if f>4 then repeat if 5<f then f=-2;break;end;r(a,o);until true;else r(a,o);end else if 0<=f then for e=10,70 do if f~=3 then a=m[s];break;end;o=m[g];break;end;else a=m[s];end end end f=f+1 end n=n+1;e=l[n];end else r[e[d]]=h[e[t]];n=n+1;e=l[n];end end end break;end;else local k,o,b,a,s,f,m;for f=0,6 do if f<3 then if f<=0 then f=0;while f>-1 do if 3>f then if f<1 then k=e;else if f>-2 then repeat if f~=1 then b=t;break;end;o=d;until true;else o=d;end end else if f<5 then if f==4 then s=k[o];else a=k[b];end else if 4<=f then for e=37,78 do if f>5 then f=-2;break;end;r(s,a);break;end;else r(s,a);end end end f=f+1 end n=n+1;e=l[n];else if f~=-2 then for h=27,55 do if 2~=f then m=e[d]r[m]=r[m](g(r,m+1,e[t]))n=n+1;e=l[n];break;end;r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];break;end;else r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];end end else if f<=4 then if f~=-1 then for m=35,59 do if f~=3 then r[e[d]]=h[e[t]];n=n+1;e=l[n];break;end;r[e[d]][e[t]]=e[u];n=n+1;e=l[n];break;end;else r[e[d]][e[t]]=e[u];n=n+1;e=l[n];end else if f~=2 then for m=28,62 do if 5~=f then r[e[d]]=r[e[t]][e[u]];break;end;r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end end end end end else if-4~=m then for f=34,73 do if m~=1 then for f=0,6 do if f<3 then if 1<=f then if 1==f then r[e[d]]=o[e[t]];n=n+1;e=l[n];else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end else if 5>f then if f~=1 then repeat if f~=4 then r[e[d]][r[e[t]]]=r[e[u]];n=n+1;e=l[n];break;end;r[e[d]]=o[e[t]];n=n+1;e=l[n];until true;else r[e[d]]=o[e[t]];n=n+1;e=l[n];end else if f~=3 then for m=43,97 do if f~=6 then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;r[e[d]]=r[e[t]][e[u]];break;end;else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end end end end break;end;r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];if r[e[d]]then n=n+1;else n=e[t];end;break;end;else for f=0,6 do if f<3 then if 1<=f then if 1==f then r[e[d]]=o[e[t]];n=n+1;e=l[n];else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end else if 5>f then if f~=1 then repeat if f~=4 then r[e[d]][r[e[t]]]=r[e[u]];n=n+1;e=l[n];break;end;r[e[d]]=o[e[t]];n=n+1;e=l[n];until true;else r[e[d]]=o[e[t]];n=n+1;e=l[n];end else if f~=3 then for m=43,97 do if f~=6 then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;r[e[d]]=r[e[t]][e[u]];break;end;else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end end end end end end else if m<=5 then if m<5 then local e=e[d]r[e](r[e+1])else r[e[d]]={};end else if 6<m then if 7~=m then for f=0,4 do if f>1 then if 2<f then if 2~=f then repeat if 3~=f then n=e[t];break;end;r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];until true;else n=e[t];end else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end else if-4<f then repeat if 0~=f then r[e[d]]=r[e[t]][r[e[u]]];n=n+1;e=l[n];break;end;r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];until true;else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end end end else r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]]=o[e[t]];n=n+1;e=l[n];r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);end else if not r[e[d]]then n=n+1;else n=e[t];end;end end end else if m<13 then if 11>m then if m>9 then local l,h,m,u,g,f;local n=0;while n>-1 do if 3>=n then if n>=2 then if 1~=n then for e=40,65 do if n~=3 then m=t;break;end;u=r;break;end;else u=r;end else if n>=-1 then for r=11,92 do if n~=1 then l=e;break;end;h=d;break;end;else l=e;end end else if n>5 then if 2<=n then repeat if 7~=n then r[f]=g;break;end;n=-2;until true;else n=-2;end else if n==4 then g=u[l[m]];else f=l[h];end end end n=n+1 end else local s,f,k,o,a,h,m,u;s=e[d]r[s](g(r,s+1,e[t]))n=n+1;e=l[n];u=0;while u>-1 do if 3>=u then if u>1 then if u>=-2 then for e=39,78 do if u<3 then o=t;break;end;a=r;break;end;else a=r;end else if u>=-1 then repeat if 1>u then f=e;break;end;k=d;until true;else f=e;end end else if 5>=u then if 3<u then repeat if u>4 then m=f[k];break;end;h=a[f[o]];until true;else m=f[k];end else if u==7 then u=-2;else r[m]=h;end end end u=u+1 end n=n+1;e=l[n];u=0;while u>-1 do if 4>u then if 1>=u then if u<1 then f=e;else k=d;end else if 1<=u then for e=34,95 do if u<3 then o=t;break;end;a=r;break;end;else o=t;end end else if 5>=u then if 2<=u then for e=29,90 do if u~=4 then m=f[k];break;end;h=a[f[o]];break;end;else h=a[f[o]];end else if 2<u then for e=26,62 do if u~=7 then r[m]=h;break;end;u=-2;break;end;else r[m]=h;end end end u=u+1 end n=n+1;e=l[n];s=e[d];do return r[s],r[s+1]end n=n+1;e=l[n];do return end;end else if m>11 then local m,o,s,k,a,f,b;f=0;while f>-1 do if f<3 then if 1<=f then if f~=0 then for e=22,55 do if 2>f then o=d;break;end;s=t;break;end;else o=d;end else m=e;end else if 4>=f then if 1<=f then for e=22,84 do if f>3 then a=m[o];break;end;k=m[s];break;end;else a=m[o];end else if f~=5 then f=-2;else r(a,k);end end end f=f+1 end n=n+1;e=l[n];f=0;while f>-1 do if f<3 then if 0<f then if f>-3 then for e=37,76 do if f~=2 then o=d;break;end;s=t;break;end;else o=d;end else m=e;end else if 5>f then if f>=0 then for e=18,80 do if f~=4 then k=m[s];break;end;a=m[o];break;end;else a=m[o];end else if 2~=f then repeat if f>5 then f=-2;break;end;r(a,k);until true;else f=-2;end end end f=f+1 end n=n+1;e=l[n];f=0;while f>-1 do if 3>f then if 1>f then m=e;else if-2<f then repeat if 1<f then s=t;break;end;o=d;until true;else s=t;end end else if 4<f then if 3<=f then for e=13,76 do if f>5 then f=-2;break;end;r(a,k);break;end;else f=-2;end else if 3~=f then a=m[o];else k=m[s];end end end f=f+1 end n=n+1;e=l[n];b=e[d]r[b]=r[b](g(r,b+1,e[t]))n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]]=h[e[t]];else local l=e[d];local u=e[u];local d=l+2 local l={r[l](r[l+1],r[d])};for e=1,u do r[d+e]=l[e];end;local l=l[1]if l then r[d]=l n=e[t];else n=n+1;end;end end else if m<15 then if 9<m then repeat if m~=14 then local f;r(e[d],e[t]);n=n+1;e=l[n];f=e[d]r[f]=r[f](g(r,f+1,e[t]))n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r(e[d],e[t]);break;end;local f;f=e[d]r[f]=r[f](r[f+1])n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);until true;else local f;f=e[d]r[f]=r[f](r[f+1])n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);end else if 16>m then local o,a,b,s,m,k,f;for f=0,6 do if f>=3 then if 4>=f then if 2<=f then for m=46,73 do if 4>f then r[e[d]]=h[e[t]];n=n+1;e=l[n];break;end;r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;else r[e[d]]=h[e[t]];n=n+1;e=l[n];end else if 2<f then repeat if f~=6 then f=0;while f>-1 do if 3<=f then if 5>f then if 2<f then repeat if 4>f then m=a[s];break;end;k=a[b];until true;else m=a[s];end else if f~=1 then for e=31,96 do if 6>f then r(k,m);break;end;f=-2;break;end;else r(k,m);end end else if f<1 then a=e;else if f~=1 then s=t;else b=d;end end end f=f+1 end n=n+1;e=l[n];break;end;o=e[d]r[o]=r[o](r[o+1])until true;else f=0;while f>-1 do if 3<=f then if 5>f then if 2<f then repeat if 4>f then m=a[s];break;end;k=a[b];until true;else m=a[s];end else if f~=1 then for e=31,96 do if 6>f then r(k,m);break;end;f=-2;break;end;else r(k,m);end end else if f<1 then a=e;else if f~=1 then s=t;else b=d;end end end f=f+1 end n=n+1;e=l[n];end end else if 1<=f then if f>0 then repeat if f~=1 then r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];break;end;r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];until true;else r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];end else o=e[d]r[o]=r[o](g(r,o+1,e[t]))n=n+1;e=l[n];end end end else if m~=12 then repeat if m<17 then r[e[d]][r[e[t]]]=r[e[u]];break;end;for e=e[d],e[t]do r[e]=nil;end;until true;else for e=e[d],e[t]do r[e]=nil;end;end end end end end end else if m>54 then if m<64 then if 59<=m then if 60<m then if m<62 then local f;for m=0,6 do if m<=2 then if 0>=m then r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];else if 2~=m then r[e[d]]=h[e[t]];n=n+1;e=l[n];else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end end else if 5<=m then if m>=1 then repeat if m~=5 then f=e[d]r[f]=r[f](g(r,f+1,e[t]))break;end;r(e[d],e[t]);n=n+1;e=l[n];until true;else f=e[d]r[f]=r[f](g(r,f+1,e[t]))end else if 4~=m then r(e[d],e[t]);n=n+1;e=l[n];else r(e[d],e[t]);n=n+1;e=l[n];end end end end else if 58~=m then for f=38,95 do if m~=63 then local f;r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];f=e[d]r[f]=r[f](r[f+1])n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];break;end;local o,m,k,s,a,f,b;f=0;while f>-1 do if 3>f then if 0>=f then o=e;else if-3<f then repeat if 2>f then m=d;break;end;k=t;until true;else m=d;end end else if f<=4 then if 2<f then repeat if 3<f then a=o[m];break;end;s=o[k];until true;else a=o[m];end else if 3<=f then repeat if f<6 then r(a,s);break;end;f=-2;until true;else f=-2;end end end f=f+1 end n=n+1;e=l[n];f=0;while f>-1 do if 3<=f then if f>4 then if f>=2 then for e=15,92 do if 5<f then f=-2;break;end;r(a,s);break;end;else r(a,s);end else if f==4 then a=o[m];else s=o[k];end end else if f<1 then o=e;else if f~=0 then for e=44,98 do if f~=1 then k=t;break;end;m=d;break;end;else m=d;end end end f=f+1 end n=n+1;e=l[n];b=e[d]r[b]=r[b](g(r,b+1,e[t]))n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]]=h[e[t]];break;end;else local f;r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];f=e[d]r[f]=r[f](r[f+1])n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];end end else if m==60 then local f;r(e[d],e[t]);n=n+1;e=l[n];f=e[d]r[f]=r[f](g(r,f+1,e[t]))n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];else if(r[e[d]]~=e[u])then n=n+1;else n=e[t];end;end end else if m>56 then if m>54 then for f=49,67 do if m~=58 then r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];break;end;local m,k,s,a,o,f,b;for f=0,6 do if 2>=f then if 0>=f then f=0;while f>-1 do if 3<=f then if 5>f then if 3~=f then o=m[k];else a=m[s];end else if 4~=f then repeat if f>5 then f=-2;break;end;r(o,a);until true;else f=-2;end end else if 1>f then m=e;else if 0<f then repeat if 2>f then k=d;break;end;s=t;until true;else s=t;end end end f=f+1 end n=n+1;e=l[n];else if-3<f then repeat if 1<f then f=0;while f>-1 do if 2<f then if 4>=f then if 3==f then a=m[s];else o=m[k];end else if f~=6 then r(o,a);else f=-2;end end else if 1<=f then if-1<=f then for e=14,74 do if f<2 then k=d;break;end;s=t;break;end;else s=t;end else m=e;end end f=f+1 end n=n+1;e=l[n];break;end;f=0;while f>-1 do if 2<f then if 4>=f then if f<4 then a=m[s];else o=m[k];end else if 3~=f then for e=23,68 do if 6>f then r(o,a);break;end;f=-2;break;end;else r(o,a);end end else if f<1 then m=e;else if f>0 then repeat if 1<f then s=t;break;end;k=d;until true;else k=d;end end end f=f+1 end n=n+1;e=l[n];until true;else f=0;while f>-1 do if 2<f then if 4>=f then if f<4 then a=m[s];else o=m[k];end else if 3~=f then for e=23,68 do if 6>f then r(o,a);break;end;f=-2;break;end;else r(o,a);end end else if f<1 then m=e;else if f>0 then repeat if 1<f then s=t;break;end;k=d;until true;else k=d;end end end f=f+1 end n=n+1;e=l[n];end end else if 4>=f then if-1~=f then repeat if f~=3 then r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];break;end;b=e[d]r[b]=r[b](g(r,b+1,e[t]))n=n+1;e=l[n];until true;else b=e[d]r[b]=r[b](g(r,b+1,e[t]))n=n+1;e=l[n];end else if f>4 then for m=35,52 do if 5<f then r[e[d]]=r[e[t]][e[u]];break;end;r[e[d]]=h[e[t]];n=n+1;e=l[n];break;end;else r[e[d]]=h[e[t]];n=n+1;e=l[n];end end end end break;end;else local m,a,k,s,o,f,b;for f=0,6 do if 2>=f then if 0>=f then f=0;while f>-1 do if 3<=f then if 5>f then if 3~=f then o=m[a];else s=m[k];end else if 4~=f then repeat if f>5 then f=-2;break;end;r(o,s);until true;else f=-2;end end else if 1>f then m=e;else if 0<f then repeat if 2>f then a=d;break;end;k=t;until true;else k=t;end end end f=f+1 end n=n+1;e=l[n];else if-3<f then repeat if 1<f then f=0;while f>-1 do if 2<f then if 4>=f then if 3==f then s=m[k];else o=m[a];end else if f~=6 then r(o,s);else f=-2;end end else if 1<=f then if-1<=f then for e=14,74 do if f<2 then a=d;break;end;k=t;break;end;else k=t;end else m=e;end end f=f+1 end n=n+1;e=l[n];break;end;f=0;while f>-1 do if 2<f then if 4>=f then if f<4 then s=m[k];else o=m[a];end else if 3~=f then for e=23,68 do if 6>f then r(o,s);break;end;f=-2;break;end;else r(o,s);end end else if f<1 then m=e;else if f>0 then repeat if 1<f then k=t;break;end;a=d;until true;else a=d;end end end f=f+1 end n=n+1;e=l[n];until true;else f=0;while f>-1 do if 2<f then if 4>=f then if f<4 then s=m[k];else o=m[a];end else if 3~=f then for e=23,68 do if 6>f then r(o,s);break;end;f=-2;break;end;else r(o,s);end end else if f<1 then m=e;else if f>0 then repeat if 1<f then k=t;break;end;a=d;until true;else a=d;end end end f=f+1 end n=n+1;e=l[n];end end else if 4>=f then if-1~=f then repeat if f~=3 then r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];break;end;b=e[d]r[b]=r[b](g(r,b+1,e[t]))n=n+1;e=l[n];until true;else b=e[d]r[b]=r[b](g(r,b+1,e[t]))n=n+1;e=l[n];end else if f>4 then for m=35,52 do if 5<f then r[e[d]]=r[e[t]][e[u]];break;end;r[e[d]]=h[e[t]];n=n+1;e=l[n];break;end;else r[e[d]]=h[e[t]];n=n+1;e=l[n];end end end end end else if m~=54 then repeat if 56>m then local f;r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];f=e[d]r[f]=r[f](g(r,f+1,e[t]))n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];break;end;local f;for m=0,6 do if 2<m then if 5>m then if 3==m then r[e[d]]=h[e[t]];n=n+1;e=l[n];else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end else if 4<=m then for u=31,67 do if m~=5 then r(e[d],e[t]);break;end;r(e[d],e[t]);n=n+1;e=l[n];break;end;else r(e[d],e[t]);n=n+1;e=l[n];end end else if 1<=m then if-1<=m then repeat if m>1 then r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];break;end;f=e[d]r[f]=r[f](g(r,f+1,e[t]))n=n+1;e=l[n];until true;else f=e[d]r[f]=r[f](g(r,f+1,e[t]))n=n+1;e=l[n];end else r(e[d],e[t]);n=n+1;e=l[n];end end end until true;else local f;r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];f=e[d]r[f]=r[f](g(r,f+1,e[t]))n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];end end end else if m>68 then if m<71 then if 68~=m then repeat if m<70 then for f=0,6 do if f>2 then if f>4 then if f~=6 then r(e[d],e[t]);n=n+1;e=l[n];else r(e[d],e[t]);end else if f>=0 then repeat if f>3 then r(e[d],e[t]);n=n+1;e=l[n];break;end;r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];until true;else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end end else if f<=0 then r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];else if 0~=f then repeat if 2>f then r[e[d]]=o[e[t]];n=n+1;e=l[n];break;end;r[e[d]]=h[e[t]];n=n+1;e=l[n];until true;else r[e[d]]=o[e[t]];n=n+1;e=l[n];end end end end break;end;local e=e[d]r[e]=r[e](r[e+1])until true;else for f=0,6 do if f>2 then if f>4 then if f~=6 then r(e[d],e[t]);n=n+1;e=l[n];else r(e[d],e[t]);end else if f>=0 then repeat if f>3 then r(e[d],e[t]);n=n+1;e=l[n];break;end;r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];until true;else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end end else if f<=0 then r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];else if 0~=f then repeat if 2>f then r[e[d]]=o[e[t]];n=n+1;e=l[n];break;end;r[e[d]]=h[e[t]];n=n+1;e=l[n];until true;else r[e[d]]=o[e[t]];n=n+1;e=l[n];end end end end end else if 71<m then if 71<m then repeat if 72<m then local m,s,g,o,a,f,k;f=0;while f>-1 do if f<3 then if f<=0 then m=e;else if 1==f then s=d;else g=t;end end else if 4<f then if f~=3 then for e=23,60 do if 5~=f then f=-2;break;end;r(a,o);break;end;else r(a,o);end else if 1<=f then repeat if 4~=f then o=m[g];break;end;a=m[s];until true;else o=m[g];end end end f=f+1 end n=n+1;e=l[n];k=e[d]r[k]=r[k](r[k+1])n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];f=0;while f>-1 do if f>2 then if f>=5 then if f~=1 then for e=38,79 do if 6>f then r(a,o);break;end;f=-2;break;end;else f=-2;end else if 0<f then repeat if 3~=f then a=m[s];break;end;o=m[g];until true;else o=m[g];end end else if f<=0 then m=e;else if f~=-2 then repeat if f<2 then s=d;break;end;g=t;until true;else g=t;end end end f=f+1 end n=n+1;e=l[n];f=0;while f>-1 do if f>=3 then if f<=4 then if f>=0 then for e=12,92 do if 3<f then a=m[s];break;end;o=m[g];break;end;else a=m[s];end else if 2<=f then repeat if f~=6 then r(a,o);break;end;f=-2;until true;else f=-2;end end else if 1>f then m=e;else if f>-1 then repeat if f<2 then s=d;break;end;g=t;until true;else g=t;end end end f=f+1 end break;end;local n=e[d]r[n]=r[n](g(r,n+1,e[t]))until true;else local n=e[d]r[n]=r[n](g(r,n+1,e[t]))end else local f;f=e[d]r[f]=r[f](g(r,f+1,e[t]))n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);end end else if 65<m then if m<67 then r[e[d]]=c(z[e[t]],nil,h);else if 66~=m then for f=40,82 do if 68~=m then r[e[d]][e[t]]=r[e[u]];break;end;local m;for f=0,6 do if f>2 then if f<5 then if 3==f then r(e[d],e[t]);n=n+1;e=l[n];else r(e[d],e[t]);n=n+1;e=l[n];end else if f>1 then repeat if f~=6 then m=e[d]r[m]=r[m](g(r,m+1,e[t]))n=n+1;e=l[n];break;end;r[e[d]][e[t]]=r[e[u]];until true;else r[e[d]][e[t]]=r[e[u]];end end else if 1>f then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];else if 2>f then r(e[d],e[t]);n=n+1;e=l[n];else r(e[d],e[t]);n=n+1;e=l[n];end end end end break;end;else local m;for f=0,6 do if f>2 then if f<5 then if 3==f then r(e[d],e[t]);n=n+1;e=l[n];else r(e[d],e[t]);n=n+1;e=l[n];end else if f>1 then repeat if f~=6 then m=e[d]r[m]=r[m](g(r,m+1,e[t]))n=n+1;e=l[n];break;end;r[e[d]][e[t]]=r[e[u]];until true;else r[e[d]][e[t]]=r[e[u]];end end else if 1>f then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];else if 2>f then r(e[d],e[t]);n=n+1;e=l[n];else r(e[d],e[t]);n=n+1;e=l[n];end end end end end end else if 61~=m then for f=45,76 do if 64~=m then local f;r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];f=e[d]r[f]=r[f](g(r,f+1,e[t]))n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];break;end;local l,m,u,f,h,g;local n=0;while n>-1 do if n<4 then if 2>n then if n~=-3 then for r=34,80 do if n~=0 then m=d;break;end;l=e;break;end;else m=d;end else if n>2 then f=r;else u=t;end end else if 5<n then if 3<n then for e=36,61 do if n>6 then n=-2;break;end;r[g]=h;break;end;else n=-2;end else if n~=3 then repeat if n~=4 then g=l[m];break;end;h=f[l[u]];until true;else h=f[l[u]];end end end n=n+1 end break;end;else local f;r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];f=e[d]r[f]=r[f](g(r,f+1,e[t]))n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];end end end end else if m<46 then if 41>m then if m<=38 then if 36<m then repeat if 37<m then local n=e[d]local t={r[n](r[n+1])};local d=0;for e=n,e[u]do d=d+1;r[e]=t[d];end break;end;r[e[d]]=r[e[t]][r[e[u]]];until true;else local n=e[d]local t={r[n](r[n+1])};local d=0;for e=n,e[u]do d=d+1;r[e]=t[d];end end else if 40~=m then h[e[t]]=r[e[d]];else local m;for f=0,6 do if f<=2 then if 0<f then if 0<f then for u=23,78 do if 2>f then r(e[d],e[t]);n=n+1;e=l[n];break;end;r(e[d],e[t]);n=n+1;e=l[n];break;end;else r(e[d],e[t]);n=n+1;e=l[n];end else r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];end else if f>4 then if f==5 then r[e[d]]=r[e[t]]*e[u];n=n+1;e=l[n];else m=e[d]r[m]=r[m](g(r,m+1,e[t]))end else if 0<=f then repeat if f~=4 then r(e[d],e[t]);n=n+1;e=l[n];break;end;r[e[d]]=r[e[t]]-e[u];n=n+1;e=l[n];until true;else r[e[d]]=r[e[t]]-e[u];n=n+1;e=l[n];end end end end end end else if 43<=m then if 44>m then local a=z[e[t]];local g;local m={};g=f.tArVFRfu({},{__index=function(n,e)local e=m[e];return e[1][e[2]];end,__newindex=function(r,e,n)local e=m[e]e[1][e[2]]=n;end;});for d=1,e[u]do n=n+1;local e=l[n];if e[p]==64 then m[d-1]={r,e[t]};else m[d-1]={o,e[t]};end;s[#s+1]=m;end;r[e[d]]=c(a,g,h);else if 43<=m then repeat if 45~=m then local f;r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];f=e[d]r[f]=r[f](g(r,f+1,e[t]))n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];break;end;local m;for f=0,6 do if 2<f then if f>=5 then if f~=6 then r(e[d],e[t]);n=n+1;e=l[n];else r(e[d],e[t]);end else if 4>f then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];else r(e[d],e[t]);n=n+1;e=l[n];end end else if 1>f then m=e[d]r[m]=r[m](g(r,m+1,e[t]))n=n+1;e=l[n];else if f>=-2 then repeat if 1<f then r[e[d]]=h[e[t]];n=n+1;e=l[n];break;end;r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];until true;else r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];end end end end until true;else local m;for f=0,6 do if 2<f then if f>=5 then if f~=6 then r(e[d],e[t]);n=n+1;e=l[n];else r(e[d],e[t]);end else if 4>f then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];else r(e[d],e[t]);n=n+1;e=l[n];end end else if 1>f then m=e[d]r[m]=r[m](g(r,m+1,e[t]))n=n+1;e=l[n];else if f>=-2 then repeat if 1<f then r[e[d]]=h[e[t]];n=n+1;e=l[n];break;end;r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];until true;else r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];end end end end end end else if 40~=m then for f=22,87 do if 41<m then local a,g,h,m,f,o,l;local n=0;while n>-1 do if n>2 then if n<=4 then if-1<n then for e=26,53 do if 3~=n then l=r[f];for e=1+f,m[h]do l=l..r[e];end;break;end;o=m[a];break;end;else l=r[f];for e=1+f,m[h]do l=l..r[e];end;end else if 1<n then repeat if n>5 then n=-2;break;end;r[o]=l;until true;else n=-2;end end else if 1>n then a=d;g=t;h=u;else if-3<=n then for r=35,94 do if n>1 then f=m[g];break;end;m=e;break;end;else f=m[g];end end end n=n+1 end break;end;local f;r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];f=e[d]r[f]=r[f](r[f+1])n=n+1;e=l[n];r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r(e[d],e[t]);break;end;else local a,g,h,f,m,o,l;local n=0;while n>-1 do if n>2 then if n<=4 then if-1<n then for e=26,53 do if 3~=n then l=r[m];for e=1+m,f[h]do l=l..r[e];end;break;end;o=f[a];break;end;else l=r[m];for e=1+m,f[h]do l=l..r[e];end;end else if 1<n then repeat if n>5 then n=-2;break;end;r[o]=l;until true;else n=-2;end end else if 1>n then a=d;g=t;h=u;else if-3<=n then for r=35,94 do if n>1 then m=f[g];break;end;f=e;break;end;else m=f[g];end end end n=n+1 end end end end else if 49>=m then if 47>=m then if 43~=m then repeat if 47>m then r[e[d]]=o[e[t]];break;end;local m;for f=0,6 do if 2<f then if 5<=f then if f>=2 then repeat if 5~=f then r[e[d]][e[t]]=r[e[u]];break;end;m=e[d]r[m]=r[m](g(r,m+1,e[t]))n=n+1;e=l[n];until true;else m=e[d]r[m]=r[m](g(r,m+1,e[t]))n=n+1;e=l[n];end else if 3<f then r(e[d],e[t]);n=n+1;e=l[n];else r(e[d],e[t]);n=n+1;e=l[n];end end else if 1>f then r[e[d]]=h[e[t]];n=n+1;e=l[n];else if-1<f then for m=32,91 do if f~=2 then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;r(e[d],e[t]);n=n+1;e=l[n];break;end;else r(e[d],e[t]);n=n+1;e=l[n];end end end end until true;else local m;for f=0,6 do if 2<f then if 5<=f then if f>=2 then repeat if 5~=f then r[e[d]][e[t]]=r[e[u]];break;end;m=e[d]r[m]=r[m](g(r,m+1,e[t]))n=n+1;e=l[n];until true;else m=e[d]r[m]=r[m](g(r,m+1,e[t]))n=n+1;e=l[n];end else if 3<f then r(e[d],e[t]);n=n+1;e=l[n];else r(e[d],e[t]);n=n+1;e=l[n];end end else if 1>f then r[e[d]]=h[e[t]];n=n+1;e=l[n];else if-1<f then for m=32,91 do if f~=2 then r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];break;end;r(e[d],e[t]);n=n+1;e=l[n];break;end;else r(e[d],e[t]);n=n+1;e=l[n];end end end end end else if m>47 then repeat if m~=48 then if(r[e[d]]==r[e[u]])then n=n+1;else n=e[t];end;break;end;r[e[d]]=(e[t]~=0);until true;else r[e[d]]=(e[t]~=0);end end else if 52>m then if m>50 then r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];else if(r[e[d]]~=e[u])then n=n+1;else n=e[t];end;end else if m<53 then local f;r(e[d],e[t]);n=n+1;e=l[n];r(e[d],e[t]);n=n+1;e=l[n];f=e[d]r[f]=r[f](g(r,f+1,e[t]))n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r(e[d],e[t]);else if 52~=m then for f=11,72 do if m~=54 then r[e[d]]=o[e[t]];break;end;r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]]=h[e[t]];break;end;else r[e[d]][e[t]]=e[u];n=n+1;e=l[n];r[e[d]]=h[e[t]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r[e[d]]=r[e[t]][e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]][e[t]]=r[e[u]];n=n+1;e=l[n];r[e[d]]=h[e[t]];end end end end end end end end n=1+n;end;end;return ee end;local d=0xff;local h={};local u=(1);local t='';(function(n)local r=n local l=0x00 local e=0x00 r={(function(m)if l>0x30 then return m end l=l+1 e=(e+0x562-m)%0x16 return(e%0x03==0x0 and(function(r)if not n[r]then e=e+0x01 n[r]=(0x23);t={t..'\58 a',t};h[u]=y();u=u+((not f.b_AXfjwP)and 1 or 0);t[1]='\58'..t[1];d[2]=0xff;end return true end)'_lTFj'and r[0x3](0x1e9+m))or(e%0x03==0x1 and(function(r)if not n[r]then e=e+0x01 n[r]=(0x1f);end return true end)'JOmFq'and r[0x2](m+0x23a))or(e%0x03==0x2 and(function(r)if not n[r]then e=e+0x01 n[r]=(0x7d);t='\37';d={function()d()end};t=t..'\100\43';end return true end)'wmDme'and r[0x1](m+0x28f))or m end),(function(d)if l>0x20 then return d end l=l+1 e=(e+0x47b-d)%0x3b return(e%0x03==0x0 and(function(r)if not n[r]then e=e+0x01 n[r]=(0x43);end return true end)'kOmwv'and r[0x1](0x22f+d))or(e%0x03==0x2 and(function(r)if not n[r]then e=e+0x01 n[r]=(0xb1);end return true end)'OMoRb'and r[0x3](d+0xc3))or(e%0x03==0x1 and(function(r)if not n[r]then e=e+0x01 n[r]=(0xdf);end return true end)'fwmTm'and r[0x2](d+0x156))or d end),(function(f)if l>0x29 then return f end l=l+1 e=(e+0xef9-f)%0x47 return(e%0x03==0x2 and(function(r)if not n[r]then e=e+0x01 n[r]=(0xa7);d[2]=(d[2]*(j(function()h()end,g(t))-j(d[1],g(t))))+1;h[u]={};d=d[2];u=u+d;end return true end)'qmIaB'and r[0x3](0x290+f))or(e%0x03==0x1 and(function(r)if not n[r]then e=e+0x01 n[r]=(0xc4);end return true end)'gQprZ'and r[0x1](f+0x88))or(e%0x03==0x0 and(function(r)if not n[r]then e=e+0x01 n[r]=(0xdb);h[u]=de();u=u+d;end return true end)'mwRvy'and r[0x2](f+0x7e))or f end)}r[0x1](0x12fb)end){};local e=c(g(h));return e(...);end return y((function()local n={}local e=0x01;local r;if f.b_AXfjwP then r=f.b_AXfjwP(y)else r=''end if f.MvMLYMYn(r,f.ZlqlfICu)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(e,r,n,d,t,l)local l;if 3>=e then if 2>e then if e<1 then do return r(1),r(4,t,d,n,r),r(5,t,d,n)end;else do return function(r,e,n)if n then local e=(r/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(r%(e+e)>=e)and 1 or 0;end;end;end;end else if-2<e then for l=36,68 do if e>2 then do return r(1),r(4,t,d,n,r),r(5,t,d,n)end;break;end;do return 16777216,65536,256 end;break;end;else do return 16777216,65536,256 end;end end else if 5>=e then if e~=3 then repeat if e~=4 then local e=d;do return function()local n=r(n,e(e,e),e(e,e));e(1);return n;end;end;break;end;local e=d;local l,u,t=t(2);do return function()local d,n,r,f=r(n,e(e,e),e(e,e)+3);e(4);return(f*l)+(r*u)+(n*t)+d;end;end;until true;else local e=d;do return function()local n=r(n,e(e,e),e(e,e));e(1);return n;end;end;end else if e<=6 then do return t[n]end;else if 6<e then repeat if 7<e then do return n(e,nil,n);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(e,d,t,r,n)if n then return e[n]elseif r then return e else e[d]=t end end})end until true;else do return n(e,nil,n);end end end end end end),...)
+--[[
+
+888                       888     888 d8b         888                      888 888888b.     v.1.0.1 (03/12/2025)           
+888                       888     888 Y8P         888                      888 888  "88b                    
+888                       888     888             888                      888 888  .88P                    
+888     888  888  8888b.  Y88b   d88P 888 888d888 888888 888  888  8888b.  888 8888888K.   .d88b.  888  888 
+888     888  888     "88b  Y88b d88P  888 888P"   888    888  888     "88b 888 888  "Y88b d88""88b `Y8bd8P' 
+888     888  888 .d888888   Y88o88P   888 888     888    888  888 .d888888 888 888    888 888  888   X88K   
+888     Y88b 888 888  888    Y888P    888 888     Y88b.  Y88b 888 888  888 888 888   d88P Y88..88P .d8""8b. 
+88888888 "Y88888 "Y888888     Y8P     888 888      "Y888  "Y88888 "Y888888 888 8888888P"   "Y88P"  888  888 
+        ┌──────────────────────────────────────────┐┌──────────────────────────┐
+        │VirtualBox V.1.0.1 by FireflyProtector.xyz││Preset: Minimal Protection│
+        │         GitHub.com/HUTAOSHUSBAND         │└──────────────────────────┘
+        └──────────────────────────────────────────┘
+]]--
+("\076\117\097 \086\105\114\116\117\097\108\066\111\120 \098\121 \070\105\114\101\102\108\121\080\114\111\116\101\099\116\111\114\046\120\121\122"):gsub("\046\043", function(y)
+	FireflyProtect_0101000001110010011011110111010001100101011000110111010001100101011001000010000001110111011010010111010001101000001000000101011001101001011100100111010001110101011000010110110001000010011011110111100000100000011000100111100100100000010001100110100101110010011001010110011001101100011110010101000001110010011011110111010001100101011000110111010001101111011100100010111001111000011110010111101000001010 = y;
+end);
+return (function(...)
+	local X = {
+			"\116\103\087\119\056\082\061\061",
+			"\106\121\111\112\084\090\067\086\077\047\098\056\087\089\097\120\073\113\103\116\065\087\113\111\107\052\104\065\057\098\061\061",
+			"\086\110\068\088\081\082\101\074\052\122\104\061",
+			"\110\086\067\097\077\067\054\079\101\079\122\047\068\088\071\061",
+			"\053\071\104\051\113\099\057\049\099\082\061\061",
+			"\070\049\098\075\118\105\078\055\057\057\119\061",
+			"\069\070\108\073",
+			"\080\122\061\061",
+			"\057\071\116\121\090\121\050\089\068\088\069\088\055\081\089\081",
+			"\120\101\079\087\080\098\061\061",
+			"\090\105\047\073\112\085\112\053\076\105\111\101\116\101\052\057\088\122\061\061",
+			"\112\090\112\080\108\103\082\061",
+			"\054\043\050\078\083\077\052\070\101\098\061\061",
+			"\086\084\120\071\113\097\120\076\103\083\075\061",
+			"\087\100\049\089\050\110\047\112\053\072\108\090",
+			"\079\102\079\068\055\085\074\072\116\082\061\061",
+			"\071\111\085\043\097\082\061\061",
+			"\047\047\106\105\121\098\061\061",
+			"\106\053\087\066\100\079\112\108\084\080\097\054\082\086\098\113\109\056\120\054",
+			"\050\085\073\104\071\088\102\054\056\052\098\080\073\068\117\116\106\072\104\120\076\050\104\061",
+			"\109\054\056\114\057\122\061\061",
+			"\067\056\115\106\106\098\061\061",
+			"\111\116\118\114\085\120\049\090\106\119\048\049\097\073\114\120\072\090\049\061",
+			"\111\090\067\070\077\098\061\061",
+			"\103\074\114\052\087\056\104\090\084\098\113\119\118\105\116\103\122\052\047\076\086\113\098\071\078\083\072\051\049\098\061\061",
+			"\054\121\119\087\081\084\113\118\052\051\103\053\068\079\089\099\052\085\082\061",
+			"\078\090\066\122\070\122\061\061",
+			"\076\117\112\048\116\105\112\048\051\054\055\043\051\120\048\105",
+			"\088\081\067\111\088\086\113\070\055\105\078\115\110\070\070\052\048\090\067\121\080\106\083\068\085\068\066\049\070\100\052\053\069\089\109\055\098\077\088\106\101\106\087\056\108\100\099\121\100\119\043\115\100\090\097\101\072\110\115\089\072\070\090\048\052\066\117\074\065\072\116\071\114\051\068\117\083\079\077\107\111\102\120\047\073\078\116\051\102\075\051\081\088\065\082\103\050\117\122\061",
+			"\087\122\061\061",
+			"\112\053\115\122\055\079\107\048\057\079\049\048\102\074\107\119\049\089\051\061",
+			"\048\108\057\055\109\082\116\107\066\104\107\106\121\082\061\061",
+			"\068\098\066\104\053\047\067\120",
+			"\115\072\055\066\109\109\052\098\088\109\090\079\121\082\061\061",
+			"\114\110\079\081\078\098\061\061",
+			"\107\071\049\097\114\067\074\115\055\109\071\048\057\078\051\112\087\098\061\061",
+			"\117\121\107\086\067\054\115\047\065\087\047\117\115\078\079\118\083\119\106\090\085\098\061\061",
+			"\067\077\081\112\082\052\079\121\077\080\102\047\053\098\061\061",
+			"\049\056\080\119",
+			"\074\104\103\075\117\074\090\078\103\121\084\047\043\049\111\085\089\051\097\055\055\098\061\061",
+			"\110\085\067\100\106\076\113\050\082\066\051\108\069\085\071\070\115\087\068\066\090\083\071\061",
+			"\111\111\085\069\108\098\061\061",
+			"\087\117\051\090\121\110\097\079\089\076\053\053\120\109\098\053\075\122\087\082\082\100\061\061",
+			"\090\110\050\098",
+			"\078\079\078\056\105\100\061\061",
+			"\121\050\057\050\108\048\121\119\114\098\061\061",
+			"\057\043\048\121\083\067\102\065\121\107\075\061",
+			"\066\054\089\043\066\054\047\119",
+			"\076\080\087\050\112\054\109\054",
+			"\115\047\109\104\073\120\069\043\122\098\061\061",
+			"\097\122\086\072\068\106\084\104\105\089\097\068\052\100\065\053\057\118\053\111\085\112\069\114\043\074\054\089\112\089\067\074\113\084\099\078\043\080\083\056\105\119\086\118\082\089\115\079\103\107\050\100",
+			"\104\102\114\098\068\122\061\061",
+			"\067\106\048\117\049\097\076\056\082\108\122\061",
+			"\097\074\057\070\101\115\067\098\051\048\070\099",
+			"\120\108\115\087",
+			"\070\122\061\061",
+			"\107\085\082\118\104\056\079\075\085\107\054\102\111\122\061\061",
+			"\070\065\066\054\115\119\114\115\088\052\043\079",
+			"\081\099\118\088\071\082\061\061",
+			"\112\112\072\070\110\098\061\061",
+			"\088\048\090\098\085\119\112\118\112\056\109\101\112\082\061\061",
+			"\081\077\088\081\101\075\081\090\111\098\061\061",
+			"\077\097\085\047\086\102\104\050\065\047\119\061",
+			"\081\090\101\077\043\082\061\061",
+			"\076\115\076\099\049\081\080\119\106\056\117\104\074\100\122\048\068\075\071\061",
+			"\106\076\056\056\084\084\109\099\113\103\112\069\102\099\115\114\054\055\114\061",
+			"\119\107\097\074\100\072\055\071\120\082\061\061",
+			"\051\070\087\048\112\082\061\061",
+			"\080\076\087\086",
+			"\115\089\102\083\047\043\071\078\115\082\061\061",
+			"\110\099\117\081",
+			"\077\103\116\090\090\098\061\061",
+			"\066\075\052\120\086\105\088\085\067\105\113\105\055\070\067\099\098\086\111\056\082\114\104\061",
+			"\115\067\108\105\057\121\090\088\065\079\114\061",
+			"\071\109\067\103\077\074\103\053\116\103\052\065\113\100\061\061",
+			"\082\088\112\048\117\122\088\087",
+			"\086\073\068\102\103\119\071\122\056\074\114\070\081\076\067\074\082\068\073\086\073\097\083\106\088\052\087\106\103\098\061\061",
+			"\112\085\073\110\072\100\061\061",
+			"\056\049\112\051\112\056\079\055\113\077\043\112\071\100\061\061",
+			"\100\071\118\106\112\043\108\120",
+			"\068\079\117\054\105\122\061\061",
+			"\103\076\098\090\114\116\089\103\115\047\107\061",
+			"\097\100\079\100",
+			"\076\080\109\119\076\080\047\099\116\120\082\061",
+			"\051\117\109\068\112\054\055\043\076\079\052\103\116\079\051\061",
+			"\074\051\111\111\084\100\061\061",
+			"\049\116\053\052\089\082\065\078\081\122\061\061",
+			"\080\078\111\069\057\073\098\077\057\078\070\097\072\099\087\067\065\098\052\106\109\106\076\052\075\100\101\100\082\090\090\085\108\076\073\075\082\120\108\052\122\086\074\077\068\118\111\065\099\111\121\100\122\122\061\061",
+			"\052\066\103\065\086\055\111\083\104\122\061\061",
+			"\081\117\080\079\052\098\061\061",
+			"\084\056\054\089\073\120\069\101\106\082\049\061",
+			"\051\053\082\061",
+			"\110\110\070\108\065\047\055\085\069\099\090\050\117\065\056\121\083\080\057\057\120\100\061\061",
+			"\115\108\107\082",
+			"\101\073\103\105",
+			"\088\105\084\119\076\079\052\118\112\117\051\061",
+			"\047\077\112\116\057\122\070\117",
+			"\109\077\066\078\055\089\050\066\067\098\061\061",
+			"\076\070\052\087\101\118\071\061",
+			"\112\119\110\050\105\098\061\061",
+			"\051\117\109\099\116\120\055\105\102\098\061\061",
+			"\090\101\090\089\055\117\084\120\079\104\074\050\066\120\101\085\079\122\061\061",
+			"\071\113\084\079\115\098\113\070",
+			"\079\114\108\113\119\082\061\061",
+			"\053\114\074\085\115\120\080\115\072\097\043\056\070\099\102\101\075\077\082\061",
+			"\098\108\111\105\106\102\067\079\119\072\053\049\049\108\106\107\105\114\050\077\065\108\075\050\086\089\054\065\069\097\105\115\073\088\075\055",
+			"\115\077\113\082",
+			"\055\104\055\099\116\103\071\061",
+			"\100\073\072\114\078\100\061\061",
+			"\047\056\106\101\106\076\121\120\054\050\079\115\054\101\119\047\070\073\113\061",
+			"\101\116\103\103",
+			"\055\120\112\104\076\080\109\086\047\100\061\061",
+			"\073\112\069\054\050\090\057\057\043\082\075\078\110\043\113\043\073\072\055\103\122\049\071\043\054\055\084\053\072\098\061\061",
+			"\109\090\043\068\101\085\114\114\099\122\061\061",
+			"\066\116\086\110\073\066\048\051",
+			"\076\056\055\086\066\105\084\113",
+			"\065\086\117\087\090\069\099\051\103\082\061\061",
+			"\056\122\078\088\078\100\087\068",
+			"\072\075\083\049\085\122\061\061",
+			"\053\068\053\088\101\090\078\078\101\080\076\082",
+			"\081\111\085\102\073\065\077\100\117\098\076\102\049\098\061\061",
+			"\104\082\061\061",
+			"\098\071\052\076",
+			"\090\120\087\086\112\105\076\115\102\101\089\086\049\056\055\105\112\056\055\082\071\085\107\050\071\103\053\050\071\085\053\050\071\103\107\073\071\085\053\073\071\085\053\073\071\103\053\073\071\103\107\073\071\085\107\073\071\103\053\073\071\085\053\050\071\103\107\050\071\085\107\050\071\103\053\073\071\103\053\050\071\085\107\073\071\085\107\073\071\103\053\073\071\085\053\050\071\103\107\050\071\085\107\050\071\103\053\073\071\103\053\050\071\103\053\050\071\085\053\073\071\085\053\050\071\085\053\050\071\103\107\073\071\085\107\073\071\103\053\073\071\103\053\073\071\085\053\073\071\085\107\073\071\103\053\073\071\085\053\050\071\103\107\050\071\103\053\050\071\085\053\050\071\103\053\050\071\085\053\050\071\085\107\050\071\103\053\073\071\103\053\050\071\103\107\050\071\103\053\050\071\103\053\073\071\103\107\050\071\085\107\050\071\085\107\073\071\103\053\073\071\085\053\050\071\103\107\073\071\085\107\050\071\103\053\073\071\103\053\050\071\085\053\073\071\085\107\073\071\085\107\073\071\085\053\050\071\103\053\050\071\085\053\073\071\085\053\073\071\103\053\073\071\103\107\073\071\085\107\073\071\103\107\050\071\085\053\050\071\085\107\050\071\085\053\050\071\085\053\073\071\103\053\050\071\085\107\050\071\085\107\073\071\103\107\050\071\085\107\050\071\085\107\050\071\085\053\050\071\085\053\073\071\085\053\050\071\103\107\050\071\085\107\073\071\085\107\050\071\085\107\050\071\103\107\073\071\085\053\073\071\085\053\073\071\103\053\050\071\103\053\073\071\085\107\073\071\085\053\073\071\103\053\050\071\103\107\050\071\103\107\050\071\085\053\073\071\103\107\073\071\085\053\073\071\085\107\050\071\103\053\050\071\085\053\050\071\103\107\073\071\085\053\073\071\085\053\073\071\103\053\073\071\103\107\073\071\085\107\073\071\103\053\073\071\085\053\050\071\103\107\050\071\085\107\050\071\103\053\073\071\103\053\050\071\085\107\073\071\085\107\073\071\103\053\073\071\085\053\050\071\103\107\050\071\103\107\073\071\103\053\073\071\103\107\050\071\085\107\050\071\085\053\073\071\085\107\073\071\103\053\050\071\103\107\073\071\103\053\050\071\085\053\073\071\103\107\073\071\085\053\073\071\085\107\073\071\103\107\050\071\103\053\050\071\085\053\050\071\103\053\073\071\098\061\061",
+			"\073\055\053\104\079\070\056\104\080\098\073\066\053\082\061\061",
+			"\116\105\052\048\066\098\061\061",
+			"\085\107\105\089\097\098\061\061",
+			"\117\117\050\072\077\087\113\054\086\111\113\061",
+			"\119\112\066\057\109\122\075\069\100\116\098\061",
+			"\052\078\104\081\088\099\104\117\087\047\119\061",
+			"\081\085\068\069\108\084\122\049\072\090\114\074\102\099\116\073\054\104\102\105\120\117\122\061",
+			"\085\085\050\088",
+			"\112\054\067\084\086\074\082\106\081\074\085\075\109\074\116\088\054\077\053\061",
+			"\101\087\068\079\109\082\070\057",
+			"\097\068\073\075\118\098\061\061",
+			"\053\098\061\061",
+			"\097\082\075\069\119\122\061\061",
+			"\087\082\061\061",
+			"\051\053\043\079\109\069\080\081\118\101\083\109\100\053\086\051\085\113\053\120\102\113\090\117\112\108\071\080\078\082\115\057\101\083\066\088\080\069\074\117\051\050\081\069\108\052\122\070\085\079\049\061",
+			"\119\055\090\055\082\084\056\120\119\122\061\061",
+			"\048\080\088\051\075\112\113\061",
+			"\051\117\109\048\049\056\090\048\049\120\087\118\066\100\061\061",
+			"\055\079\090\116\088\119\048\105\071\079\051\070\085\056\047\051\047\082\061\061",
+			"\067\102\068\085",
+			"\083\067\111\079\074\087\055\082\088\098\053\089\108\122\061\061",
+			"\097\083\078\109\081\072\081\109\087\082\061\061",
+			"\088\043\086\113\078\081\049\068\116\088\076\122\090\065\112\049\071\084\100\120",
+			"\054\108\051\103\072\120\047\074\099\073\104\061",
+			"\054\070\069\071",
+			"\056\109\106\099\100\075\070\108\073\082\061\061",
+			"\112\117\101\043\049\122\061\061",
+			"\051\121\102\086\084\117\113\119\115\105\069\110\102\082\056\077\073\122\061\061",
+			"\118\067\112\099\083\100\061\061",
+			"\075\076\082\074\097\080\051\114\109\100\061\061",
+			"\049\079\052\099\049\070\098\061",
+			"\072\089\119\107",
+			"\113\079\083\048\099\113\078\068\083\122\061\061",
+			"\113\074\122\047",
+			"\114\071\057\119\085\116\050\100",
+			"\114\104\121\053\056\066\109\086\085\084\098\113\049\067\122\069\078\122\121\115\113\098\061\061",
+			"\079\077\052\079\102\105\084\117\112\105\075\097\055\105\076\106\076\105\081\061",
+			"\083\098\048\113\112\122\061\061",
+			"\118\117\073\111\101\119\119\078\100\077\070\117\054\082\061\061",
+			"\112\048\072\087\107\072\082\099\105\077\112\082\103\052\076\089",
+			"\079\076\112\067",
+			"\105\098\043\079\114\108\098\100",
+			"\116\099\088\055",
+			"\043\084\118\109\097\068\048\067\065\098\061\061",
+			"\067\108\122\043\052\080\120\087\119\107\122\118\052\088\113\083\051\047\048\052\115\082\061\061",
+			"\100\117\120\114",
+			"\074\070\116\054\067\098\061\061",
+			"\111\055\117\077\090\072\056\051",
+			"\099\071\104\047\051\048\088\117\068\104\069\071\112\098\061\061",
+			"\074\109\099\085\065\053\055\110",
+			"\057\099\076\043\115\100\061\061",
+			"\056\112\118\106",
+			"\114\052\069\097\081\057\043\070",
+			"\055\082\073\043\102\100\061\061",
+			"\085\082\061\061",
+			"\067\105\101\052\072\079\084\115\057\065\100\120\085\122\061\061",
+			"\099\110\075\082\086\082\061\061",
+			"\121\077\110\082\051\081\052\072\118\081\116\098",
+			"\073\077\115\078\107\100\061\061",
+			"\101\111\104\071\100\052\055\083\106\122\061\061",
+			"\079\122\054\122\065\048\100\104\072\100\114\068\102\074\074\100\113\049\053\122\102\105\053\118\116\077\049\102\103\098\061\061",
+			"\077\079\122\098\089\122\061\061",
+			"\112\043\066\097\052\122\061\061",
+			"\115\097\055\103\070\098\061\061",
+			"\098\115\075\114\054\067\116\050\112\100\061\061",
+			"\113\070\104\110\067\122\061\061",
+			"\057\122\109\104\084\108\088\108\087\049\065\122\070\082\061\061",
+			"\100\111\077\053\082\112\071\075\088\051\112\105\085\057\043\050\065\119\079\067\053\098\061\061",
+			"\085\119\075\048\071\070\074\069\079\089\053\119\079\119\111\068\071\098\061\061",
+			"\081\050\103\077\078\082\061\061",
+			"\112\117\084\075\049\070\076\118\076\070\052\077\051\070\111\053\055\082\061\061",
+			"\111\071\082\100\090\048\048\105\071\077\049\061",
+			"\051\120\101\118\087\082\061\061",
+			"\099\102\048\100\099\120\055\072\066\090\052\071\073\098\061\061",
+			"\070\113\105\075\057\116\106\107\108\106\099\098\089\072\116\110\050\079\122\061",
+			"\088\089\076\067\085\054\109\108\074\103\055\055\112\120\104\050",
+			"\105\050\043\055\108\048\047\073\049\065\113\061",
+			"\050\122\061\061",
+			"\101\071\081\056",
+			"\113\100\061\061",
+			"\101\106\074\079\085\078\057\070\050\089\055\078\114\122\061\061",
+			"\076\079\052\103\116\079\051\061",
+			"\119\048\053\075\113\075\070\098\080\113\069\112\109\066\073\116\098\107\114\090\116\075\111\049\100\086\117\116\100\122\061\061",
+			"\109\085\087\047\103\077\052\101\113\080\098\099\071\100\061\061",
+			"\121\073\103\050\106\119\076\088",
+			"\071\106\085\071\089\068\081\104\119\100\061\061",
+			"\110\088\077\052\117\080\115\055\101\084\116\080\078\053\099\100\048\082\122\061",
+			"\080\083\111\082\069\079\099\067\075\100\061\061",
+			"\047\066\082\103",
+			"\105\114\071\087\048\112\121\070",
+			"\099\057\104\065\099\114\108\056\074\118\071\061",
+			"\068\077\048\101\052\078\110\074\112\118\079\111\098\118\107\047\081\050\071\048\077\098\061\061",
+			"\107\119\104\086\055\098\061\061",
+			"\056\099\121\048",
+			"\068\098\061\061",
+			"\121\104\085\119\072\066\055\108\056\043\099\052\080\111\081\050\105\052\117\074\078\088\047\114\049\106\109\106\071\122\061\061",
+			"\055\101\097\104",
+			"\069\055\117\050",
+			"\073\122\061\061",
+			"\049\074\085\048",
+			"\087\119\050\056\098\087\067\080",
+			"\066\090\086\107\081\100\061\061",
+			"\102\117\052\086\116\122\061\061",
+			"\065\104\057\054\066\119\121\086\086\098\061\061",
+			"\050\083\048\120\119\082\061\061",
+			"\073\101\084\114\113\048\066\069\122\101\087\111",
+			"\055\104\055\099\116\082\061\061",
+			"\107\052\051\048\070\098\061\061",
+			"\100\048\056\114\105\100\061\061",
+			"\114\080\075\078\099\055\104\066",
+			"\070\105\081\076\106\101\074\061",
+			"\105\082\114\102",
+			"\051\068\078\118\066\098\061\061",
+			"\080\069\120\122\071\105\074\078\116\100\061\061",
+			"\117\104\114\043\117\070\071\084\047\086\049\061",
+			"\121\122\061\061",
+			"\119\085\072\098\109\070\100\097\106\082\082\073\108\066\117\105\083\072\081\074\052\109\119\061",
+			"\098\051\090\118\115\104\049\054\052\118\107\061",
+			"\122\110\101\049\109\073\102\111\048\082\061\061",
+			"\120\116\089\067",
+			"\049\079\090\043\116\079\119\061",
+			"\054\102\113\113\104\082\061\061",
+			"\074\107\043\047\069\071\113\076\081\120\066\075\101\082\061\061",
+			"\119\090\088\086\082\098\061\061",
+			"\104\112\082\089",
+			"\071\100\111\103\080\097\082\055",
+			"\112\120\086\052\077\078\071\079\088\085\054\121\108\079\089\065\078\083\051\097\120\043\109\087\088\068\071\061",
+			"\057\049\112\082\088\098\061\061",
+			"\076\077\120\115\087\102\047\103\086\077\090\078\053\049\080\105\050\085\087\047\112\100\054\104\120\119\086\065\110\097\114\061",
+			"\097\072\102\120\072\056\068\083\074\114\049\101\107\122\061\061",
+			"\088\048\090\098\085\119\055\105\112\056\109\101\112\082\061\061",
+			"\076\055\114\089\113\073\088\104\088\056\057\103\056\112\089\065\076\082\098\061",
+			"\116\099\118\119",
+			"\047\101\090\112\053\112\122\069\052\050\107\061",
+			"\109\084\075\107\055\099\109\083",
+			"\116\051\050\048\115\104\049\075\111\053\055\100",
+			"\076\080\087\050\112\082\061\061",
+			"\078\047\067\053\097\116\047\053\105\088\122\061",
+			"\089\050\082\111\110\082\061\061",
+			"\049\100\066\055",
+			"\090\120\087\086\112\082\061\061",
+			"\103\119\085\074",
+			"\115\106\120\111",
+			"\098\098\061\061",
+			"\112\120\048\122\049\056\071\061",
+			"\074\110\121\105",
+			"\101\075\100\113\107\114\088\081\068\075\087\085\106\072\072\054\114\121\088\097\074\110\116\078\088\121\080\097\103\085\120\050\070\043\068\050\054\104\054\051\081\081\110\097\051\066\103\089\117\097\112\101\078\076\052\117\072\053\077\055\081\112\073\085\097\077\083\087\079\076\066\114\072\111\104\114",
+			"\049\056\103\075\114\113\111\103\109\122\061\061",
+			"\111\065\079\057\114\082\061\061",
+			"\089\113\082\052\072\050\118\068\077\070\075\061",
+			"\117\054\090\051\071\100\066\052\080\116\114\114",
+			"\051\117\109\118\112\054\111\099\116\120\055\105\102\098\061\061",
+			"\052\080\106\076\067\066\083\080\112\089\102\103\109\100\061\061",
+			"\087\099\084\057\074\090\108\082\121\108\081\079\065\106\069\082\114\108\117\065\072\052\083\082\050\069\052\055\048\082\061\061",
+			"\110\097\076\072\050\103\098\050\075\107\098\082\115\098\061\061",
+			"\117\065\114\104\081\051\051\070",
+			"\115\080\048\080\122\098\061\061",
+			"\085\083\110\087\050\065\099\098\120\119\101\086\081\057\074\055\053\043\073\112\076\122\112\085\054\118\086\098\106\122\061\061",
+			"\116\098\074\109\084\114\122\105\121\111\087\106\067\100\061\061",
+			"\097\065\105\065\069\076\122\121\109\078\089\103",
+			"\072\086\109\077\057\047\109\112\100\116\112\081\117\109\089\097\048\083\104\061",
+			"\113\106\067\049\087\084\082\061",
+			"\108\083\110\107",
+			"\112\053\111\084\066\107\050\050\057\111\109\111\048\075\074\043\083\086\119\061",
+			"\089\043\083\113",
+			"\074\103\082\050\074\074\076\083\074\103\112\080\098\119\050\099",
+			"\112\055\112\089\049\053\048\051\079\085\052\074\098\105\050\068\112\100\061\061",
+			"\043\100\061\061",
+			"\067\048\055\106\112\122\061\061",
+			"\074\086\055\115\112\054\052\105\102\089\107\069\076\117\111\077\071\098\061\061",
+			"\117\114\077\106\075\122\061\061",
+			"\089\112\098\087\086\105\074\053\100\075\074\061",
+			"\111\088\080\048\107\101\090\121\065\116\113\061",
+			"\049\120\112\068\049\056\076\105",
+			"\071\065\101\121\049\088\050\078\088\056\122\112\102\048\057\072",
+			"\088\098\068\071\112\103\057\048",
+			"\047\054\090\066\106\113\085\106\065\119\073\070\066\098\061\061",
+			"\114\102\071\066\049\089\065\048\108\088\083\106\102\070\098\078\068\082\061\061",
+			"\105\083\098\047\112\113\056\115\118\082\061\061",
+			"\078\104\069\065\113\071\066\072",
+			"\076\082\080\068\113\076\052\073\088\112\069\073\054\077\079\076\090\050\102\101",
+			"\090\056\109\118\116\120\112\104\076\098\061\061",
+			"\081\102\080\052\102\054\116\076\070\089\082\061",
+			"\078\104\068\114\053\110\088\116\076\082\061\061",
+			"\069\100\057\065\070\113\087\075\076\051\067\065\099\098\061\061",
+			"\114\106\085\109\110\090\121\084\084\100\061\061",
+			"\104\067\103\050\119\073\104\061",
+			"\066\068\103\080\120\100\061\061",
+			"\101\057\077\054",
+			"\114\101\050\070\054\090\116\052\080\100\061\061",
+			"\117\052\080\087",
+			"\090\107\110\116\051\085\088\053\066\047\107\061",
+			"\090\056\109\115\049\056\071\119",
+			"\099\070\089\107\068\100\061\061",
+			"\052\065\056\117",
+			"\080\113\052\097\070\072\086\084\116\047\057\068\113\082\061\061",
+			"\088\048\112\097\090\117\050\117\085\048\087\113\049\054\087\070\074\122\061\061",
+			"\073\108\102\108\100\122\061\061",
+			"\049\122\057\053\070\103\047\074\067\069\108\081",
+			"\078\053\073\048\067\077\070\104",
+			"\107\049\084\056\097\082\061\061",
+			"\082\043\078\050\071\122\068\105\066\053\107\061",
+			"\065\050\054\107\043\122\061\061",
+			"\076\105\084\050\051\105\090\075",
+			"\119\049\098\074\120\114\053\087\088\082\061\061",
+			"\110\111\115\072\065\102\066\101",
+			"\049\071\043\084\103\071\097\087\069\087\073\043\085\121\105\087\113\098\061\061",
+			"\051\117\109\115\112\105\081\061",
+			"\055\120\112\104\076\080\109\086\071\122\061\061",
+			"\072\082\054\101\087\078\087\070\073\098\061\061",
+			"\098\083\111\071\076\100\085\111\043\122\061\061",
+			"\121\105\043\117\099\068\083\098\055\072\100\061",
+			"\071\052\100\048\074\054\056\083\067\100\061\061",
+			"\043\120\099\108",
+			"\088\120\066\107\087\122\061\061",
+			"\097\115\070\071\074\078\122\113\080\098\100\061",
+			"\068\113\115\119\070\120\084\109\114\080\072\079\122\090\087\122\120\116\106\104\115\122\061\061",
+			"\098\118\076\122\081\086\050\065\056\049\104\061",
+			"\047\112\077\051\048\084\097\114\118\075\053\061",
+			"\122\103\068\049",
+			"\074\074\047\083\071\079\107\069\090\074\098\073\090\080\052\106\074\120\104\061",
+			"\086\065\082\068\076\056\114\105\057\107\051\061",
+			"\074\068\080\068\086\104\118\054",
+			"\087\056\104\055\047\113\051\050\070\048\107\114\077\115\068\067\116\053\066\054\052\098\061\061",
+			"\048\073\120\103\077\098\061\061",
+			"\116\066\057\100\071\122\061\061",
+			"\049\117\048\047\098\048\087\054\049\085\087\083\076\086\087\088\102\098\061\061",
+			"\101\072\119\102\077\122\061\061",
+			"\097\052\105\078\100\122\061\061",
+			"\090\057\120\072\119\084\088\101\048\049\074\061",
+			"\071\043\083\049\077\081\106\078\114\079\079\083\047\088\070\065\084\098\119\088\057\108\097\049\116\077\120\076\106\098\061\061",
+			"\078\051\066\049\052\098\066\082",
+			"\088\117\112\048\055\117\112\086\076\120\087\104\112\082\061\061",
+			"\115\108\109\085\077\083\069\049\048\047\057\082",
+			"\122\071\051\057\083\099\053\061",
+			"\090\120\087\118\112\074\076\099\049\070\090\048\098\105\084\104\112\054\090\048\049\056\047\098\112\119\090\115\051\054\090\119",
+			"\083\079\052\082\102\071\065\114\103\051\074\061",
+			"\068\104\055\102\053\071\102\122\051\098\061\061",
+			"\112\055\112\086\116\089\112\088\049\089\089\116\098\105\051\069\090\089\104\061",
+			"\100\090\086\051\089\100\098\077",
+			"\071\090\081\055\108\072\081\119\103\098\061\061",
+			"\089\082\101\057\097\070\104\071\079\098\061\061",
+			"\050\066\049\099\079\090\067\065",
+			"\076\098\108\089\084\107\043\083\116\118\055\056\068\098\061\061",
+			"\078\108\110\109\100\081\116\119",
+			"\087\051\053\112\052\111\043\080\104\077\081\061",
+			"\069\069\070\053\071\122\061\061",
+			"\079\109\066\049\077\098\061\061",
+			"\089\074\101\088\056\052\112\066\057\070\049\061",
+			"\066\117\052\068\112\082\061\061",
+			"\109\112\115\071\077\099\047\112\066\100\068\112\119\122\061\061",
+			"\050\114\052\108\057\113\075\065\085\122\061\061",
+			"\057\104\101\054\051\076\111\100",
+			"\074\049\099\051\090\122\061\061",
+			"\108\111\067\121\109\087\109\110\080\121\076\099\080\074\065\120\065\098\061\061",
+			"\119\048\087\110\075\048\073\105",
+			"\077\116\081\106\079\122\054\115\089\098\061\061",
+			"\085\056\111\072\057\077\076\074\074\104\097\098\085\080\090\115",
+			"\086\055\075\043",
+			"\121\105\119\072\072\122\079\099\101\098\061\061",
+			"\087\120\053\079\043\111\066\081\108\048\116\075\082\055\105\049\069\122\111\068\048\122\061\061",
+			"\049\048\118\085\103\082\061\061",
+			"\054\088\078\086",
+			"\090\119\115\107\055\055\089\104\047\053\112\054\057\104\087\073",
+			"\082\043\113\071\100\071\050\055",
+			"\112\079\112\115\051\054\113\061",
+			"\111\121\077\050\101\078\047\117\079\050\081\061",
+			"\117\110\107\087\115\100\061\061",
+			"\049\083\106\077\116\080\081\097\083\074\104\104\057\075\074\061",
+			"\099\098\061\061",
+			"\120\111\084\075",
+			"\076\053\118\070\072\098\061\061",
+			"\114\100\105\068\065\085\080\099\111\083\097\071\100\112\065\105\118\043\071\061",
+			"\090\082\106\101\119\086\047\084\089\122\061\061",
+			"\052\052\119\109",
+			"\080\047\090\049\079\054\071\061",
+			"\110\047\065\078",
+			"\116\098\061\061",
+			"\115\099\053\101",
+			"\102\115\080\079\073\122\061\061",
+			"\047\109\119\073\081\109\122\084\089\106\052\066",
+			"\089\082\122\082\081\079\106\069",
+			"\079\119\043\051\105\077\066\081\113\043\106\069\102\100\061\061",
+			"\110\055\105\073",
+			"\043\078\102\098\086\122\061\061",
+			"\054\105\081\087\118\100\061\061",
+			"\049\053\067\047\117\116\081\054\105\080\076\067\078\069\122\083\086\078\113\061",
+			"\049\120\052\118\112\080\109\068",
+			"\051\117\109\113\112\100\061\061",
+			"\076\056\112\103",
+			"\119\080\102\083\075\056\112\105\055\109\099\121\108\100\061\061",
+			"\052\086\119\110\054\087\121\100\118\082\061\061",
+			"\112\067\072\110\088\100\061\061",
+			"\086\089\089\098",
+			"\051\102\090\115",
+			"\080\117\109\122",
+			"\103\087\117\056\081\114\056\070\105\100\105\071",
+			"\073\069\079\089\050\122\061\061",
+			"\056\104\078\078\107\109\086\049\089\122\061\061",
+			"\065\084\118\106\099\088\122\117\079\082\061\061",
+			"\052\055\104\070\116\098\061\061",
+			"\078\074\043\110\098\122\104\061",
+			"\105\120\067\068",
+			"\090\079\087\119\112\056\109\118\116\120\112\104\076\098\061\061",
+			"\082\069\067\078\109\122\061\061",
+			"\077\067\053\098\047\057\111\087",
+			"\077\112\055\083\097\122\061\061",
+			"\070\057\066\104\069\069\097\069\088\110\098\061",
+			"\084\050\106\077\077\122\084\074",
+			"\108\085\048\072",
+			"\114\122\061\061",
+			"\110\107\069\075\098\107\056\070\088\098\061\061",
+			"\078\076\043\057\097\080\098\081\089\122\061\061",
+			"\122\110\113\069\048\082\097\080\088\122\061\061",
+			"\072\088\107\110\121\072\050\115",
+			"\074\100\086\076\104\047\067\066\121\082\061\061",
+			"\073\100\061\061",
+			"\110\112\106\105\098\085\078\056\043\075\114\061",
+			"\087\112\119\089\083\108\088\076\043\082\061\061",
+			"\090\079\112\119\076\080\047\122\102\082\061\061",
+			"\118\055\109\105\107\109\097\053\043\051\104\061",
+			"\108\083\118\109",
+			"\103\056\074\047\050\066\110\051\116\080\051\061",
+			"\079\086\083\050\108\090\047\067\117\106\110\098\080\075\057\081",
+			"\102\112\107\056\118\088\051\097\072\090\075\054\089\082\061\061",
+			"\090\087\097\065\057\043\098\079",
+			"\122\114\112\050\057\120\075\070\075\079\081\061",
+			"\048\107\072\113\105\073\072\089\110\098\061\061",
+			"\089\054\048\052\071\107\065\065\088\055\081\061",
+			"\116\108\103\069\116\070\074\107\069\100\087\118\053\066\066\103\057\103\048\080",
+			"\121\110\121\101\081\105\113\061",
+			"\115\122\098\103\102\103\100\119\101\097\107\061",
+			"\090\105\084\120\116\082\061\061",
+			"\055\068\077\115\103\086\065\119\109\100\061\061",
+			"\101\122\061\061",
+			"\052\087\071\077\098\067\097\052\099\100\061\061",
+			"\120\103\088\087\117\122\061\061",
+			"\109\073\078\057\052\098\090\083\077\043\105\081\068\056\117\103\084\117\102\068\049\080\073\101\116\081\101\072\122\098\061\061",
+			"\055\120\052\047\074\048\101\097\088\079\112\055\102\117\111\050",
+			"\055\104\101\054\071\074\051\073\102\055\047\104\057\053\048\068\102\079\051\061",
+			"\049\088\077\101\108\102\122\098\120\050\053\073\052\097\073\087\108\099\086\076\051\100\061\061",
+			"\087\054\055\110\106\114\076\067\056\098\061\061",
+			"\050\116\120\099\055\080\122\107\053\082\114\061",
+			"\086\080\081\104\113\047\086\071\052\105\053\087\053\113\075\061",
+			"\049\080\067\081\089\081\071\085",
+			"\090\083\090\104",
+			"\067\108\097\090\110\078\113\057\074\099\069\087\087\122\061\061",
+			"\090\048\088\057\082\069\078\120\055\115\113\053\050\071\072\090\067\080\071\116\079\122\061\061",
+			"\114\113\049\081\057\106\108\117\122\120\050\118\102\056\067\112\109\074\104\061",
+			"\077\082\061\061",
+			"\072\116\054\049\051\099\078\107",
+			"\116\079\112\118",
+			"\103\082\104\076\110\082\105\054\089\104\080\117\069\102\051\121\068\051\079\117\117\100\061\061",
+			"\051\102\089\068\120\052\076\066\086\085\100\061",
+			"\110\068\120\067\116\069\071\102\079\122\061\061",
+			"\104\083\069\117\067\070\081\061",
+			"\111\056\110\086\048\122\066\071\100\111\082\061",
+			"\085\122\061\061",
+			"\065\065\067\122\082\120\108\089",
+			"\078\082\114\119",
+			"\108\097\056\078\086\050\082\061",
+			"\122\048\108\105\066\098\121\090\089\102\113\088\085\122\050\118\054\119\103\117\103\122\061\061",
+			"\115\122\061\061",
+			"\049\082\061\061",
+			"\070\097\098\061",
+			"\074\079\112\087\102\070\090\075\079\103\087\055\088\080\089\072",
+			"\077\098\086\101\111\055\104\103\098\110\110\103\111\122\099\081\117\100\061\061",
+			"\051\108\109\114",
+			"\108\109\054\084\100\074\048\076\122\106\116\117\066\054\107\049\109\106\081\061",
+			"\069\080\117\110\067\098\061\061",
+			"\084\109\082\084\119\118\052\099",
+			"\122\104\073\102",
+			"\119\105\071\088\121\105\071\050\098\099\105\083\121\071\078\085\097\097\053\053\121\065\104\061",
+			"\088\100\055\065\050\122\061\061",
+			"\071\078\109\104\086\100\061\061",
+			"\111\098\061\061",
+			"\090\120\087\118\112\074\076\099\049\070\090\048\090\117\101\099\116\079\074\061",
+			"",
+			"\106\070\101\106\070\098\061\061",
+			"\079\089\056\070\117\122\061\061",
+			"\081\122\078\051\100\120\075\106\083\122\061\061",
+			"\052\121\067\065\120\103\048\086\087\122\061\061",
+			"\086\054\099\101\106\122\061\061",
+			"\111\089\048\110\081\056\109\078\048\119\071\061",
+			"\077\079\084\108",
+			"\119\076\120\074\097\081\086\076\078\122\061\061",
+		};
+	for y, p in ipairs({ { 1, 510 }, { 1, 150 }, { 151, 510 } }) do
+		while p[1] < p[2] do
+			X[p[1]], X[p[2]], p[1], p[2] = X[p[2]], X[p[1]], p[1] + 1, p[2] - 1;
+		end;
+	end;
+	local function B(y)
+		return X[y + 258];
+	end;
+	do
+		local y = string.char;
+		local p = X;
+		local B = string.len;
+		local L = type;
+		local f = {
+				["\043"] = 34,
+				o = 33,
+				y = 31,
+				D = 46,
+				S = 15,
+				p = 25,
+				["\054"] = 39,
+				["\051"] = 24,
+				b = 16,
+				q = 40,
+				["\055"] = 21,
+				m = 1,
+				n = 63,
+				O = 22,
+				T = 61,
+				F = 55,
+				M = 3,
+				A = 62,
+				d = 0,
+				Z = 17,
+				x = 54,
+				["\047"] = 13,
+				["\052"] = 9,
+				["\050"] = 49,
+				W = 41,
+				["\049"] = 28,
+				h = 36,
+				l = 2,
+				s = 45,
+				I = 50,
+				i = 38,
+				H = 10,
+				N = 59,
+				K = 44,
+				w = 52,
+				["\057"] = 14,
+				R = 32,
+				u = 6,
+				["\056"] = 7,
+				L = 29,
+				k = 8,
+				v = 47,
+				Y = 5,
+				e = 37,
+				t = 27,
+				["\053"] = 4,
+				P = 23,
+				z = 48,
+				["\048"] = 53,
+				G = 12,
+				j = 11,
+				C = 43,
+				f = 30,
+				Q = 60,
+				E = 58,
+				V = 51,
+				X = 18,
+				J = 20,
+				U = 19,
+				r = 56,
+				g = 35,
+				c = 42,
+				a = 57,
+				B = 26,
+			};
+		local l = string.sub;
+		local w = table.concat;
+		local M = math.floor;
+		local n = table.insert;
+		for X = 1, #p, 1 do
+			local Q = p[X];
+			if L(Q) == "\115\116\114\105\110\103" then
+				local L = B(Q);
+				local h = {};
+				local U = 1;
+				local t = 0;
+				local P = 0;
+				local d = 0;
+				while U <= L do
+					local p = l(Q, U, U);
+					local X = f[p];
+					if X then
+						t = t + X * 64 ^ (3 - P);
+						P = P + 1;
+						d = d + 1;
+						if P == 4 then
+							P = 0;
+							local p = M(t / 65536);
+							local X = M((t % 65536) / 256);
+							local B = t % 256;
+							n(h, y((p - 1) % 256, (X - 1) % 256, (B - 1) % 256));
+							t = 0;
+						end;
+					elseif p == "\061" then
+						local p = M(t / 65536);
+						if U >= L or l(Q, U + 1, U + 1) ~= "\061" then
+							local X = M((t % 65536) / 256);
+							n(h, y((p - 1) % 256, (X - 1) % 256));
+						else
+							n(h, y((p - 1) % 256));
+						end;
+						break;
+					end;
+					U = U + 1;
+				end;
+				p[X] = w(h);
+			end;
+		end;
+	end;
+	local y = setmetatable;
+	local p = function()
+ 
+		end;
+	return (function(y, L, f, l, w, M, Q, b, x, m, d, r, c, J, n, h, e, v, t, D, p, T, X, G, U, P, W)
+		J, n, p, h, G, P, r, b, c, x, T, m, d, U, D, v, W, X, t, e = function(y)
+				U[y] = U[y] - 1;
+				if U[y] == 0 then
+					U[y], h[y] = nil, nil;
+				end;
+			end, l({
+				[1] = function(y, p)
+					local X = 45;
+					X = X * 4;
+					X = X * 4;
+					X = X - 34;
+					return y ^ p;
+				end,
+				[2] = function(y, p)
+					local X = 26;
+					X = X - 1;
+					return y ^ p;
+				end,
+				[3] = function(y, p)
+					local X, B, L = 26, 39, 53;
+					X = X - 6;
+					return y ^ p;
+				end,
+				[4] = function(y, p)
+					local X, B, L = 73, 59, 67;
+					L = L * 10;
+					X = X + 41;
+					X = X * 9;
+					return y ^ p;
+				end,
+				[5] = function(y, p)
+					local X, B, L = 97, 70, 59;
+					X = X - 6;
+					B = B * 6;
+					X = X - 8;
+					return y ^ p;
+				end,
+				[6] = function(y, p)
+					local X = 91;
+					X = X - 8;
+					X = X * 5;
+					X = X + 35;
+					return y ~= p;
+				end,
+				[7] = function(y, p)
+					local X = 95;
+					X = X - 22;
+					return y ~= p;
+				end,
+				[8] = function(y, p)
+					local X = 97;
+					X = X + 43;
+					return y ~= p;
+				end,
+				[9] = function(y, p)
+					local X = 55;
+					X = X * 4;
+					X = X + 40;
+					return y ~= p;
+				end,
+				[10] = function(y, p)
+					local X = 98;
+					X = X * 9;
+					X = X * 2;
+					X = X - 12;
+					return y ~= p;
+				end,
+				[11] = function(y, p)
+					local X, B, L = 34, 78, 78;
+					L = L + 2;
+					X = X * 5;
+					L = L - 21;
+					return y > p;
+				end,
+				[12] = function(y, p)
+					local X, B, L = 95, 69, 92;
+					X = X + 43;
+					B = B * 7;
+					return y > p;
+				end,
+				[13] = function(y, p)
+					local X, B, L = 40, 20, 79;
+					X = X + 6;
+					B = B + 26;
+					return y > p;
+				end,
+				[14] = function(y, p)
+					local X, B, L = 71, 8, 51;
+					X = X + 49;
+					X = X - 41;
+					return y > p;
+				end,
+				[15] = function(y, p)
+					local X, B, L = 6, 57, 9;
+					L = L + 45;
+					return y > p;
+				end,
+				[16] = function(y, p)
+					local X = 96;
+					X = X + 35;
+					X = X * 6;
+					X = X * 7;
+					return y + p;
+				end,
+				[17] = function(y, p)
+					local X = 20;
+					X = X + 40;
+					return y + p;
+				end,
+				[18] = function(y, p)
+					local X, B, L = 54, 54, 91;
+					B = B * 2;
+					B = B - 2;
+					L = L * 2;
+					return y + p;
+				end,
+				[19] = function(y, p)
+					local X, B = 41, 32;
+					X = X * 7;
+					return y + p;
+				end,
+				[20] = function(y, p)
+					local X, B = 75, 13;
+					X = X + 11;
+					B = B - 4;
+					return y + p;
+				end,
+				[21] = function(y, p)
+					local X, B, L = 23, 50, 94;
+					L = L - 16;
+					X = X * 6;
+					L = L + 6;
+					return y == p;
+				end,
+				[22] = function(y, p)
+					local X = 63;
+					X = X - 40;
+					return y == p;
+				end,
+				[23] = function(y, p)
+					local X, B = 69, 29;
+					B = B * 6;
+					B = B - 46;
+					X = X + 37;
+					return y == p;
+				end,
+				[24] = function(y, p)
+					local X, B, L = 56, 63, 33;
+					B = B + 17;
+					return y == p;
+				end,
+				[25] = function(y, p)
+					local X, B, L = 13, 92, 74;
+					B = B + 18;
+					return y == p;
+				end,
+				[26] = function(y, p)
+					local X, B = 86, 12;
+					X = X + 29;
+					return y - p;
+				end,
+				[27] = function(y, p)
+					local X = 45;
+					X = X * 1;
+					return y - p;
+				end,
+				[28] = function(y, p)
+					local X = 55;
+					X = X - 9;
+					X = X * 4;
+					X = X - 10;
+					return y - p;
+				end,
+				[29] = function(y, p)
+					local X, B = 2, 99;
+					X = X + 27;
+					return y - p;
+				end,
+				[30] = function(y, p)
+					local X, B = 3, 93;
+					X = X + 44;
+					return y - p;
+				end,
+				[31] = function(y)
+					local p = 96;
+					p = p - 45;
+					return not y;
+				end,
+				[32] = function(y)
+					local p, X = 63, 97;
+					X = X - 44;
+					return not y;
+				end,
+				[33] = function(y)
+					local p, X = 71, 47;
+					X = X + 43;
+					X = X + 35;
+					p = p - 6;
+					return not y;
+				end,
+				[34] = function(y)
+					local p, X = 71, 95;
+					p = p * 9;
+					p = p - 35;
+					return not y;
+				end,
+				[35] = function(y)
+					local p = 40;
+					p = p - 21;
+					return not y;
+				end,
+				[36] = function(y, p)
+					local X = 7;
+					X = X * 5;
+					X = X + 8;
+					X = X - 3;
+					return y <= p;
+				end,
+				[37] = function(y, p)
+					local X = 100;
+					X = X - 50;
+					X = X - 23;
+					X = X * 9;
+					return y <= p;
+				end,
+				[38] = function(y, p)
+					local X = 18;
+					X = X * 6;
+					X = X + 13;
+					X = X * 9;
+					return y <= p;
+				end,
+				[39] = function(y, p)
+					local X, B, L = 3, 64, 68;
+					L = L * 3;
+					return y <= p;
+				end,
+				[40] = function(y, p)
+					local X, B, L = 54, 4, 100;
+					B = B * 8;
+					X = X * 1;
+					B = B * 6;
+					return y <= p;
+				end,
+				[41] = function(y, p)
+					local X = 49;
+					X = X * 8;
+					X = X + 30;
+					return y / p;
+				end,
+				[42] = function(y, p)
+					local X = 52;
+					X = X * 9;
+					return y / p;
+				end,
+				[43] = function(y, p)
+					local X = 95;
+					X = X * 1;
+					X = X - 11;
+					X = X - 22;
+					return y / p;
+				end,
+				[44] = function(y, p)
+					local X, B = 57, 64;
+					B = B - 15;
+					B = B - 17;
+					X = X * 10;
+					return y / p;
+				end,
+				[45] = function(y, p)
+					local X, B = 54, 75;
+					B = B * 6;
+					return y / p;
+				end,
+				[46] = function(y)
+					local p, X = 37, 65;
+					p = p - 23;
+					p = p - 50;
+					X = X - 6;
+					return -y;
+				end,
+				[47] = function(y)
+					local p = 36;
+					p = p * 5;
+					return -y;
+				end,
+				[48] = function(y)
+					local p, X = 93, 75;
+					X = X - 18;
+					p = p * 10;
+					X = X - 30;
+					return -y;
+				end,
+				[49] = function(y)
+					local p, X = 86, 92;
+					X = X + 15;
+					X = X * 10;
+					return -y;
+				end,
+				[50] = function(y)
+					local p, X = 97, 30;
+					X = X - 28;
+					p = p * 1;
+					return -y;
+				end,
+				[51] = function(y, p)
+					local X, B, L = 45, 92, 99;
+					B = B * 5;
+					X = X * 8;
+					B = B - 41;
+					return y < p;
+				end,
+				[52] = function(y, p)
+					local X, B, L = 27, 39, 7;
+					X = X + 27;
+					L = L * 3;
+					return y < p;
+				end,
+				[53] = function(y, p)
+					local X, B = 39, 31;
+					X = X + 22;
+					return y < p;
+				end,
+				[54] = function(y, p)
+					local X, B = 16, 46;
+					B = B + 22;
+					X = X + 46;
+					B = B - 15;
+					return y < p;
+				end,
+				[55] = function(y, p)
+					local X = 4;
+					X = X - 27;
+					X = X * 3;
+					return y < p;
+				end,
+				[56] = function(y, p)
+					local X = 64;
+					X = X + 25;
+					return y % p;
+				end,
+				[57] = function(y, p)
+					local X, B = 72, 12;
+					B = B + 21;
+					B = B * 9;
+					X = X + 19;
+					return y % p;
+				end,
+				[58] = function(y, p)
+					local X = 70;
+					X = X * 4;
+					X = X - 15;
+					X = X + 11;
+					return y % p;
+				end,
+				[59] = function(y, p)
+					local X = 26;
+					X = X + 45;
+					return y % p;
+				end,
+				[60] = function(y, p)
+					local X = 51;
+					X = X - 36;
+					X = X + 27;
+					return y % p;
+				end,
+				[61] = function(y, p)
+					local X, B, L = 90, 53, 3;
+					L = L - 35;
+					return y >= p;
+				end,
+				[62] = function(y, p)
+					local X, B, L = 88, 20, 67;
+					B = B - 40;
+					X = X * 8;
+					X = X - 17;
+					return y >= p;
+				end,
+				[63] = function(y, p)
+					local X, B = 85, 31;
+					X = X + 10;
+					B = B - 23;
+					return y >= p;
+				end,
+				[64] = function(y, p)
+					local X = 79;
+					X = X - 50;
+					return y >= p;
+				end,
+				[65] = function(y, p)
+					local X, B = 23, 64;
+					B = B - 33;
+					X = X + 15;
+					B = B * 10;
+					return y >= p;
+				end,
+				[66] = function(y, p)
+					local X, B, L = 91, 40, 59;
+					B = B * 5;
+					X = X - 15;
+					return y .. p;
+				end,
+				[67] = function(y, p)
+					local X = 74;
+					X = X + 10;
+					X = X + 26;
+					return y .. p;
+				end,
+				[68] = function(y, p)
+					local X = 70;
+					X = X - 20;
+					X = X * 3;
+					X = X + 49;
+					return y .. p;
+				end,
+				[69] = function(y, p)
+					local X, B, L = 2, 95, 29;
+					X = X + 25;
+					return y .. p;
+				end,
+				[70] = function(y, p)
+					local X, B, L = 96, 75, 8;
+					X = X + 25;
+					X = X + 48;
+					L = L - 7;
+					return y .. p;
+				end,
+				[71] = function(y, p)
+					local X, B, L = 80, 23, 88;
+					B = B - 21;
+					return y * p;
+				end,
+				[72] = function(y, p)
+					local X, B = 56, 88;
+					B = B * 8;
+					B = B * 5;
+					B = B * 2;
+					return y * p;
+				end,
+				[73] = function(y, p)
+					local X, B, L = 66, 96, 65;
+					X = X + 6;
+					L = L + 12;
+					return y * p;
+				end,
+				[74] = function(y, p)
+					local X, B = 15, 76;
+					B = B - 37;
+					X = X + 1;
+					return y * p;
+				end,
+				[75] = function(y, p)
+					local X = 75;
+					X = X - 17;
+					X = X - 48;
+					return y * p;
+				end,
+				[76] = function(y)
+					local p, X = 75, 14;
+					X = X * 10;
+					X = X - 28;
+					return #y;
+				end,
+				[77] = function(y)
+					local p, X, B = 17, 21, 93;
+					B = B * 7;
+					B = B + 38;
+					return #y;
+				end,
+				[78] = function(y)
+					local p, X, B = 19, 16, 19;
+					B = B + 36;
+					p = p - 27;
+					return #y;
+				end,
+				[79] = function(y)
+					local p = 10;
+					p = p * 8;
+					p = p - 50;
+					return #y;
+				end,
+				[80] = function(y)
+					local p, X = 81, 74;
+					X = X - 23;
+					X = X * 2;
+					p = p + 48;
+					return #y;
+				end,
+			}, { [B(34)] = function()
+					while true do
+ 
+					end;
+				end }), l({}, { [B(-7)] = function(p, X)
+					return y[X];
+				end, [B(168)] = function(p, X, L)
+					y[X] = L;
+				end, [B(34)] = function()
+					while true do
+ 
+					end;
+				end }), l({}, { [B(34)] = function()
+					while true do
+ 
+					end;
+				end }), function(y)
+				local p, X = 1, y[1];
+				while X do
+					U[X], p = U[X] - 1, p + 1;
+					if U[X] == 0 then
+						U[X], h[X] = nil, nil;
+					end;
+					X = y[p];
+				end;
+			end, 0, function(y, p)
+				local B = d(p);
+				local L = function(L, f, l, w, M)
+						return X(y, {
+							L,
+							f,
+							l,
+							w,
+							M,
+						}, p, B);
+					end;
+				return L;
+			end, function(y, p)
+				local B = d(p);
+				local L = function(L, f, l)
+						return X(y, { L, f, l }, p, B);
+					end;
+				return L;
+			end, function(y, p)
+				local B = d(p);
+				local L = function(L, f, l, w, M, n, Q)
+						return X(y, {
+							L,
+							f,
+							l,
+							w,
+							M,
+							n,
+							Q,
+						}, p, B);
+					end;
+				return L;
+			end, function(y, p)
+				local B = d(p);
+				local L = function()
+						return X(y, {}, p, B);
+					end;
+				return L;
+			end, function(y, p)
+				local B = d(p);
+				local L = function(L, f, l, w, M, n, Q, h)
+						return X(y, {
+							L,
+							f,
+							l,
+							w,
+							M,
+							n,
+							Q,
+							h,
+						}, p, B);
+					end;
+				return L;
+			end, function(y, p)
+				local B = d(p);
+				local L = function(L, f, l, w, M, n)
+						return X(y, {
+							L,
+							f,
+							l,
+							w,
+							M,
+							n,
+						}, p, B);
+					end;
+				return L;
+			end, function(y)
+				for p = 1, #y, 1 do
+					U[y[p]] = 1 + U[y[p]];
+				end;
+				if f then
+					local p = f(true);
+					local X = w(p);
+					X[B(-7)], X[B(-205)], X[B(224)] = y, G, function()
+							return -3931384;
+						end;
+					return p;
+				else
+					return l({}, { [B(-205)] = G, [B(-7)] = y, [B(224)] = function()
+							return -3931384;
+						end });
+				end;
+			end, l({}, { [B(34)] = function()
+					while true do
+ 
+					end;
+				end }), function(y, p)
+				local B = d(p);
+				local L = function(L)
+						return X(y, { L }, p, B);
+					end;
+				return L;
+			end, function(y, p)
+				local B = d(p);
+				local L = function(...)
+						return X(y, { ... }, p, B);
+					end;
+				return L;
+			end, function(y, p)
+				local B = d(p);
+				local L = function(L, f, l, w)
+						return X(y, {
+							L,
+							f,
+							l,
+							w,
+						}, p, B);
+					end;
+				return L;
+			end, function(y, X, f, l)
+				local N, I, K, w, Xa, O, V, v, C, S, j, s, i, Y, Z, F, g, u, R, P, A, d, k, z, pa, a, o, G, q, U, E, H, ya, Q;
+				while y do
+					if y < 8707500 then
+						if y < 5309505 then
+							if y < 2411873 then
+								if y < 952373 then
+									if y < 213565 then
+										if y < 148966 then
+											if y < 32217 then
+												g = B(238);
+												I = B(-59);
+												O = p[I];
+												I = O(v);
+												Y = h[f[1]];
+												F = 5956227667371;
+												j = h[f[2]];
+												Z = j(g, F);
+												O = Y[Z];
+												y = n[24](I, O);
+												y = y and 10832715 or 8295677;
+											else
+												v = B(-16);
+												y = {};
+												Q = y;
+												w = B(47);
+												y = p[w];
+												G = p[v];
+												O = h[f[1]];
+												I = h[f[2]];
+												j = B(-162);
+												Z = 32476312565285;
+												Y = I(j, Z);
+												v = O[Y];
+												d = G[v];
+												G = { y(d) };
+												U = G[2];
+												w = G[1];
+												d = w;
+												y = 16262641;
+												P = G[3];
+											end;
+										else
+											if y < 211665 then
+												G = P;
+												I = B(-59);
+												F = 13606871642496;
+												O = p[I];
+												I = O(v);
+												Y = h[f[1]];
+												j = h[f[2]];
+												g = B(-135);
+												Z = j(g, F);
+												O = Y[Z];
+												y = n[21](I, O);
+												y = y and 8815885 or 18944;
+											else
+												j = j + Z;
+												I = j <= Y;
+												F = not g;
+												I = F and I;
+												F = j >= Y;
+												F = g and F;
+												I = F or I;
+												F = 2503244;
+												y = I and F;
+												I = 1083425;
+												y = y or I;
+											end;
+										end;
+									else
+										if y < 783808 then
+											if y < 369377 then
+												v = 16744441003242;
+												G = 22032780873767;
+												y = h[f[1]];
+												Q = h[f[2]];
+												U = h[f[3]];
+												d = B(-48);
+												P = U(d, G);
+												w = Q[P];
+												U = h[f[2]];
+												G = B(-116);
+												P = h[f[3]];
+												d = P(G, v);
+												Q = U[d];
+												y[w] = Q;
+												w = {};
+												y = p[B(-230)];
+											else
+												y = 2845271;
+												g = nil;
+											end;
+										else
+											if y < 862701 then
+												U = X[2];
+												Q = X[1];
+												y = U and 14589374 or 885275;
+											else
+												v = B(-16);
+												G = p[v];
+												O = h[f[1]];
+												Z = 10923508934589;
+												I = h[f[2]];
+												j = B(-61);
+												Y = I(j, Z);
+												v = O[Y];
+												d = G[v];
+												j = 7945931988200;
+												v = h[f[1]];
+												O = h[f[2]];
+												Y = B(-113);
+												I = O(Y, j);
+												G = v[I];
+												P = d[G];
+												y = P and 11568481 or 6227134;
+												w = P;
+											end;
+										end;
+									end;
+								else
+									if y < 1295366 then
+										if y < 1060696 then
+											if y < 1043859 then
+												a = B(-12);
+												A = p[a];
+												C = h[f[1]];
+												H = B(-223);
+												E = R;
+												V = 9073395310850;
+												o = h[f[2]];
+												K = o(H, V);
+												a = C[K];
+												N = 31116913930547;
+												V = 10869820204939;
+												y = A[a];
+												H = B(201);
+												C = h[f[1]];
+												z = 17380115562298;
+												o = h[f[2]];
+												K = o(H, V);
+												k = B(248);
+												a = C[K];
+												A = y(a);
+												i = 32357123585462;
+												a = t();
+												h[a] = A;
+												V = 1959638632225;
+												y = h[a];
+												C = h[f[1]];
+												H = B(125);
+												o = h[f[2]];
+												K = o(H, V);
+												A = C[K];
+												K = h[f[1]];
+												H = h[f[2]];
+												V = H(k, z);
+												o = K[V];
+												H = B(54);
+												z = B(-198);
+												C = n[67](s, o);
+												y[A] = C;
+												V = 17880494522636;
+												y = h[a];
+												C = h[f[1]];
+												o = h[f[2]];
+												K = o(H, V);
+												A = C[K];
+												K = B(0);
+												o = p[K];
+												H = h[f[1]];
+												V = h[f[2]];
+												k = V(z, N);
+												K = H[k];
+												C = o[K];
+												V = 0;
+												N = 23291244696763;
+												z = B(114);
+												K = 1;
+												H = 0;
+												k = 40;
+												o = C(K, H, V, k);
+												V = 27516547720218;
+												y[A] = o;
+												y = h[a];
+												H = B(20);
+												C = h[f[1]];
+												o = h[f[2]];
+												K = o(H, V);
+												A = C[K];
+												K = B(0);
+												o = p[K];
+												H = h[f[1]];
+												V = h[f[2]];
+												k = V(z, N);
+												K = H[k];
+												C = o[K];
+												V = 0;
+												H = 0;
+												K = 0;
+												N = 1;
+												z = n[27](E, N);
+												N = 40;
+												k = n[75](z, N);
+												o = C(K, H, V, k);
+												H = B(-146);
+												y[A] = o;
+												y = h[a];
+												C = h[f[1]];
+												o = h[f[2]];
+												V = 29834827066505;
+												K = o(H, V);
+												z = B(60);
+												A = C[K];
+												K = B(209);
+												o = p[K];
+												H = h[f[1]];
+												V = h[f[2]];
+												N = 23916181509889;
+												k = V(z, N);
+												K = H[k];
+												V = 40;
+												H = 40;
+												C = o[K];
+												K = 40;
+												o = C(K, H, V);
+												V = 32194983621919;
+												y[A] = o;
+												H = B(197);
+												y = h[a];
+												S = 13525264773428;
+												C = h[f[1]];
+												o = h[f[2]];
+												K = o(H, V);
+												A = C[K];
+												V = 28763200022691;
+												C = 0;
+												y[A] = C;
+												y = h[a];
+												C = h[f[1]];
+												H = B(-18);
+												N = B(124);
+												o = h[f[2]];
+												K = o(H, V);
+												A = C[K];
+												H = B(-161);
+												K = p[H];
+												V = h[f[1]];
+												k = h[f[2]];
+												z = k(N, S);
+												H = V[z];
+												o = K[H];
+												N = 2224860956696;
+												z = B(-123);
+												H = h[f[1]];
+												V = h[f[2]];
+												k = V(z, N);
+												K = H[k];
+												C = o[K];
+												z = 6813099792585;
+												k = B(-129);
+												y[A] = C;
+												H = B(-114);
+												y = h[a];
+												C = h[f[1]];
+												o = h[f[2]];
+												V = 27443531047894;
+												K = o(H, V);
+												A = C[K];
+												K = h[f[1]];
+												N = 14194226344867;
+												H = h[f[2]];
+												V = H(k, z);
+												o = K[V];
+												C = n[69](o, s);
+												y[A] = C;
+												y = h[a];
+												H = B(-169);
+												C = h[f[1]];
+												V = 10196563535128;
+												o = h[f[2]];
+												K = o(H, V);
+												A = C[K];
+												K = B(209);
+												o = p[K];
+												H = h[f[1]];
+												z = B(-19);
+												V = h[f[2]];
+												k = V(z, N);
+												K = H[k];
+												C = o[K];
+												V = 180;
+												H = 180;
+												K = 180;
+												o = C(K, H, V);
+												S = 31964122084424;
+												y[A] = o;
+												H = B(-26);
+												y = h[a];
+												V = 4069605707470;
+												C = h[f[1]];
+												o = h[f[2]];
+												N = B(2);
+												K = o(H, V);
+												A = C[K];
+												C = 14;
+												y[A] = C;
+												V = 19061646574936;
+												H = B(180);
+												y = h[a];
+												C = h[f[1]];
+												o = h[f[2]];
+												K = o(H, V);
+												H = B(-161);
+												A = C[K];
+												K = p[H];
+												V = h[f[1]];
+												k = h[f[2]];
+												z = k(N, S);
+												H = V[z];
+												o = K[H];
+												H = h[f[1]];
+												N = 13120451751867;
+												V = h[f[2]];
+												z = B(173);
+												k = V(z, N);
+												K = H[k];
+												C = o[K];
+												V = 10113882891467;
+												H = B(-32);
+												y[A] = C;
+												y = h[a];
+												C = h[f[1]];
+												o = h[f[2]];
+												K = o(H, V);
+												A = C[K];
+												C = I;
+												y[A] = C;
+												C = B(-12);
+												k = 4072827031249;
+												V = B(159);
+												A = p[C];
+												o = h[f[1]];
+												z = 2849797769822;
+												K = h[f[2]];
+												H = K(V, k);
+												C = o[H];
+												y = A[C];
+												V = B(-163);
+												S = 27193341567725;
+												o = h[f[1]];
+												K = h[f[2]];
+												k = 32661001795281;
+												H = K(V, k);
+												C = o[H];
+												A = y(C);
+												C = t();
+												k = 2073458739083;
+												h[C] = A;
+												E = nil;
+												y = h[C];
+												V = B(245);
+												o = h[f[1]];
+												K = h[f[2]];
+												H = K(V, k);
+												A = o[H];
+												K = h[f[1]];
+												k = B(122);
+												H = h[f[2]];
+												V = H(k, z);
+												o = K[V];
+												y[A] = o;
+												y = h[C];
+												o = h[f[1]];
+												V = B(-120);
+												k = 32246524802383;
+												K = h[f[2]];
+												N = B(-109);
+												H = K(V, k);
+												A = o[H];
+												H = B(0);
+												K = p[H];
+												V = h[f[1]];
+												k = h[f[2]];
+												z = k(N, S);
+												H = V[z];
+												V = 3;
+												o = K[H];
+												z = 0;
+												H = 0;
+												S = 16966712343993;
+												k = 1;
+												K = o(H, V, k, z);
+												y[A] = K;
+												y = h[C];
+												V = B(233);
+												k = 14485219259570;
+												o = h[f[1]];
+												K = h[f[2]];
+												H = K(V, k);
+												A = o[H];
+												H = B(209);
+												N = B(-10);
+												K = p[H];
+												V = h[f[1]];
+												k = h[f[2]];
+												z = k(N, S);
+												S = 1345439565029;
+												H = V[z];
+												k = 40;
+												o = K[H];
+												V = 40;
+												H = 200;
+												K = o(H, V, k);
+												y[A] = K;
+												V = B(39);
+												y = h[C];
+												z = 12303309286594;
+												o = h[f[1]];
+												K = h[f[2]];
+												k = 34376893594895;
+												H = K(V, k);
+												k = 30642305560441;
+												V = B(-256);
+												A = o[H];
+												o = 0;
+												y[A] = o;
+												y = h[C];
+												o = h[f[1]];
+												K = h[f[2]];
+												H = K(V, k);
+												V = B(106);
+												A = o[H];
+												o = false;
+												y[A] = o;
+												k = 2173319776232;
+												y = h[C];
+												o = h[f[1]];
+												K = h[f[2]];
+												H = K(V, k);
+												A = o[H];
+												o = h[a];
+												k = B(162);
+												y[A] = o;
+												N = B(38);
+												o = B(-12);
+												A = p[o];
+												K = h[f[1]];
+												H = h[f[2]];
+												V = H(k, z);
+												o = K[V];
+												y = A[o];
+												z = 34136368086063;
+												K = h[f[1]];
+												H = h[f[2]];
+												k = B(127);
+												V = H(k, z);
+												o = K[V];
+												A = y(o);
+												o = t();
+												h[o] = A;
+												z = 33717595994793;
+												y = h[o];
+												k = B(-226);
+												K = h[f[1]];
+												H = h[f[2]];
+												V = H(k, z);
+												A = K[V];
+												V = h[f[1]];
+												k = h[f[2]];
+												z = k(N, S);
+												k = B(-232);
+												H = V[z];
+												K = n[67](s, H);
+												y[A] = K;
+												y = h[o];
+												K = h[f[1]];
+												z = 13578953503078;
+												H = h[f[2]];
+												V = H(k, z);
+												S = B(116);
+												A = K[V];
+												V = B(0);
+												H = p[V];
+												k = h[f[1]];
+												z = h[f[2]];
+												N = z(S, i);
+												z = 1;
+												V = k[N];
+												k = 0;
+												K = H[V];
+												N = 0;
+												V = 1;
+												H = K(V, k, z, N);
+												y[A] = H;
+												y = h[o];
+												z = 2468607789307;
+												k = B(-156);
+												K = h[f[1]];
+												H = h[f[2]];
+												V = H(k, z);
+												A = K[V];
+												K = 1;
+												y[A] = K;
+												z = 14705343051135;
+												y = h[o];
+												K = h[f[1]];
+												H = h[f[2]];
+												k = B(76);
+												N = 13307288531049;
+												V = H(k, z);
+												A = K[V];
+												K = false;
+												y[A] = K;
+												y = h[o];
+												z = 10399506933205;
+												K = h[f[1]];
+												H = h[f[2]];
+												k = B(-179);
+												V = H(k, z);
+												A = K[V];
+												K = Y;
+												y[A] = K;
+												y = h[Z];
+												A = h[o];
+												y[s] = A;
+												A = h[a];
+												H = h[f[1]];
+												V = h[f[2]];
+												z = B(23);
+												k = V(z, N);
+												K = H[k];
+												y = A[K];
+												A = B(198);
+												s = nil;
+												A = y[A];
+												K = x(1950779, {
+														g,
+														f[1],
+														f[2],
+														Z,
+														o,
+														a,
+														C,
+													});
+												a = J(a);
+												C = J(C);
+												o = J(o);
+												A = A(y, K);
+												y = 14567357;
+											else
+												y = w and 7640297 or 5311650;
+											end;
+										else
+											if y < 1117991 then
+												v = nil;
+												y = 10788169;
+												O = nil;
+												d = nil;
+											else
+												j = h[f[2]];
+												F = B(27);
+												Z = h[f[3]];
+												R = 907339531085;
+												q = 25273432595441;
+												g = Z(F, R);
+												a = B(204);
+												Y = j[g];
+												y = I[Y];
+												Z = h[f[2]];
+												g = h[f[3]];
+												R = B(217);
+												F = g(R, q);
+												j = Z[F];
+												Y = y;
+												g = B(8);
+												y = I[j];
+												Z = p[g];
+												j = y;
+												F = h[f[2]];
+												E = B(-96);
+												s = 30834511212588;
+												R = h[f[3]];
+												q = R(E, s);
+												s = 28924266211641;
+												E = B(-183);
+												g = F[q];
+												y = Z[g];
+												F = h[f[2]];
+												R = h[f[3]];
+												q = R(E, s);
+												g = F[q];
+												Z = y(Y, g);
+												q = 1;
+												R = Z[q];
+												E = h[f[2]];
+												C = 29767179267146;
+												s = h[f[3]];
+												A = s(a, C);
+												q = E[A];
+												F = n[23](R, q);
+												g = F;
+												y = F and 16713215 or 15046092;
+											end;
+										end;
+									else
+										if y < 2074975 then
+											if y < 1518097 then
+												q = 8583754096442;
+												Z = h[f[2]];
+												g = h[f[3]];
+												R = B(216);
+												F = g(R, q);
+												q = 21192015367448;
+												R = B(188);
+												j = Z[F];
+												Y = I[j];
+												Z = h[f[2]];
+												g = h[f[3]];
+												F = g(R, q);
+												j = Z[F];
+												y = n[22](Y, j);
+												y = y and 1123362 or 15395286;
+											else
+												y = h[f[1]];
+												y = y and 16369652 or 2370120;
+											end;
+										else
+											if y < 2368192 then
+												Q = X[1];
+												y = h[f[1]];
+												P = y;
+												U = X[2];
+												y = P[U];
+												y = y and 10932046 or 6652107;
+											else
+												w = B(47);
+												y = p[w];
+												P = h[f[4]];
+												d = { y(P) };
+												w = d[1];
+												y = 9466657;
+												U = d[3];
+												Q = d[2];
+												P = w;
+											end;
+										end;
+									end;
+								end;
+							else
+								if y < 3929904 then
+									if y < 2868290 then
+										if y < 2783537 then
+											if y < 2667616 then
+												I = j;
+												A = B(8);
+												s = p[A];
+												A = B(-40);
+												E = s[A];
+												s = E(Q, I);
+												I = nil;
+												E = h[f[6]];
+												A = E();
+												q = n[20](s, A);
+												R = n[20](q, v);
+												y = 213510;
+												q = 256;
+												A = 1;
+												F = n[60](R, q);
+												q = P[U];
+												v = F;
+												s = n[16](v, A);
+												E = d[s];
+												R = n[70](q, E);
+												P[U] = R;
+											else
+												R = 2;
+												F = B(-161);
+												g = p[F];
+												F = Z[R];
+												y = g[F];
+												g = y;
+												y = g and 7751917 or 662548;
+											end;
+										else
+											if y < 2847072 then
+												Z = nil;
+												y = 5391012;
+												Y = nil;
+												j = nil;
+											else
+												Z = h[f[2]];
+												R = B(-143);
+												g = h[f[3]];
+												q = 23967722690353;
+												F = g(R, q);
+												j = Z[F];
+												Y = I[j];
+												Z = h[f[2]];
+												g = h[f[3]];
+												R = B(117);
+												q = 28688035801181;
+												F = g(R, q);
+												j = Z[F];
+												y = n[24](Y, j);
+												y = y and 11539296 or 1300007;
+											end;
+										end;
+									else
+										if y < 3692660 then
+											if y < 2898309 then
+												I = 20521980021416;
+												d = h[f[2]];
+												y = false;
+												G = h[f[3]];
+												O = B(191);
+												v = G(O, I);
+												w = d[v];
+												w = { y, w };
+												y = p[B(213)];
+											else
+												R = B(-171);
+												j = B(-16);
+												s = 4249999839094;
+												Y = p[j];
+												Z = h[f[2]];
+												g = h[f[3]];
+												q = 35061961785229;
+												F = g(R, q);
+												j = Z[F];
+												y = Y[j];
+												Z = B(225);
+												j = p[Z];
+												g = h[f[2]];
+												F = h[f[3]];
+												E = 28890979199258;
+												q = B(-210);
+												R = F(q, E);
+												E = B(-144);
+												Z = g[R];
+												Y = j[Z];
+												F = h[f[2]];
+												R = h[f[3]];
+												q = R(E, s);
+												A = 22415044628875;
+												g = F[q];
+												s = B(-136);
+												Z = I[g];
+												R = h[f[2]];
+												q = h[f[3]];
+												E = q(s, A);
+												F = R[E];
+												g = I[F];
+												j = Y(Z, g);
+												y[O] = j;
+												y = 5391012;
+											end;
+										else
+											if y < 3794956 then
+												y = h[f[1]];
+												Q = h[f[2]];
+												U = B(147);
+												U = y[U];
+												w = { U(y, Q) };
+												w = { L(w) };
+												y = p[B(-6)];
+											else
+												G = B(-197);
+												y = h[f[1]];
+												U = h[f[2]];
+												v = 29045602740650;
+												P = h[f[3]];
+												d = P(G, v);
+												Q = U[d];
+												w = B(252);
+												w = y[w];
+												w = w(y, Q);
+												Q = w;
+												y = Q and 5398181 or 16284145;
+											end;
+										end;
+									end;
+								else
+									if y < 4682875 then
+										if y < 4161365 then
+											if y < 4017876 then
+												y = h[f[5]];
+												d = h[f[2]];
+												O = B(-44);
+												Y = 4763264094548;
+												I = 25481744866483;
+												G = h[f[3]];
+												v = G(O, I);
+												I = B(163);
+												Z = 8569795026733;
+												w = d[v];
+												G = h[f[2]];
+												v = h[f[3]];
+												O = v(I, Y);
+												d = G[O];
+												y[w] = d;
+												y = h[f[5]];
+												O = B(100);
+												d = h[f[2]];
+												G = h[f[3]];
+												I = 15040360724151;
+												j = B(227);
+												v = G(O, I);
+												w = d[v];
+												v = B(209);
+												G = p[v];
+												O = h[f[2]];
+												I = h[f[3]];
+												Y = I(j, Z);
+												v = O[Y];
+												I = 100;
+												d = G[v];
+												O = 255;
+												v = 100;
+												G = d(v, O, I);
+												y[w] = G;
+												y = 5853362;
+											else
+												w = P;
+												y = d;
+												y = 15691231;
+											end;
+										else
+											if y < 4269884 then
+												d = y;
+												I = h[f[1]];
+												Z = B(-72);
+												q = 23428687844667;
+												g = 27528359240741;
+												Y = h[f[2]];
+												j = Y(Z, g);
+												O = I[j];
+												v = Q[O];
+												j = B(-161);
+												Y = p[j];
+												Z = h[f[1]];
+												g = h[f[2]];
+												R = B(-239);
+												F = g(R, q);
+												j = Z[F];
+												I = Y[j];
+												R = 24565815138654;
+												j = h[f[1]];
+												F = B(246);
+												Z = h[f[2]];
+												g = Z(F, R);
+												Y = j[g];
+												O = I[Y];
+												G = n[25](v, O);
+												P = G;
+												y = G and 4128382 or 6399683;
+											else
+												P = J(P);
+												q = nil;
+												s = nil;
+												K = nil;
+												F = nil;
+												y = p[B(-255)];
+												A = nil;
+												I = nil;
+												Q = J(Q);
+												v = J(v);
+												g = J(g);
+												j = nil;
+												Z = J(Z);
+												d = nil;
+												R = nil;
+												O = J(O);
+												w = {};
+												U = J(U);
+												o = nil;
+												a = nil;
+												Y = nil;
+												k = J(k);
+												G = nil;
+												C = J(C);
+												E = nil;
+												V = J(V);
+											end;
+										end;
+									else
+										if y < 5194631 then
+											if y < 4847777 then
+												w = h[O];
+												Y = h[f[1]];
+												F = 32841395926905;
+												g = B(-121);
+												j = h[f[2]];
+												Z = j(g, F);
+												I = Y[Z];
+												y = w[I];
+												w = B(198);
+												w = y[w];
+												I = e(7010518, {
+														O,
+														f[1],
+														f[2],
+														f[3],
+														d,
+													});
+												w = w(y, I);
+												y = h[O];
+												w = { G, y };
+												y = p[B(-155)];
+											else
+												U = 3;
+												Q = nil;
+												w = B(-228);
+												y = p[w];
+												P = b(218118, { f[5], f[2], f[3] });
+												w = y(U, P);
+												w = {};
+												y = p[B(-128)];
+											end;
+										else
+											O = B(-56);
+											y = h[f[5]];
+											d = h[f[2]];
+											Y = B(112);
+											G = h[f[3]];
+											I = 14465891316896;
+											v = G(O, I);
+											w = d[v];
+											v = h[f[2]];
+											O = h[f[3]];
+											j = 16965638569400;
+											Z = 4522738585716;
+											I = O(Y, j);
+											G = v[I];
+											O = B(-24);
+											v = p[O];
+											j = B(-242);
+											O = v(U);
+											d = n[67](G, O);
+											O = B(-243);
+											y[w] = d;
+											y = h[f[5]];
+											d = h[f[2]];
+											I = 27568088900682;
+											G = h[f[3]];
+											v = G(O, I);
+											w = d[v];
+											v = B(209);
+											G = p[v];
+											O = h[f[2]];
+											I = h[f[3]];
+											Y = I(j, Z);
+											v = O[Y];
+											O = 100;
+											d = G[v];
+											I = 100;
+											v = 255;
+											G = d(v, O, I);
+											y[w] = G;
+											y = 5853362;
+										end;
+									end;
+								end;
+							end;
+						else
+							if y < 6667132 then
+								if y < 5741917 then
+									if y < 5402457 then
+										if y < 5359454 then
+											if y < 5332161 then
+												I = B(9);
+												v = 16500694170631;
+												y = h[f[5]];
+												U = h[f[2]];
+												O = 15958438001166;
+												P = h[f[3]];
+												G = B(-208);
+												d = P(G, v);
+												w = U[d];
+												Y = 4419656224788;
+												P = h[f[2]];
+												v = B(143);
+												d = h[f[3]];
+												G = d(v, O);
+												U = P[G];
+												y[w] = U;
+												y = h[f[5]];
+												G = B(212);
+												U = h[f[2]];
+												P = h[f[3]];
+												v = 20585332722403;
+												d = P(G, v);
+												w = U[d];
+												d = B(209);
+												P = p[d];
+												G = h[f[2]];
+												v = h[f[3]];
+												O = v(I, Y);
+												d = G[O];
+												U = P[d];
+												d = 255;
+												v = 100;
+												G = 100;
+												P = U(d, G, v);
+												y[w] = P;
+												y = 4849300;
+											else
+												Q = h[f[1]];
+												w = n[76](Q);
+												Q = 0;
+												y = n[25](w, Q);
+												y = y and 6401731 or 5435558;
+											end;
+										else
+											if y < 5395515 then
+												y = 10028338;
+											else
+												y = B(-174);
+												y = Q[y];
+												y = y(Q);
+												y = 16284145;
+											end;
+										end;
+									else
+										if y < 5444309 then
+											if y < 5438305 then
+												P = B(98);
+												U = p[P];
+												P = B(190);
+												Q = U[P];
+												y = p[B(-97)];
+												P = h[f[1]];
+												U = { Q(P) };
+												w = { L(U) };
+											else
+												F = h[Z];
+												q = h[f[1]];
+												A = B(128);
+												C = 1346513339622;
+												E = h[f[2]];
+												a = 16588743687257;
+												s = E(A, a);
+												R = q[s];
+												K = 32244377253197;
+												q = B(-12);
+												y = F[R];
+												u = 24024632743782;
+												R = p[q];
+												a = B(156);
+												F = y;
+												E = h[f[1]];
+												s = h[f[2]];
+												A = s(a, C);
+												q = E[A];
+												y = R[q];
+												E = h[f[1]];
+												C = 34521853164950;
+												o = B(105);
+												a = B(-138);
+												s = h[f[2]];
+												A = s(a, C);
+												q = E[A];
+												A = B(-140);
+												R = y(q);
+												q = h[f[1]];
+												a = 24861103151729;
+												E = h[f[2]];
+												V = 24428371990750;
+												s = E(A, a);
+												y = q[s];
+												s = B(0);
+												E = p[s];
+												A = h[f[1]];
+												a = h[f[2]];
+												C = a(o, K);
+												a = 0;
+												s = A[C];
+												q = E[s];
+												C = 10;
+												A = 10;
+												s = 0;
+												E = q(s, A, a, C);
+												R[y] = E;
+												A = B(138);
+												q = h[f[1]];
+												a = 17011810876899;
+												E = h[f[2]];
+												s = E(A, a);
+												o = B(57);
+												y = q[s];
+												K = 22078953181266;
+												s = B(0);
+												E = p[s];
+												A = h[f[1]];
+												a = h[f[2]];
+												C = a(o, K);
+												s = A[C];
+												o = B(-180);
+												q = E[s];
+												a = 0;
+												s = .5;
+												K = 3939678981717;
+												C = 120;
+												A = -15;
+												E = q(s, A, a, C);
+												R[y] = E;
+												A = B(84);
+												H = 2941068610227;
+												q = h[f[1]];
+												E = h[f[2]];
+												a = 30065688604000;
+												s = E(A, a);
+												y = q[s];
+												N = 23231113319555;
+												s = B(209);
+												E = p[s];
+												A = h[f[1]];
+												a = h[f[2]];
+												C = a(o, K);
+												s = A[C];
+												q = E[s];
+												o = 7230798109262;
+												s = 35;
+												A = 35;
+												a = 35;
+												E = q(s, A, a);
+												A = B(26);
+												a = 9772422570893;
+												R[y] = E;
+												q = h[f[1]];
+												E = h[f[2]];
+												pa = 12656581127691;
+												s = E(A, a);
+												y = q[s];
+												E = B(-12);
+												q = F;
+												R[y] = q;
+												q = p[E];
+												C = B(50);
+												s = h[f[1]];
+												A = h[f[2]];
+												K = B(-217);
+												a = A(C, o);
+												C = B(-54);
+												E = s[a];
+												y = q[E];
+												s = h[f[1]];
+												A = h[f[2]];
+												o = 32643821401793;
+												a = A(C, o);
+												E = s[a];
+												q = y(E);
+												E = h[f[1]];
+												C = 14140537615217;
+												s = h[f[2]];
+												a = B(185);
+												A = s(a, C);
+												y = E[A];
+												A = B(0);
+												s = p[A];
+												a = h[f[1]];
+												C = h[f[2]];
+												o = C(K, H);
+												A = a[o];
+												C = 0;
+												o = 25;
+												a = 0;
+												E = s[A];
+												A = 1;
+												s = E(A, a, C, o);
+												C = 5129421230761;
+												a = B(99);
+												q[y] = s;
+												E = h[f[1]];
+												s = h[f[2]];
+												H = B(155);
+												A = s(a, C);
+												a = B(63);
+												y = E[A];
+												C = 30932224700551;
+												E = 1;
+												q[y] = E;
+												E = h[f[1]];
+												s = h[f[2]];
+												A = s(a, C);
+												y = E[A];
+												a = B(-161);
+												A = p[a];
+												C = h[f[1]];
+												k = 16618809375861;
+												o = h[f[2]];
+												K = o(H, V);
+												a = C[K];
+												H = 13316952502386;
+												s = A[a];
+												a = h[f[1]];
+												C = h[f[2]];
+												K = B(-147);
+												o = C(K, H);
+												A = a[o];
+												E = s[A];
+												q[y] = E;
+												E = h[f[1]];
+												a = B(-196);
+												s = h[f[2]];
+												C = 32058614248608;
+												A = s(a, C);
+												y = E[A];
+												o = 4750378799432;
+												s = h[f[1]];
+												H = 5964817864115;
+												C = B(-42);
+												A = h[f[2]];
+												a = A(C, o);
+												E = s[a];
+												q[y] = E;
+												E = h[f[1]];
+												C = 26912012624359;
+												K = B(-181);
+												s = h[f[2]];
+												a = B(83);
+												A = s(a, C);
+												y = E[A];
+												A = B(209);
+												s = p[A];
+												a = h[f[1]];
+												C = h[f[2]];
+												o = C(K, H);
+												C = 220;
+												A = a[o];
+												a = 220;
+												E = s[A];
+												A = 220;
+												s = E(A, a, C);
+												C = 34365082074372;
+												a = B(22);
+												q[y] = s;
+												E = h[f[1]];
+												s = h[f[2]];
+												A = s(a, C);
+												V = 11543076874750;
+												y = E[A];
+												E = 14;
+												a = B(-221);
+												q[y] = E;
+												E = h[f[1]];
+												C = 9864767185891;
+												s = h[f[2]];
+												A = s(a, C);
+												H = B(-207);
+												y = E[A];
+												a = B(-161);
+												A = p[a];
+												C = h[f[1]];
+												o = h[f[2]];
+												K = o(H, V);
+												H = 14282275861493;
+												a = C[K];
+												s = A[a];
+												K = B(-246);
+												a = h[f[1]];
+												C = h[f[2]];
+												o = C(K, H);
+												A = a[o];
+												C = 25266989947883;
+												K = B(181);
+												a = B(-168);
+												E = s[A];
+												q[y] = E;
+												E = h[f[1]];
+												s = h[f[2]];
+												H = 659297600102;
+												A = s(a, C);
+												y = E[A];
+												E = R;
+												q[y] = E;
+												A = B(0);
+												V = B(-126);
+												s = p[A];
+												a = h[f[1]];
+												C = h[f[2]];
+												o = C(K, H);
+												A = a[o];
+												a = 10;
+												C = 0;
+												E = s[A];
+												o = 30;
+												A = 0;
+												s = E(A, a, C, o);
+												H = 30595059478349;
+												o = B(-43);
+												K = 9907718169611;
+												A = h[f[1]];
+												a = h[f[2]];
+												C = a(o, K);
+												K = B(-46);
+												E = A[C];
+												a = h[f[1]];
+												C = h[f[2]];
+												o = C(K, H);
+												H = 30416812895911;
+												A = a[o];
+												y = G(R, s, E, A);
+												K = B(136);
+												A = B(0);
+												s = p[A];
+												a = h[f[1]];
+												C = h[f[2]];
+												o = C(K, H);
+												A = a[o];
+												E = s[A];
+												C = 0;
+												a = 10;
+												A = 0;
+												H = 1103840281604;
+												o = 65;
+												s = E(A, a, C, o);
+												A = h[f[1]];
+												o = B(56);
+												a = h[f[2]];
+												K = 15444099971119;
+												C = a(o, K);
+												E = A[C];
+												K = B(-2);
+												a = h[f[1]];
+												C = h[f[2]];
+												o = C(K, H);
+												A = a[o];
+												o = B(-92);
+												a = r(3829365, { Q, f[1], f[2] });
+												y = d(R, s, E, A, a);
+												E = h[Z];
+												K = 23627336144372;
+												A = h[f[1]];
+												a = h[f[2]];
+												C = a(o, K);
+												H = 4210270179153;
+												s = A[C];
+												y = E[s];
+												A = B(-12);
+												E = y;
+												s = p[A];
+												K = B(236);
+												a = h[f[1]];
+												C = h[f[2]];
+												o = C(K, H);
+												A = a[o];
+												H = 10649696413374;
+												K = B(-133);
+												y = s[A];
+												a = h[f[1]];
+												C = h[f[2]];
+												o = C(K, H);
+												K = 7522864798558;
+												A = a[o];
+												s = y(A);
+												o = B(150);
+												A = h[f[1]];
+												a = h[f[2]];
+												C = a(o, K);
+												y = A[C];
+												C = B(0);
+												a = p[C];
+												o = h[f[1]];
+												K = h[f[2]];
+												H = K(V, k);
+												k = 12098218339331;
+												K = 0;
+												C = o[H];
+												A = a[C];
+												C = 0;
+												V = B(-69);
+												H = 10;
+												o = 10;
+												a = A(C, o, K, H);
+												K = 3634726997305;
+												s[y] = a;
+												A = h[f[1]];
+												o = B(-214);
+												a = h[f[2]];
+												C = a(o, K);
+												y = A[C];
+												C = B(0);
+												a = p[C];
+												o = h[f[1]];
+												K = h[f[2]];
+												H = K(V, k);
+												K = 1;
+												C = o[H];
+												z = 5055330783844;
+												o = -20;
+												H = -20;
+												A = a[C];
+												k = 26769200603490;
+												C = 1;
+												a = A(C, o, K, H);
+												s[y] = a;
+												A = h[f[1]];
+												o = B(-233);
+												a = h[f[2]];
+												V = B(81);
+												K = 23324531709146;
+												C = a(o, K);
+												y = A[C];
+												C = B(209);
+												a = p[C];
+												o = h[f[1]];
+												K = h[f[2]];
+												H = K(V, k);
+												C = o[H];
+												A = a[C];
+												H = B(95);
+												K = 35;
+												o = 35;
+												C = 35;
+												a = A(C, o, K);
+												o = B(-188);
+												K = 9501831373457;
+												s[y] = a;
+												A = h[f[1]];
+												a = h[f[2]];
+												C = a(o, K);
+												V = 32681403512548;
+												y = A[C];
+												a = B(-12);
+												A = E;
+												s[y] = A;
+												A = p[a];
+												C = h[f[1]];
+												o = h[f[2]];
+												K = o(H, V);
+												a = C[K];
+												y = A[a];
+												C = h[f[1]];
+												V = 3772170145209;
+												o = h[f[2]];
+												H = B(176);
+												K = o(H, V);
+												a = C[K];
+												A = y(a);
+												a = h[f[1]];
+												H = 16350365727611;
+												C = h[f[2]];
+												K = B(67);
+												o = C(K, H);
+												k = B(110);
+												y = a[o];
+												o = B(0);
+												C = p[o];
+												K = h[f[1]];
+												H = h[f[2]];
+												V = H(k, z);
+												o = K[V];
+												a = C[o];
+												o = 1;
+												K = 0;
+												H = 0;
+												V = 25;
+												C = a(o, K, H, V);
+												H = 2284992333904;
+												z = B(82);
+												K = B(-106);
+												A[y] = C;
+												a = h[f[1]];
+												C = h[f[2]];
+												o = C(K, H);
+												y = a[o];
+												a = 1;
+												H = 19860534872128;
+												A[y] = a;
+												a = h[f[1]];
+												C = h[f[2]];
+												K = B(129);
+												o = C(K, H);
+												K = B(-161);
+												y = a[o];
+												o = p[K];
+												H = h[f[1]];
+												V = h[f[2]];
+												k = V(z, N);
+												K = H[k];
+												C = o[K];
+												K = h[f[1]];
+												k = B(55);
+												H = h[f[2]];
+												z = 28560256624614;
+												V = H(k, z);
+												o = K[V];
+												a = C[o];
+												A[y] = a;
+												a = h[f[1]];
+												H = 32613755713189;
+												K = B(-119);
+												C = h[f[2]];
+												o = C(K, H);
+												V = 25120956603235;
+												H = B(145);
+												y = a[o];
+												C = h[f[1]];
+												o = h[f[2]];
+												z = 4131884633864;
+												K = o(H, V);
+												a = C[K];
+												A[y] = a;
+												a = h[f[1]];
+												C = h[f[2]];
+												H = 32754420184872;
+												K = B(-33);
+												o = C(K, H);
+												y = a[o];
+												k = B(-253);
+												o = B(209);
+												C = p[o];
+												K = h[f[1]];
+												H = h[f[2]];
+												V = H(k, z);
+												o = K[V];
+												K = 220;
+												a = C[o];
+												H = 220;
+												o = 220;
+												C = a(o, K, H);
+												z = B(103);
+												H = 29221701773902;
+												A[y] = C;
+												K = B(134);
+												a = h[f[1]];
+												C = h[f[2]];
+												o = C(K, H);
+												H = 685068190334;
+												y = a[o];
+												a = 14;
+												S = 17069794704921;
+												A[y] = a;
+												a = h[f[1]];
+												C = h[f[2]];
+												K = B(-85);
+												o = C(K, H);
+												K = B(-161);
+												y = a[o];
+												o = p[K];
+												H = h[f[1]];
+												V = h[f[2]];
+												N = 18651464680410;
+												k = V(z, N);
+												K = H[k];
+												z = 2801477913137;
+												k = B(-222);
+												C = o[K];
+												K = h[f[1]];
+												H = h[f[2]];
+												V = H(k, z);
+												o = K[V];
+												a = C[o];
+												A[y] = a;
+												i = 3408160558182;
+												V = B(-219);
+												k = 22267937509634;
+												K = B(66);
+												H = 26210837815130;
+												a = h[f[1]];
+												C = h[f[2]];
+												o = C(K, H);
+												y = a[o];
+												a = s;
+												C = B(-12);
+												A[y] = a;
+												a = p[C];
+												o = h[f[1]];
+												K = h[f[2]];
+												H = K(V, k);
+												C = o[H];
+												y = a[C];
+												o = h[f[1]];
+												K = h[f[2]];
+												k = 11974734261136;
+												V = B(-234);
+												H = K(V, k);
+												C = o[H];
+												a = y(C);
+												C = t();
+												h[C] = a;
+												y = h[C];
+												V = B(11);
+												o = h[f[1]];
+												k = 18838301459592;
+												K = h[f[2]];
+												z = 7186773350949;
+												H = K(V, k);
+												a = o[H];
+												K = h[f[1]];
+												k = B(152);
+												H = h[f[2]];
+												V = H(k, z);
+												o = K[V];
+												V = B(-63);
+												y[a] = o;
+												y = h[C];
+												k = 11114640812143;
+												o = h[f[1]];
+												K = h[f[2]];
+												H = K(V, k);
+												a = o[H];
+												H = B(0);
+												K = p[H];
+												V = h[f[1]];
+												k = h[f[2]];
+												N = B(205);
+												z = k(N, S);
+												H = V[z];
+												z = 150;
+												k = 0;
+												o = K[H];
+												H = 1;
+												V = -20;
+												N = B(230);
+												K = o(H, V, k, z);
+												V = B(-257);
+												k = 13663781695925;
+												y[a] = K;
+												y = h[C];
+												o = h[f[1]];
+												K = h[f[2]];
+												S = 6193531852424;
+												H = K(V, k);
+												a = o[H];
+												H = B(0);
+												K = p[H];
+												V = h[f[1]];
+												k = h[f[2]];
+												z = k(N, S);
+												k = 0;
+												H = V[z];
+												o = K[H];
+												V = 10;
+												z = 35;
+												H = 0;
+												K = o(H, V, k, z);
+												k = 22208879907019;
+												y[a] = K;
+												y = h[C];
+												V = B(-15);
+												S = 13395338047675;
+												o = h[f[1]];
+												K = h[f[2]];
+												H = K(V, k);
+												N = B(6);
+												a = o[H];
+												H = B(209);
+												K = p[H];
+												V = h[f[1]];
+												k = h[f[2]];
+												z = k(N, S);
+												H = V[z];
+												o = K[H];
+												V = 20;
+												k = 20;
+												H = 20;
+												K = o(H, V, k);
+												y[a] = K;
+												S = 27385547219872;
+												y = h[C];
+												o = h[f[1]];
+												k = 20327626820083;
+												K = h[f[2]];
+												V = B(169);
+												H = K(V, k);
+												a = o[H];
+												H = B(209);
+												N = B(120);
+												K = p[H];
+												V = h[f[1]];
+												k = h[f[2]];
+												z = k(N, S);
+												k = 200;
+												H = V[z];
+												V = 200;
+												o = K[H];
+												H = 200;
+												K = o(H, V, k);
+												y[a] = K;
+												y = h[C];
+												o = h[f[1]];
+												V = B(118);
+												k = 15422624479259;
+												K = h[f[2]];
+												H = K(V, k);
+												a = o[H];
+												V = B(-161);
+												S = B(-81);
+												H = p[V];
+												k = h[f[1]];
+												z = h[f[2]];
+												N = z(S, i);
+												V = k[N];
+												S = 29912138837201;
+												K = H[V];
+												N = B(1);
+												V = h[f[1]];
+												k = h[f[2]];
+												z = k(N, S);
+												H = V[z];
+												o = K[H];
+												V = B(218);
+												k = 24560446265689;
+												y[a] = o;
+												y = h[C];
+												o = h[f[1]];
+												K = h[f[2]];
+												S = B(-145);
+												H = K(V, k);
+												a = o[H];
+												k = 15767306123612;
+												o = 12;
+												y[a] = o;
+												y = h[C];
+												o = h[f[1]];
+												V = B(-3);
+												K = h[f[2]];
+												i = 33999998712752;
+												H = K(V, k);
+												V = B(-161);
+												a = o[H];
+												H = p[V];
+												k = h[f[1]];
+												z = h[f[2]];
+												N = z(S, i);
+												V = k[N];
+												K = H[V];
+												V = h[f[1]];
+												N = B(-107);
+												S = 23101186593802;
+												i = 6196753176203;
+												k = h[f[2]];
+												z = k(N, S);
+												H = V[z];
+												o = K[H];
+												y[a] = o;
+												y = h[C];
+												o = h[f[1]];
+												k = 24654938429873;
+												K = h[f[2]];
+												V = B(148);
+												H = K(V, k);
+												S = B(177);
+												V = B(-161);
+												a = o[H];
+												H = p[V];
+												k = h[f[1]];
+												z = h[f[2]];
+												N = z(S, i);
+												V = k[N];
+												K = H[V];
+												V = h[f[1]];
+												k = h[f[2]];
+												N = B(-148);
+												S = 19996904245439;
+												z = k(N, S);
+												k = 17947068547402;
+												H = V[z];
+												V = B(-225);
+												o = K[H];
+												i = 10009726755946;
+												y[a] = o;
+												z = 8770590875624;
+												y = h[C];
+												o = h[f[1]];
+												K = h[f[2]];
+												H = K(V, k);
+												a = o[H];
+												V = B(108);
+												k = 3823711325673;
+												o = true;
+												y[a] = o;
+												y = h[C];
+												o = h[f[1]];
+												K = h[f[2]];
+												H = K(V, k);
+												a = o[H];
+												o = false;
+												y[a] = o;
+												y = h[C];
+												V = B(-49);
+												o = h[f[1]];
+												k = 7210396391995;
+												K = h[f[2]];
+												H = K(V, k);
+												a = o[H];
+												K = h[f[1]];
+												H = h[f[2]];
+												k = B(-20);
+												V = H(k, z);
+												o = K[V];
+												y[a] = o;
+												y = h[C];
+												o = h[f[1]];
+												k = 20722775870307;
+												z = 8275580788251;
+												V = B(58);
+												K = h[f[2]];
+												H = K(V, k);
+												a = o[H];
+												o = s;
+												y[a] = o;
+												o = B(-12);
+												k = B(24);
+												a = p[o];
+												S = 25837164256766;
+												K = h[f[1]];
+												H = h[f[2]];
+												V = H(k, z);
+												o = K[V];
+												y = a[o];
+												K = h[f[1]];
+												z = 19358008362604;
+												H = h[f[2]];
+												k = B(-192);
+												V = H(k, z);
+												o = K[V];
+												N = B(-122);
+												a = y(o);
+												k = 20953637407802;
+												o = h[f[1]];
+												V = B(-115);
+												K = h[f[2]];
+												H = K(V, k);
+												y = o[H];
+												H = B(0);
+												K = p[H];
+												V = h[f[1]];
+												k = h[f[2]];
+												z = k(N, S);
+												k = 0;
+												H = V[z];
+												z = 40;
+												o = K[H];
+												H = 1;
+												V = -20;
+												K = o(H, V, k, z);
+												a[y] = K;
+												k = 9033665650909;
+												N = B(149);
+												o = h[f[1]];
+												S = 2939994835634;
+												K = h[f[2]];
+												V = B(88);
+												H = K(V, k);
+												y = o[H];
+												H = B(0);
+												K = p[H];
+												V = h[f[1]];
+												k = h[f[2]];
+												z = k(N, S);
+												H = V[z];
+												k = 0;
+												V = 10;
+												o = K[H];
+												z = 200;
+												H = 0;
+												K = o(H, V, k, z);
+												a[y] = K;
+												k = 10183678240012;
+												o = h[f[1]];
+												K = h[f[2]];
+												V = B(247);
+												H = K(V, k);
+												y = o[H];
+												o = 1;
+												a[y] = o;
+												o = h[f[1]];
+												k = 17832174665951;
+												K = h[f[2]];
+												V = B(-28);
+												H = K(V, k);
+												K = B(-12);
+												y = o[H];
+												o = s;
+												a[y] = o;
+												o = p[K];
+												H = h[f[1]];
+												N = 5892874966384;
+												z = B(-215);
+												V = h[f[2]];
+												k = V(z, N);
+												N = 10328637810067;
+												S = B(-172);
+												K = H[k];
+												y = o[K];
+												z = B(193);
+												H = h[f[1]];
+												V = h[f[2]];
+												k = V(z, N);
+												K = H[k];
+												o = y(K);
+												z = 33494250879449;
+												K = h[f[1]];
+												k = B(109);
+												H = h[f[2]];
+												V = H(k, z);
+												y = K[V];
+												V = B(0);
+												H = p[V];
+												k = h[f[1]];
+												z = h[f[2]];
+												N = z(S, i);
+												V = k[N];
+												z = 1;
+												k = 0;
+												N = 0;
+												K = H[V];
+												V = .48;
+												H = K(V, k, z, N);
+												S = B(32);
+												z = 21503409999418;
+												o[y] = H;
+												k = B(240);
+												K = h[f[1]];
+												i = 14620514858288;
+												H = h[f[2]];
+												V = H(k, z);
+												y = K[V];
+												V = B(209);
+												H = p[V];
+												k = h[f[1]];
+												z = h[f[2]];
+												N = z(S, i);
+												V = k[N];
+												k = 150;
+												K = H[V];
+												z = 50;
+												V = 50;
+												H = K(V, k, z);
+												k = B(-157);
+												z = 30871019548750;
+												o[y] = H;
+												K = h[f[1]];
+												i = B(-8);
+												H = h[f[2]];
+												V = H(k, z);
+												y = K[V];
+												k = B(-161);
+												V = p[k];
+												z = h[f[1]];
+												N = h[f[2]];
+												Xa = 3649759841607;
+												S = N(i, u);
+												k = z[S];
+												H = V[k];
+												i = 26240903503734;
+												k = h[f[1]];
+												z = h[f[2]];
+												S = B(13);
+												N = z(S, i);
+												i = 28084574479915;
+												V = k[N];
+												K = H[V];
+												z = 16261242436392;
+												o[y] = K;
+												N = 2370894301344;
+												K = h[f[1]];
+												H = h[f[2]];
+												k = B(79);
+												V = H(k, z);
+												y = K[V];
+												H = h[f[1]];
+												V = h[f[2]];
+												z = B(44);
+												k = V(z, N);
+												K = H[k];
+												o[y] = K;
+												z = 2751010507266;
+												K = h[f[1]];
+												H = h[f[2]];
+												k = B(-211);
+												V = H(k, z);
+												y = K[V];
+												ya = 29185193437740;
+												V = B(209);
+												H = p[V];
+												k = h[f[1]];
+												z = h[f[2]];
+												S = B(-112);
+												N = z(S, i);
+												z = 255;
+												V = k[N];
+												K = H[V];
+												k = 255;
+												V = 255;
+												H = K(V, k, z);
+												o[y] = H;
+												K = h[f[1]];
+												z = 6521033103289;
+												H = h[f[2]];
+												k = B(-17);
+												u = 29164791720473;
+												V = H(k, z);
+												y = K[V];
+												K = 14;
+												o[y] = K;
+												i = B(-14);
+												k = B(-241);
+												z = 16530759859235;
+												K = h[f[1]];
+												S = 18165044789781;
+												H = h[f[2]];
+												V = H(k, z);
+												y = K[V];
+												K = a;
+												H = B(-12);
+												N = B(-64);
+												o[y] = K;
+												K = p[H];
+												V = h[f[1]];
+												k = h[f[2]];
+												z = k(N, S);
+												N = B(-51);
+												H = V[z];
+												S = 16314931166042;
+												y = K[H];
+												V = h[f[1]];
+												k = h[f[2]];
+												z = k(N, S);
+												H = V[z];
+												N = 17635673915432;
+												K = y(H);
+												z = B(78);
+												H = h[f[1]];
+												V = h[f[2]];
+												k = V(z, N);
+												y = H[k];
+												k = B(0);
+												V = p[k];
+												z = h[f[1]];
+												N = h[f[2]];
+												S = N(i, u);
+												i = B(-200);
+												k = z[S];
+												z = 0;
+												H = V[k];
+												S = 0;
+												k = .48;
+												N = 1;
+												V = H(k, z, N, S);
+												K[y] = V;
+												H = h[f[1]];
+												z = B(-110);
+												N = 27671171261610;
+												u = 28446436517756;
+												V = h[f[2]];
+												k = V(z, N);
+												y = H[k];
+												k = B(0);
+												V = p[k];
+												z = h[f[1]];
+												N = h[f[2]];
+												S = N(i, u);
+												k = z[S];
+												H = V[k];
+												S = 0;
+												i = B(-108);
+												N = 0;
+												z = 0;
+												k = .52;
+												V = H(k, z, N, S);
+												K[y] = V;
+												u = 1862998918855;
+												H = h[f[1]];
+												V = h[f[2]];
+												N = 14400391066723;
+												z = B(-141);
+												k = V(z, N);
+												y = H[k];
+												k = B(209);
+												V = p[k];
+												z = h[f[1]];
+												N = h[f[2]];
+												S = N(i, u);
+												k = z[S];
+												N = 50;
+												z = 100;
+												H = V[k];
+												k = 200;
+												u = B(-73);
+												V = H(k, z, N);
+												K[y] = V;
+												H = h[f[1]];
+												z = B(-240);
+												V = h[f[2]];
+												N = 33188225120444;
+												k = V(z, N);
+												z = B(-161);
+												y = H[k];
+												k = p[z];
+												N = h[f[1]];
+												S = h[f[2]];
+												i = S(u, ya);
+												z = N[i];
+												V = k[z];
+												z = h[f[1]];
+												u = 32958437357542;
+												N = h[f[2]];
+												i = B(-70);
+												S = N(i, u);
+												k = z[S];
+												z = B(219);
+												H = V[k];
+												K[y] = H;
+												N = 17814994272463;
+												H = h[f[1]];
+												S = 1990778095422;
+												V = h[f[2]];
+												k = V(z, N);
+												y = H[k];
+												V = h[f[1]];
+												k = h[f[2]];
+												N = B(223);
+												z = k(N, S);
+												H = V[z];
+												N = 11579585210912;
+												z = B(-76);
+												K[y] = H;
+												H = h[f[1]];
+												V = h[f[2]];
+												k = V(z, N);
+												y = H[k];
+												k = B(209);
+												V = p[k];
+												i = B(-202);
+												u = 4908223664603;
+												z = h[f[1]];
+												N = h[f[2]];
+												S = N(i, u);
+												k = z[S];
+												N = 255;
+												H = V[k];
+												k = 255;
+												z = 255;
+												V = H(k, z, N);
+												z = B(131);
+												K[y] = V;
+												N = 4596829032633;
+												H = h[f[1]];
+												V = h[f[2]];
+												k = V(z, N);
+												y = H[k];
+												z = B(7);
+												H = 14;
+												i = 9171108798813;
+												K[y] = H;
+												N = 16595186334815;
+												H = h[f[1]];
+												V = h[f[2]];
+												k = V(z, N);
+												V = B(-12);
+												y = H[k];
+												S = B(-101);
+												H = a;
+												K[y] = H;
+												ya = B(48);
+												H = p[V];
+												k = h[f[1]];
+												z = h[f[2]];
+												N = z(S, i);
+												V = k[N];
+												y = H[V];
+												S = B(167);
+												i = 24332806051973;
+												k = h[f[1]];
+												z = h[f[2]];
+												N = z(S, i);
+												V = k[N];
+												i = 28264968611539;
+												H = y(V);
+												V = t();
+												S = B(242);
+												h[V] = H;
+												y = h[V];
+												k = h[f[1]];
+												z = h[f[2]];
+												N = z(S, i);
+												H = k[N];
+												N = B(0);
+												z = p[N];
+												S = h[f[1]];
+												i = h[f[2]];
+												u = i(ya, pa);
+												i = 0;
+												N = S[u];
+												pa = 3262127213534;
+												ya = B(158);
+												k = z[N];
+												u = 20;
+												N = 1;
+												S = 0;
+												z = k(N, S, i, u);
+												i = 7055772850603;
+												y[H] = z;
+												y = h[V];
+												k = h[f[1]];
+												z = h[f[2]];
+												S = B(-227);
+												N = z(S, i);
+												H = k[N];
+												N = B(0);
+												z = p[N];
+												S = h[f[1]];
+												i = h[f[2]];
+												u = i(ya, pa);
+												N = S[u];
+												u = 5;
+												k = z[N];
+												S = 0;
+												N = 0;
+												i = 1;
+												z = k(N, S, i, u);
+												y[H] = z;
+												i = 29476186352443;
+												y = h[V];
+												k = h[f[1]];
+												z = h[f[2]];
+												pa = B(-30);
+												S = B(-31);
+												N = z(S, i);
+												i = 29607186852789;
+												H = k[N];
+												k = 1;
+												y[H] = k;
+												y = h[V];
+												S = B(244);
+												k = h[f[1]];
+												z = h[f[2]];
+												N = z(S, i);
+												S = B(-161);
+												H = k[N];
+												N = p[S];
+												i = h[f[1]];
+												u = h[f[2]];
+												ya = u(pa, Xa);
+												S = i[ya];
+												ya = B(64);
+												pa = 961028260735;
+												z = N[S];
+												S = h[f[1]];
+												i = h[f[2]];
+												u = i(ya, pa);
+												N = S[u];
+												u = 16308488518484;
+												k = z[N];
+												y[H] = k;
+												y = h[V];
+												ya = B(206);
+												i = 1161824109626;
+												k = h[f[1]];
+												S = B(-90);
+												z = h[f[2]];
+												N = z(S, i);
+												i = B(-116);
+												H = k[N];
+												z = h[f[1]];
+												N = h[f[2]];
+												S = N(i, u);
+												k = z[S];
+												pa = 31819162514369;
+												y[H] = k;
+												y = h[V];
+												S = B(171);
+												k = h[f[1]];
+												z = h[f[2]];
+												i = 35143568654298;
+												N = z(S, i);
+												H = k[N];
+												N = B(209);
+												z = p[N];
+												S = h[f[1]];
+												i = h[f[2]];
+												u = i(ya, pa);
+												N = S[u];
+												k = z[N];
+												N = 255;
+												i = 100;
+												S = 255;
+												z = k(N, S, i);
+												S = B(-105);
+												y[H] = z;
+												y = h[V];
+												k = h[f[1]];
+												z = h[f[2]];
+												i = 6274064946899;
+												N = z(S, i);
+												S = B(101);
+												i = 10904180991915;
+												H = k[N];
+												k = 12;
+												y[H] = k;
+												y = h[V];
+												k = h[f[1]];
+												z = h[f[2]];
+												N = z(S, i);
+												H = k[N];
+												k = a;
+												y[H] = k;
+												k = h[f[1]];
+												z = h[f[2]];
+												S = B(-35);
+												i = 27390916092837;
+												N = z(S, i);
+												i = 1674014590487;
+												H = k[N];
+												k = e(5491879, {
+														v,
+														C,
+														f[1],
+														f[2],
+														V,
+													});
+												S = B(-67);
+												y = o[H];
+												H = B(198);
+												H = y[H];
+												H = H(y, k);
+												k = h[f[1]];
+												z = h[f[2]];
+												N = z(S, i);
+												H = k[N];
+												y = K[H];
+												i = B(250);
+												H = B(198);
+												u = 7657086622683;
+												k = W(16313330, {
+														C,
+														f[1],
+														f[2],
+														O,
+														V,
+													});
+												H = y[H];
+												H = H(y, k);
+												H = B(252);
+												y = h[Q];
+												H = y[H];
+												z = h[f[1]];
+												N = h[f[2]];
+												S = N(i, u);
+												k = z[S];
+												H = H(y, k);
+												k = t();
+												h[k] = H;
+												y = h[k];
+												y = y and 10642757 or 15333844;
+											end;
+										else
+											if y < 5568587 then
+												v = 3884916477474;
+												O = 18638579385294;
+												G = B(73);
+												y = h[f[1]];
+												w = y();
+												y = h[f[2]];
+												Q = w;
+												U = h[f[3]];
+												P = h[f[4]];
+												Y = 251263254762;
+												d = P(G, v);
+												w = U[d];
+												U = Q;
+												y[w] = U;
+												v = 14736482514332;
+												y = h[f[5]];
+												G = B(-36);
+												U = h[f[3]];
+												P = h[f[4]];
+												d = P(G, v);
+												w = U[d];
+												v = B(-57);
+												P = h[f[3]];
+												d = h[f[4]];
+												G = d(v, O);
+												U = P[G];
+												y[w] = U;
+												y = h[f[5]];
+												v = 26119566974725;
+												U = h[f[3]];
+												Q = nil;
+												G = B(97);
+												P = h[f[4]];
+												d = P(G, v);
+												w = U[d];
+												d = B(209);
+												P = p[d];
+												G = h[f[3]];
+												v = h[f[4]];
+												I = B(46);
+												O = v(I, Y);
+												d = G[O];
+												G = 255;
+												v = 100;
+												U = P[d];
+												d = 100;
+												P = U(d, G, v);
+												y[w] = P;
+												U = 3;
+												P = e(8710410, { f[5], f[3], f[4] });
+												w = B(-228);
+												y = p[w];
+												w = y(U, P);
+												y = p[B(183)];
+												w = {};
+											else
+												A = R;
+												y = A;
+												F[A] = y;
+												A = nil;
+												y = 10032434;
+											end;
+										end;
+									end;
+								else
+									if y < 6398590 then
+										if y < 5911310 then
+											if y < 5853333 then
+												G, I = v(d, G);
+												y = G and 8526596 or 15685599;
+											else
+												P = nil;
+												U = nil;
+												y = 4849300;
+											end;
+										else
+											if y < 6260528 then
+												y = w and 15177168 or 16471031;
+											else
+												P = 1;
+												U = h[f[3]];
+												Q = n[6](U, P);
+												y = Q and 11533664 or 8327422;
+											end;
+										end;
+									else
+										if y < 6458887 then
+											if y < 6401638 then
+												q = 26295666007977;
+												I = h[f[1]];
+												Y = h[f[2]];
+												Z = B(-127);
+												g = 14555014608115;
+												j = Y(Z, g);
+												O = I[j];
+												v = Q[O];
+												j = B(-161);
+												Y = p[j];
+												Z = h[f[1]];
+												R = B(194);
+												g = h[f[2]];
+												F = g(R, q);
+												j = Z[F];
+												I = Y[j];
+												F = B(-99);
+												j = h[f[1]];
+												y = 4128382;
+												R = 1882326861529;
+												Z = h[f[2]];
+												g = Z(F, R);
+												Y = j[g];
+												O = I[Y];
+												G = n[25](v, O);
+												P = G;
+											else
+												U = h[f[2]];
+												P = 101;
+												Q = n[71](U, P);
+												U = 26588806471865;
+												w = n[18](Q, U);
+												Q = 35184372088832;
+												y = n[58](w, Q);
+												U = 1;
+												h[f[2]] = y;
+												Q = h[f[3]];
+												w = n[8](Q, U);
+												y = 8327422;
+											end;
+										else
+											G = 35184372088832;
+											y = {};
+											h[f[2]] = y;
+											w = h[f[3]];
+											d = w;
+											I = B(8);
+											w = n[60](U, G);
+											y = 213510;
+											O = 255;
+											h[f[4]] = w;
+											v = n[56](U, O);
+											O = 2;
+											G = n[16](v, O);
+											h[f[5]] = G;
+											O = p[I];
+											j = 1;
+											I = B(-142);
+											Z = j;
+											v = O[I];
+											O = v(Q);
+											j = 0;
+											I = 1;
+											v = B(-116);
+											P[U] = v;
+											Y = O;
+											g = Z < j;
+											v = 194;
+											j = I - Z;
+										end;
+									end;
+								end;
+							else
+								if y < 7762372 then
+									if y < 7165808 then
+										if y < 6946271 then
+											if y < 6782372 then
+												g = 11046993012784;
+												Z = B(-254);
+												s = B(160);
+												I = h[f[1]];
+												Y = h[f[2]];
+												j = Y(Z, g);
+												O = I[j];
+												Y = h[f[1]];
+												R = 1372283929854;
+												j = h[f[2]];
+												C = 20103207930146;
+												F = 3189110541210;
+												q = B(-177);
+												g = B(135);
+												Z = j(g, F);
+												I = Y[Z];
+												a = B(115);
+												j = h[f[1]];
+												A = 30312656760390;
+												E = 18443152409368;
+												F = B(184);
+												Z = h[f[2]];
+												g = Z(F, R);
+												Y = j[g];
+												g = h[f[1]];
+												F = h[f[2]];
+												R = F(q, E);
+												Z = g[R];
+												j = v[Z];
+												E = 2861609290345;
+												q = B(111);
+												g = h[f[1]];
+												F = h[f[2]];
+												R = F(q, E);
+												Z = g[R];
+												R = h[f[1]];
+												q = h[f[2]];
+												E = q(s, A);
+												F = R[E];
+												g = v[F];
+												A = 6924772350257;
+												s = B(132);
+												R = h[f[1]];
+												q = h[f[2]];
+												E = q(s, A);
+												F = R[E];
+												E = h[f[1]];
+												s = h[f[2]];
+												A = s(a, C);
+												q = E[A];
+												R = v[q];
+												y = {
+														[O] = I,
+														[Y] = j,
+														[Z] = g,
+														[F] = R,
+													};
+												Q[G] = y;
+												y = 12353401;
+											else
+												Q = t();
+												P = e(3747442, { f[1], Q });
+												w = B(137);
+												h[Q] = X[1];
+												y = p[w];
+												d = { y(P) };
+												w = d[1];
+												P = w;
+												U = d[2];
+												y = n[35](P);
+												y = y and 2882136 or 8745227;
+											end;
+										else
+											if y < 7011703 then
+												d = B(140);
+												G = 15743683082566;
+												y = h[f[1]];
+												O = 11056656984121;
+												v = 791371875041;
+												Q = h[f[2]];
+												U = h[f[3]];
+												P = U(d, G);
+												w = Q[P];
+												U = h[f[2]];
+												P = h[f[3]];
+												G = B(203);
+												d = P(G, v);
+												Q = U[d];
+												y[w] = Q;
+												y = nil;
+												Q = t();
+												h[Q] = y;
+												v = B(17);
+												w = h[f[4]];
+												P = h[f[2]];
+												d = h[f[3]];
+												G = d(v, O);
+												U = P[G];
+												y = w[U];
+												U = c(7667434, {
+														f[2],
+														f[3],
+														f[5],
+														f[1],
+														Q,
+													});
+												w = B(198);
+												w = y[w];
+												w = w(y, U);
+												y = p[B(237)];
+												h[Q] = w;
+												w = {};
+												Q = J(Q);
+											else
+												y = h[f[3]];
+												P = B(-47);
+												P = y[P];
+												U = { P(y, Q) };
+												w = { L(U) };
+												y = p[B(182)];
+											end;
+										end;
+									else
+										if y < 7640987 then
+											if y < 7479828 then
+												Y = 29451489536804;
+												I = B(96);
+												G = 1;
+												P = B(-204);
+												d = 1;
+												y = 1050656;
+												P = Q[P];
+												P = P(Q, d, G);
+												G = h[f[2]];
+												v = h[f[3]];
+												O = v(I, Y);
+												d = G[O];
+												U = n[23](P, d);
+												w = U;
+											else
+												y = h[f[4]];
+												P = { y(Q) };
+												U = P[2];
+												w = P[1];
+												P = w;
+												y = P and 3970681 or 5309090;
+											end;
+										else
+											if y < 7742533 then
+												Q = X[1];
+												U = X[2];
+												P = n[34](U);
+												y = P and 4169855 or 15691231;
+												w = P;
+											else
+												R = B(-16);
+												F = p[R];
+												q = h[f[2]];
+												a = 11574216337947;
+												A = B(21);
+												E = h[f[3]];
+												s = E(A, a);
+												R = q[s];
+												y = F[R];
+												F = g[j];
+												y[O] = F;
+												y = 662548;
+											end;
+										end;
+									end;
+								else
+									if y < 8383272 then
+										if y < 8294063 then
+											if y < 8278099 then
+												O = B(-176);
+												I = 16559751773246;
+												P = B(-16);
+												w = p[P];
+												d = h[f[1]];
+												G = h[f[2]];
+												v = G(O, I);
+												I = B(-103);
+												P = d[v];
+												y = w[P];
+												w = h[f[3]];
+												G = h[f[1]];
+												v = h[f[2]];
+												Y = 33088364083295;
+												O = v(I, Y);
+												d = G[O];
+												P = Q[d];
+												Y = B(202);
+												j = 19324721350221;
+												v = B(-247);
+												y[w] = P;
+												y = h[f[4]];
+												O = 24049329559421;
+												P = h[f[1]];
+												d = h[f[2]];
+												G = d(v, O);
+												w = P[G];
+												v = h[f[1]];
+												O = h[f[2]];
+												I = O(Y, j);
+												G = v[I];
+												j = 17952437420367;
+												d = Q[G];
+												v = h[f[1]];
+												Y = B(-4);
+												O = h[f[2]];
+												I = O(Y, j);
+												G = v[I];
+												P = d[G];
+												y[w] = P;
+												y = h[f[5]];
+												w = B(-190);
+												w = y[w];
+												w = w(y);
+												y = 10123061;
+											else
+												y = w and 10646853 or 12706180;
+											end;
+										else
+											if y < 8326057 then
+												g = B(-178);
+												I = B(-59);
+												O = p[I];
+												I = O(v);
+												Y = h[f[1]];
+												j = h[f[2]];
+												F = 34273811233967;
+												Z = j(g, F);
+												O = Y[Z];
+												y = n[21](I, O);
+												y = y and 8849166 or 12321656;
+											else
+												P = 86;
+												U = h[f[3]];
+												Q = n[74](U, P);
+												y = 6314177;
+												U = 257;
+												w = n[58](Q, U);
+												h[f[3]] = w;
+											end;
+										end;
+									else
+										if y < 8599638 then
+											if y < 8551427 then
+												O = G;
+												g = B(153);
+												s = 28511936767929;
+												Z = p[g];
+												g = Z(I);
+												F = h[f[2]];
+												E = B(178);
+												R = h[f[3]];
+												q = R(E, s);
+												Z = F[q];
+												j = n[24](g, Z);
+												y = j and 16371700 or 11702629;
+												Y = j;
+											else
+												P = X[3];
+												q = 33313856747825;
+												F = 13864577544816;
+												Z = 29704900340752;
+												U = X[2];
+												d = X[4];
+												v = B(-12);
+												G = X[5];
+												j = B(36);
+												Q = X[1];
+												R = 17123483434571;
+												w = p[v];
+												O = h[f[1]];
+												I = h[f[2]];
+												Y = I(j, Z);
+												Z = 20533791541939;
+												v = O[Y];
+												j = B(-218);
+												y = w[v];
+												O = h[f[1]];
+												I = h[f[2]];
+												Y = I(j, Z);
+												v = O[Y];
+												w = y(v);
+												j = 7871841541283;
+												v = w;
+												Y = B(235);
+												w = h[f[1]];
+												g = B(-191);
+												O = h[f[2]];
+												I = O(Y, j);
+												y = w[I];
+												w = U;
+												j = 8240146226682;
+												v[y] = w;
+												w = h[f[1]];
+												O = h[f[2]];
+												Y = B(19);
+												I = O(Y, j);
+												y = w[I];
+												I = B(0);
+												O = p[I];
+												Y = h[f[1]];
+												j = h[f[2]];
+												Z = j(g, F);
+												I = Y[Z];
+												w = O[I];
+												j = 0;
+												Y = -20;
+												I = 1;
+												Z = 35;
+												O = w(I, Y, j, Z);
+												j = 31281201443276;
+												v[y] = O;
+												w = h[f[1]];
+												O = h[f[2]];
+												Y = B(174);
+												I = O(Y, j);
+												g = 4813731500419;
+												j = 11804004100849;
+												Y = B(-249);
+												y = w[I];
+												w = 1;
+												v[y] = w;
+												w = h[f[1]];
+												O = h[f[2]];
+												I = O(Y, j);
+												Z = B(-184);
+												y = w[I];
+												w = Q;
+												v[y] = w;
+												E = 28621461776415;
+												O = B(-12);
+												w = p[O];
+												I = h[f[1]];
+												Y = h[f[2]];
+												j = Y(Z, g);
+												O = I[j];
+												g = 198648299705;
+												y = w[O];
+												Z = B(-203);
+												I = h[f[1]];
+												Y = h[f[2]];
+												j = Y(Z, g);
+												O = I[j];
+												w = y(O);
+												O = w;
+												w = h[f[1]];
+												F = B(68);
+												Z = 35052297813892;
+												I = h[f[2]];
+												j = B(29);
+												Y = I(j, Z);
+												y = w[Y];
+												Y = B(0);
+												I = p[Y];
+												j = h[f[1]];
+												Z = h[f[2]];
+												g = Z(F, R);
+												Z = 1;
+												Y = j[g];
+												R = 33206479288525;
+												g = -5;
+												F = B(42);
+												j = 120;
+												w = I[Y];
+												Y = 0;
+												I = w(Y, j, Z, g);
+												Z = 12969049534254;
+												O[y] = I;
+												w = h[f[1]];
+												j = B(-68);
+												I = h[f[2]];
+												Y = I(j, Z);
+												y = w[Y];
+												Y = B(209);
+												I = p[Y];
+												j = h[f[1]];
+												Z = h[f[2]];
+												g = Z(F, R);
+												Y = j[g];
+												Z = 50;
+												w = I[Y];
+												j = 50;
+												Y = 50;
+												I = w(Y, j, Z);
+												O[y] = I;
+												j = B(80);
+												R = B(-111);
+												w = h[f[1]];
+												I = h[f[2]];
+												Z = 7502463081291;
+												Y = I(j, Z);
+												s = 17271664328405;
+												j = B(-161);
+												y = w[Y];
+												Y = p[j];
+												Z = h[f[1]];
+												g = h[f[2]];
+												F = g(R, q);
+												j = Z[F];
+												R = 1386242999563;
+												I = Y[j];
+												j = h[f[1]];
+												F = B(-149);
+												Z = h[f[2]];
+												g = Z(F, R);
+												Y = j[g];
+												w = I[Y];
+												Z = 21933993611211;
+												O[y] = w;
+												w = h[f[1]];
+												I = h[f[2]];
+												j = B(-209);
+												Y = I(j, Z);
+												y = w[Y];
+												w = P;
+												R = 12487998516590;
+												O[y] = w;
+												Z = 19738124568526;
+												w = h[f[1]];
+												j = B(72);
+												I = h[f[2]];
+												Y = I(j, Z);
+												y = w[Y];
+												Y = B(209);
+												I = p[Y];
+												j = h[f[1]];
+												Z = h[f[2]];
+												F = B(221);
+												g = Z(F, R);
+												Z = 200;
+												Y = j[g];
+												j = 200;
+												w = I[Y];
+												F = 33475996711368;
+												Y = 200;
+												I = w(Y, j, Z);
+												O[y] = I;
+												w = h[f[1]];
+												j = B(-94);
+												Z = 22068215435336;
+												I = h[f[2]];
+												q = 9051919818990;
+												Y = I(j, Z);
+												g = B(-13);
+												Z = 32569730954876;
+												y = w[Y];
+												w = 14;
+												O[y] = w;
+												w = h[f[1]];
+												I = h[f[2]];
+												j = B(10);
+												Y = I(j, Z);
+												y = w[Y];
+												I = B(-12);
+												w = v;
+												O[y] = w;
+												w = p[I];
+												Y = h[f[1]];
+												j = h[f[2]];
+												Z = j(g, F);
+												I = Y[Z];
+												R = B(-37);
+												y = w[I];
+												Y = h[f[1]];
+												j = h[f[2]];
+												g = B(208);
+												F = 28480797304732;
+												Z = j(g, F);
+												I = Y[Z];
+												w = y(I);
+												I = w;
+												g = 29315120163493;
+												w = h[f[1]];
+												Z = B(-170);
+												Y = h[f[2]];
+												j = Y(Z, g);
+												y = w[j];
+												j = B(123);
+												Y = p[j];
+												Z = h[f[1]];
+												g = h[f[2]];
+												F = g(R, q);
+												g = 4702058942747;
+												j = Z[F];
+												F = B(-235);
+												w = Y[j];
+												Z = 3;
+												j = 0;
+												Y = w(j, Z);
+												I[y] = Y;
+												w = h[f[1]];
+												Z = B(-229);
+												Y = h[f[2]];
+												j = Y(Z, g);
+												R = 23066825806826;
+												q = B(59);
+												y = w[j];
+												Y = B(-12);
+												w = O;
+												I[y] = w;
+												w = p[Y];
+												j = h[f[1]];
+												Z = h[f[2]];
+												g = Z(F, R);
+												Y = j[g];
+												R = 12136874224679;
+												y = w[Y];
+												j = h[f[1]];
+												F = B(12);
+												Z = h[f[2]];
+												g = Z(F, R);
+												Y = j[g];
+												w = y(Y);
+												Y = w;
+												F = 31163086238046;
+												w = h[f[1]];
+												g = B(144);
+												j = h[f[2]];
+												Z = j(g, F);
+												y = w[Z];
+												Z = B(0);
+												j = p[Z];
+												g = h[f[1]];
+												F = h[f[2]];
+												R = F(q, E);
+												Z = g[R];
+												F = 1;
+												w = j[Z];
+												g = -130;
+												Z = 1;
+												R = 0;
+												j = w(Z, g, F, R);
+												Y[y] = j;
+												w = h[f[1]];
+												j = h[f[2]];
+												g = B(-165);
+												F = 26420223860765;
+												Z = j(g, F);
+												y = w[Z];
+												Z = B(0);
+												E = 5790866380049;
+												q = B(3);
+												j = p[Z];
+												g = h[f[1]];
+												F = h[f[2]];
+												R = F(q, E);
+												Z = g[R];
+												w = j[Z];
+												F = 0;
+												g = 130;
+												Z = 0;
+												R = 0;
+												j = w(Z, g, F, R);
+												Y[y] = j;
+												F = 20439299377755;
+												g = B(170);
+												w = h[f[1]];
+												j = h[f[2]];
+												Z = j(g, F);
+												y = w[Z];
+												g = B(70);
+												w = 1;
+												Y[y] = w;
+												w = h[f[1]];
+												j = h[f[2]];
+												F = 30024885169466;
+												Z = j(g, F);
+												E = B(-98);
+												g = B(-161);
+												y = w[Z];
+												Z = p[g];
+												F = h[f[1]];
+												R = h[f[2]];
+												q = R(E, s);
+												g = F[q];
+												q = B(69);
+												j = Z[g];
+												E = 23107629241360;
+												g = h[f[1]];
+												F = h[f[2]];
+												R = F(q, E);
+												Z = g[R];
+												w = j[Z];
+												q = B(-41);
+												Y[y] = w;
+												w = h[f[1]];
+												F = 3342660308009;
+												j = h[f[2]];
+												g = B(121);
+												Z = j(g, F);
+												y = w[Z];
+												s = 26592027795645;
+												g = B(-250);
+												F = 33726186191537;
+												w = d;
+												Y[y] = w;
+												w = h[f[1]];
+												E = 13213870141458;
+												j = h[f[2]];
+												Z = j(g, F);
+												y = w[Z];
+												Z = B(209);
+												j = p[Z];
+												g = h[f[1]];
+												F = h[f[2]];
+												R = F(q, E);
+												F = 120;
+												Z = g[R];
+												g = 120;
+												w = j[Z];
+												Z = 120;
+												j = w(Z, g, F);
+												F = 34281327656118;
+												Y[y] = j;
+												w = h[f[1]];
+												j = h[f[2]];
+												g = B(107);
+												Z = j(g, F);
+												F = 17974986686820;
+												y = w[Z];
+												w = 12;
+												Y[y] = w;
+												w = h[f[1]];
+												g = B(91);
+												j = h[f[2]];
+												Z = j(g, F);
+												g = B(-161);
+												y = w[Z];
+												Z = p[g];
+												E = B(25);
+												F = h[f[1]];
+												R = h[f[2]];
+												q = R(E, s);
+												g = F[q];
+												j = Z[g];
+												q = B(75);
+												g = h[f[1]];
+												F = h[f[2]];
+												E = 14008463340278;
+												R = F(q, E);
+												Z = g[R];
+												w = j[Z];
+												Y[y] = w;
+												w = h[f[1]];
+												g = B(126);
+												F = 593797349929;
+												j = h[f[2]];
+												Z = j(g, F);
+												y = w[Z];
+												w = v;
+												Y[y] = w;
+												y = G and 13186963 or 11319130;
+											end;
+										else
+											v = t();
+											y = T(8578822, { f[1], f[2] });
+											d = y;
+											O = t();
+											I = B(-12);
+											y = c(15060428, { f[1], f[2], P });
+											g = B(-53);
+											G = y;
+											y = x(65025, { f[1], f[2], U });
+											h[v] = y;
+											y = m(6831824, { U, f[1], f[2] });
+											F = 9268822286776;
+											h[O] = y;
+											w = p[I];
+											Y = h[f[1]];
+											j = h[f[2]];
+											Z = j(g, F);
+											I = Y[Z];
+											g = B(33);
+											y = w[I];
+											Y = h[f[1]];
+											j = h[f[2]];
+											q = 4560320696471;
+											F = 13034549784427;
+											Z = j(g, F);
+											E = 31440120083040;
+											I = Y[Z];
+											w = y(I);
+											I = w;
+											w = h[f[1]];
+											F = 689363288706;
+											Y = h[f[2]];
+											g = 26054066724552;
+											Z = B(214);
+											j = Y(Z, g);
+											g = B(-213);
+											y = w[j];
+											Y = h[f[1]];
+											j = h[f[2]];
+											R = B(62);
+											Z = j(g, F);
+											g = 4487304024147;
+											w = Y[Z];
+											I[y] = w;
+											w = h[f[1]];
+											Y = h[f[2]];
+											Z = B(45);
+											j = Y(Z, g);
+											y = w[j];
+											j = B(0);
+											Y = p[j];
+											Z = h[f[1]];
+											g = h[f[2]];
+											F = g(R, q);
+											j = Z[F];
+											F = 0;
+											w = Y[j];
+											g = 1;
+											j = 0;
+											Z = 150;
+											Y = w(j, Z, g, F);
+											I[y] = Y;
+											Z = B(52);
+											w = h[f[1]];
+											g = 5655570781331;
+											Y = h[f[2]];
+											R = B(49);
+											j = Y(Z, g);
+											y = w[j];
+											q = 14418645234804;
+											j = B(209);
+											Y = p[j];
+											Z = h[f[1]];
+											g = h[f[2]];
+											F = g(R, q);
+											j = Z[F];
+											R = 12120767605784;
+											w = Y[j];
+											j = 40;
+											Z = 40;
+											g = 40;
+											Y = w(j, Z, g);
+											I[y] = Y;
+											w = h[f[1]];
+											F = B(207);
+											g = 27147169260226;
+											Z = B(-89);
+											Y = h[f[2]];
+											j = Y(Z, g);
+											y = w[j];
+											w = 0;
+											g = 15869314709947;
+											I[y] = w;
+											w = h[f[1]];
+											Y = h[f[2]];
+											Z = B(51);
+											j = Y(Z, g);
+											y = w[j];
+											Y = B(-12);
+											w = h[Q];
+											I[y] = w;
+											w = p[Y];
+											j = h[f[1]];
+											Z = h[f[2]];
+											g = Z(F, R);
+											Y = j[g];
+											y = w[Y];
+											j = h[f[1]];
+											Z = h[f[2]];
+											F = B(-9);
+											R = 24284486195288;
+											g = Z(F, R);
+											Y = j[g];
+											F = 21446499945989;
+											g = B(210);
+											w = y(Y);
+											q = B(-39);
+											R = 13305140981863;
+											Y = w;
+											w = h[f[1]];
+											j = h[f[2]];
+											Z = j(g, F);
+											F = B(-104);
+											y = w[Z];
+											j = h[f[1]];
+											Z = h[f[2]];
+											g = Z(F, R);
+											F = 28300403173108;
+											w = j[g];
+											Y[y] = w;
+											g = B(86);
+											w = h[f[1]];
+											j = h[f[2]];
+											Z = j(g, F);
+											y = w[Z];
+											Z = B(0);
+											j = p[Z];
+											g = h[f[1]];
+											F = h[f[2]];
+											R = F(q, E);
+											q = B(-1);
+											Z = g[R];
+											w = j[Z];
+											g = -150;
+											R = 0;
+											Z = 1;
+											F = 1;
+											j = w(Z, g, F, R);
+											Y[y] = j;
+											F = 11634347715155;
+											w = h[f[1]];
+											g = B(-102);
+											j = h[f[2]];
+											Z = j(g, F);
+											y = w[Z];
+											Z = B(0);
+											j = p[Z];
+											E = 34504672771462;
+											g = h[f[1]];
+											F = h[f[2]];
+											R = F(q, E);
+											Z = g[R];
+											R = 0;
+											w = j[Z];
+											g = 150;
+											Z = 0;
+											F = 0;
+											j = w(Z, g, F, R);
+											Y[y] = j;
+											w = h[f[1]];
+											F = 14767621977529;
+											g = B(5);
+											j = h[f[2]];
+											Z = j(g, F);
+											y = w[Z];
+											F = 21694541876972;
+											w = 1;
+											Y[y] = w;
+											w = h[f[1]];
+											q = 20851628821467;
+											g = B(-164);
+											j = h[f[2]];
+											Z = j(g, F);
+											y = w[Z];
+											R = 9993620137051;
+											w = 0;
+											Y[y] = w;
+											w = h[f[1]];
+											j = h[f[2]];
+											g = B(-65);
+											F = 12525580627345;
+											Z = j(g, F);
+											y = w[Z];
+											F = 2005810939724;
+											w = true;
+											Y[y] = w;
+											g = B(-212);
+											w = h[f[1]];
+											j = h[f[2]];
+											Z = j(g, F);
+											y = w[Z];
+											F = B(211);
+											w = h[Q];
+											Y[y] = w;
+											j = h[f[1]];
+											Z = h[f[2]];
+											g = Z(F, R);
+											w = j[g];
+											R = B(-58);
+											Z = h[f[1]];
+											g = h[f[2]];
+											F = g(R, q);
+											j = Z[F];
+											y = { w, j };
+											w = B(-60);
+											g = t();
+											j = y;
+											y = {};
+											Z = t();
+											h[Z] = y;
+											y = nil;
+											h[g] = y;
+											y = p[w];
+											q = { y(j) };
+											R = q[3];
+											F = q[2];
+											w = q[1];
+											q = w;
+											y = 14567357;
+										end;
+									end;
+								end;
+							end;
+						end;
+					else
+						if y < 12415714 then
+							if y < 10673989 then
+								if y < 9577139 then
+									if y < 9075834 then
+										if y < 8808321 then
+											if y < 8744499 then
+												G = 13689552286157;
+												y = h[f[1]];
+												d = B(165);
+												v = 19759600060386;
+												Q = h[f[2]];
+												U = h[f[3]];
+												P = U(d, G);
+												w = Q[P];
+												G = B(-116);
+												U = h[f[2]];
+												P = h[f[3]];
+												d = P(G, v);
+												Q = U[d];
+												y[w] = Q;
+												w = {};
+												y = p[B(92)];
+											else
+												w = B(47);
+												y = p[w];
+												v = { y(U) };
+												y = 5841586;
+												w = v[1];
+												d = v[2];
+												G = v[3];
+												v = w;
+											end;
+										else
+											if y < 8828590 then
+												I = h[f[1]];
+												s = B(-224);
+												A = 23030317470664;
+												Z = B(196);
+												F = 12096070790145;
+												Y = h[f[2]];
+												g = 21866345811852;
+												R = 17049392987654;
+												j = Y(Z, g);
+												g = B(-5);
+												q = B(-159);
+												O = I[j];
+												Y = h[f[1]];
+												j = h[f[2]];
+												C = 29795097406564;
+												a = B(-216);
+												Z = j(g, F);
+												I = Y[Z];
+												F = B(-100);
+												j = h[f[1]];
+												E = 30849544056890;
+												Z = h[f[2]];
+												g = Z(F, R);
+												Y = j[g];
+												g = h[f[1]];
+												F = h[f[2]];
+												R = F(q, E);
+												Z = g[R];
+												j = v[Z];
+												g = h[f[1]];
+												F = h[f[2]];
+												E = 19114261529993;
+												q = B(-78);
+												R = F(q, E);
+												Z = g[R];
+												R = h[f[1]];
+												q = h[f[2]];
+												E = q(s, A);
+												F = R[E];
+												g = v[F];
+												A = 19985092724916;
+												R = h[f[1]];
+												q = h[f[2]];
+												s = B(14);
+												E = q(s, A);
+												F = R[E];
+												E = h[f[1]];
+												s = h[f[2]];
+												A = s(a, C);
+												q = E[A];
+												R = v[q];
+												y = {
+														[O] = I,
+														[Y] = j,
+														[Z] = g,
+														[F] = R,
+													};
+												Q[G] = y;
+												y = 12353401;
+											else
+												F = 459575525804;
+												g = 27670097487017;
+												I = h[f[1]];
+												Z = B(-75);
+												Y = h[f[2]];
+												A = 25953131912810;
+												j = Y(Z, g);
+												O = I[j];
+												Y = h[f[1]];
+												g = B(164);
+												R = 5223913394945;
+												j = h[f[2]];
+												Z = j(g, F);
+												I = Y[Z];
+												j = h[f[1]];
+												q = B(30);
+												F = B(-131);
+												Z = h[f[2]];
+												E = 13282591715410;
+												g = Z(F, R);
+												Y = j[g];
+												g = h[f[1]];
+												F = h[f[2]];
+												R = F(q, E);
+												Z = g[R];
+												j = v[Z];
+												E = 1408792266016;
+												g = h[f[1]];
+												q = B(-52);
+												s = B(-177);
+												F = h[f[2]];
+												R = F(q, E);
+												Z = g[R];
+												R = h[f[1]];
+												q = h[f[2]];
+												E = q(s, A);
+												F = R[E];
+												g = v[F];
+												y = { [O] = I, [Y] = j, [Z] = g };
+												Q[G] = y;
+												y = 12353401;
+											end;
+										end;
+									else
+										if y < 9459860 then
+											if y < 9404072 then
+												R = 0;
+												w = n[78](F);
+												y = n[23](w, R);
+												y = y and 10570563 or 11250007;
+											else
+												j = 16166750272208;
+												v = h[f[2]];
+												d = U;
+												O = h[f[3]];
+												Y = B(200);
+												d = nil;
+												I = O(Y, j);
+												y = v[I];
+												v = false;
+												G[y] = v;
+												G = nil;
+												y = 9466657;
+											end;
+										else
+											if y < 9497696 then
+												U, G = P(Q, U);
+												y = U and 9458465 or 10873164;
+											else
+												z = h[f[1]];
+												i = B(-50);
+												u = 21739640409878;
+												N = h[f[2]];
+												y = B(-117);
+												S = N(i, u);
+												H = z[S];
+												y = I[y];
+												y = y(I, H);
+												y = y and 13025166 or 4370053;
+											end;
+										end;
+									end;
+								else
+									if y < 10401953 then
+										if y < 10029034 then
+											if y < 9935183 then
+												y = true;
+												y = y and 11482975 or 10753352;
+											else
+												y = 5841586;
+												I = nil;
+												O = nil;
+											end;
+										else
+											if y < 10069751 then
+												R = R + E;
+												A = not s;
+												w = R <= q;
+												w = A and w;
+												A = R >= q;
+												A = s and A;
+												w = A or w;
+												A = 5690542;
+												y = w and A;
+												w = 14588350;
+												y = y or w;
+											else
+												y = p[B(87)];
+												Q = nil;
+												w = {};
+												U = nil;
+											end;
+										end;
+									else
+										if y < 10637179 then
+											if y < 10551917 then
+												Z = 16845375814984;
+												j = B(154);
+												v = B(-16);
+												G = p[v];
+												O = h[f[1]];
+												I = h[f[2]];
+												Y = I(j, Z);
+												v = O[Y];
+												Y = B(-237);
+												j = 10360851047857;
+												d = G[v];
+												v = h[f[1]];
+												O = h[f[2]];
+												I = O(Y, j);
+												G = v[I];
+												w = d[G];
+												y = n[35](w);
+												y = y and 15929831 or 8629511;
+											else
+												K = nil;
+												g = nil;
+												w = B(-80);
+												y = {};
+												E = t();
+												q = t();
+												R = t();
+												o = B(-23);
+												h[R] = y;
+												y = D(5346467, {
+														R,
+														I,
+														Y,
+														d,
+													});
+												h[q] = y;
+												a = B(-7);
+												y = {};
+												s = {};
+												d = J(d);
+												h[E] = y;
+												y = p[w];
+												O = nil;
+												C = h[E];
+												A = { [a] = C, [o] = K };
+												j = nil;
+												w = y(s, A);
+												v = nil;
+												h[P] = w;
+												y = W(2310214, {
+														E,
+														R,
+														Z,
+														I,
+														Y,
+														q,
+													});
+												Y = J(Y);
+												q = J(q);
+												R = J(R);
+												Z = J(Z);
+												I = J(I);
+												G = nil;
+												Y = B(31);
+												G = B(16);
+												F = nil;
+												E = J(E);
+												h[U] = y;
+												d = p[G];
+												v = h[P];
+												j = 24987808553703;
+												O = h[U];
+												I = O(Y, j);
+												G = v[I];
+												y = n[7](d, G);
+												y = y and 12722053 or 15861220;
+											end;
+										else
+											if y < 10643397 then
+												u = 20563857230543;
+												i = B(104);
+												y = h[k];
+												ya = 28668707858507;
+												z = h[f[1]];
+												N = h[f[2]];
+												S = N(i, u);
+												H = z[S];
+												z = true;
+												y[H] = z;
+												H = h[P];
+												N = h[f[1]];
+												u = B(-74);
+												S = h[f[2]];
+												i = S(u, ya);
+												z = N[i];
+												y = H[z];
+												z = r(824857, { f[1], f[2], k });
+												H = B(198);
+												H = y[H];
+												H = H(y, z);
+												y = 9547555;
+											else
+												y = h[O];
+												Z = B(231);
+												I = h[f[1]];
+												Y = h[f[2]];
+												g = 20339438340606;
+												j = Y(Z, g);
+												w = I[j];
+												s = 18460332802856;
+												g = B(-16);
+												Z = p[g];
+												F = h[f[1]];
+												R = h[f[2]];
+												E = B(93);
+												q = R(E, s);
+												g = F[q];
+												j = Z[g];
+												q = 34197573237864;
+												Z = h[d];
+												R = B(-201);
+												Y = j[Z];
+												Z = h[f[1]];
+												g = h[f[2]];
+												F = g(R, q);
+												j = Z[F];
+												I = Y[j];
+												y[w] = I;
+												y = 4798610;
+											end;
+										end;
+									end;
+								end;
+							else
+								if y < 11522078 then
+									if y < 10881948 then
+										if y < 10831548 then
+											if y < 10753425 then
+												y = 15861220;
+											else
+												w = { U };
+												y = p[B(186)];
+											end;
+										else
+											if y < 10872507 then
+												Z = B(-185);
+												g = 20275011865026;
+												I = h[f[1]];
+												Y = h[f[2]];
+												F = 6295540438759;
+												j = Y(Z, g);
+												O = I[j];
+												g = B(-248);
+												Y = h[f[1]];
+												A = 13054951501694;
+												j = h[f[2]];
+												Z = j(g, F);
+												s = B(-45);
+												I = Y[Z];
+												R = 19699468683178;
+												F = B(-22);
+												j = h[f[1]];
+												Z = h[f[2]];
+												g = Z(F, R);
+												Y = j[g];
+												Z = B(-24);
+												j = p[Z];
+												R = h[f[1]];
+												q = h[f[2]];
+												E = q(s, A);
+												F = R[E];
+												g = v[F];
+												Z = j(g);
+												E = 440247583130;
+												A = 19427803711149;
+												g = h[f[1]];
+												F = h[f[2]];
+												q = B(-66);
+												s = B(-86);
+												R = F(q, E);
+												j = g[R];
+												R = h[f[1]];
+												q = h[f[2]];
+												E = q(s, A);
+												F = R[E];
+												g = v[F];
+												y = { [O] = I, [Y] = Z, [j] = g };
+												Q[G] = y;
+												y = 12353401;
+											else
+												y = h[f[5]];
+												U = h[f[2]];
+												I = B(-195);
+												P = h[f[3]];
+												G = B(-160);
+												v = 22811267453692;
+												d = P(G, v);
+												G = B(-71);
+												Q = U[d];
+												U = true;
+												w = {};
+												v = 28666560309321;
+												y[Q] = U;
+												y = h[f[6]];
+												U = h[f[2]];
+												P = h[f[3]];
+												d = P(G, v);
+												Q = U[d];
+												d = B(209);
+												Y = 19552361563937;
+												P = p[d];
+												G = h[f[2]];
+												v = h[f[3]];
+												O = v(I, Y);
+												v = 55;
+												d = G[O];
+												U = P[d];
+												G = 55;
+												d = 55;
+												P = U(d, G, v);
+												Y = 22510610567652;
+												G = B(139);
+												y[Q] = P;
+												v = 27982565893580;
+												I = B(-158);
+												y = h[f[6]];
+												U = h[f[2]];
+												P = h[f[3]];
+												d = P(G, v);
+												Q = U[d];
+												d = B(209);
+												P = p[d];
+												G = h[f[2]];
+												v = h[f[3]];
+												O = v(I, Y);
+												d = G[O];
+												G = 40;
+												U = P[d];
+												v = 40;
+												d = 200;
+												P = U(d, G, v);
+												y[Q] = P;
+												y = h[f[7]];
+												U = h[f[2]];
+												v = 2273180813381;
+												G = B(195);
+												P = h[f[3]];
+												d = P(G, v);
+												Q = U[d];
+												U = true;
+												y[Q] = U;
+												y = h[f[6]];
+												h[f[1]] = y;
+												y = p[B(85)];
+											end;
+										end;
+									else
+										if y < 11270620 then
+											if y < 11059495 then
+												y = 10788169;
+											else
+												R = n[76](F);
+												w = 1;
+												y = G(w, R);
+												R = y;
+												s = 1;
+												y = v(F, R);
+												q = y;
+												y = h[Z];
+												E = n[30](q, s);
+												R = nil;
+												w = O(E);
+												y[q] = w;
+												q = nil;
+												y = 9193241;
+											end;
+										else
+											if y < 11398770 then
+												w = { v, O };
+												y = p[B(53)];
+											else
+												y = 9696552;
+											end;
+										end;
+									end;
+								else
+									if y < 11939646 then
+										if y < 11545192 then
+											if y < 11534260 then
+												U = h[f[3]];
+												P = 32;
+												Y = 2;
+												Q = n[60](U, P);
+												d = h[f[4]];
+												O = h[f[2]];
+												R = h[f[3]];
+												F = n[26](R, Q);
+												R = 32;
+												g = n[41](F, R);
+												Z = 13;
+												j = n[28](Z, g);
+												I = n[1](Y, j);
+												v = n[45](O, I);
+												I = 1;
+												G = d(v);
+												d = 4294967296;
+												P = n[58](G, d);
+												Z = 256;
+												G = 2;
+												d = n[2](G, Q);
+												U = n[43](P, d);
+												d = h[f[4]];
+												O = n[57](U, I);
+												Y = 256;
+												I = 4294967296;
+												v = n[72](O, I);
+												G = d(v);
+												O = 65536;
+												d = h[f[4]];
+												v = d(U);
+												P = n[16](G, v);
+												G = 65536;
+												d = n[56](P, G);
+												v = n[27](P, d);
+												y = 5435558;
+												G = n[45](v, O);
+												O = 256;
+												v = n[57](d, O);
+												I = n[29](d, v);
+												O = n[44](I, Y);
+												Y = 256;
+												I = n[56](G, Y);
+												P = nil;
+												j = n[27](G, I);
+												Y = n[43](j, Z);
+												d = nil;
+												G = nil;
+												Q = nil;
+												j = {
+														v,
+														O,
+														I,
+														Y,
+													};
+												O = nil;
+												U = nil;
+												v = nil;
+												Y = nil;
+												I = nil;
+												h[f[1]] = j;
+											else
+												j = B(-16);
+												Y = p[j];
+												Z = h[f[2]];
+												q = 20937530788907;
+												R = B(40);
+												g = h[f[3]];
+												F = g(R, q);
+												A = 27021537632845;
+												q = B(-134);
+												s = 31142684520779;
+												a = 17287770947300;
+												E = 18893063963835;
+												j = Z[F];
+												Z = B(209);
+												y = Y[j];
+												j = p[Z];
+												g = h[f[2]];
+												F = h[f[3]];
+												R = F(q, E);
+												Z = g[R];
+												E = B(94);
+												Y = j[Z];
+												F = h[f[2]];
+												R = h[f[3]];
+												q = R(E, s);
+												g = F[q];
+												Z = I[g];
+												R = h[f[2]];
+												q = h[f[3]];
+												s = B(28);
+												E = q(s, A);
+												F = R[E];
+												g = I[F];
+												A = B(-118);
+												q = h[f[2]];
+												E = h[f[3]];
+												s = E(A, a);
+												R = q[s];
+												F = I[R];
+												j = Y(Z, g, F);
+												y[O] = j;
+												y = 5391012;
+											end;
+										else
+											if y < 11616127 then
+												v = h[f[1]];
+												O = h[f[2]];
+												F = 12362366889209;
+												j = 31151274717523;
+												Y = B(-166);
+												I = O(Y, j);
+												G = v[I];
+												d = Q[G];
+												I = B(-16);
+												O = p[I];
+												Y = h[f[1]];
+												g = B(-167);
+												j = h[f[2]];
+												Z = j(g, F);
+												I = Y[Z];
+												Z = B(-252);
+												v = O[I];
+												I = h[f[1]];
+												g = 4741788602688;
+												Y = h[f[2]];
+												y = 6227134;
+												j = Y(Z, g);
+												O = I[j];
+												G = v[O];
+												P = n[25](d, G);
+												w = P;
+											else
+												y = Y and 2852951 or 12411771;
+											end;
+										end;
+									else
+										if y < 12370483 then
+											if y < 12328637 then
+												F = 31233955361184;
+												g = B(-194);
+												I = B(-59);
+												O = p[I];
+												I = O(v);
+												Y = h[f[1]];
+												j = h[f[2]];
+												Z = j(g, F);
+												O = Y[Z];
+												y = n[23](I, O);
+												y = y and 6779087 or 14398904;
+											else
+												v = nil;
+												G = nil;
+												y = 16262641;
+											end;
+										else
+											j = B(-16);
+											R = B(-186);
+											Y = p[j];
+											q = 18389463679718;
+											Z = h[f[2]];
+											g = h[f[3]];
+											F = g(R, q);
+											j = Z[F];
+											y = Y[j];
+											Y = I;
+											y[O] = Y;
+											y = 10028338;
+										end;
+									end;
+								end;
+							end;
+						else
+							if y < 15117838 then
+								if y < 13711341 then
+									if y < 12811713 then
+										if y < 12710681 then
+											if y < 12653891 then
+												j = B(-16);
+												Y = p[j];
+												Z = h[f[2]];
+												R = B(-245);
+												A = 4412139802637;
+												g = h[f[3]];
+												q = 11820110719744;
+												F = g(R, q);
+												s = 315689730342;
+												j = Z[F];
+												y = Y[j];
+												a = 14265095468005;
+												Z = B(4);
+												j = p[Z];
+												q = B(41);
+												E = 26744503787851;
+												g = h[f[2]];
+												F = h[f[3]];
+												R = F(q, E);
+												Z = g[R];
+												E = B(-183);
+												Y = j[Z];
+												F = h[f[2]];
+												R = h[f[3]];
+												q = R(E, s);
+												g = F[q];
+												s = B(71);
+												Z = I[g];
+												R = h[f[2]];
+												q = h[f[3]];
+												E = q(s, A);
+												A = B(-130);
+												F = R[E];
+												g = I[F];
+												q = h[f[2]];
+												E = h[f[3]];
+												s = E(A, a);
+												R = q[s];
+												F = I[R];
+												j = Y(Z, g, F);
+												y[O] = j;
+												y = 5391012;
+											else
+												y = h[O];
+												Z = B(-27);
+												I = h[f[1]];
+												Y = h[f[2]];
+												g = 9788529189788;
+												j = Y(Z, g);
+												w = I[j];
+												g = B(172);
+												Y = h[f[1]];
+												F = 13627273359763;
+												E = 10298572121463;
+												j = h[f[2]];
+												Z = j(g, F);
+												I = Y[Z];
+												F = 19695173584806;
+												y[w] = I;
+												g = B(228);
+												I = B(-16);
+												w = p[I];
+												Y = h[f[1]];
+												q = B(-21);
+												j = h[f[2]];
+												Z = j(g, F);
+												I = Y[Z];
+												Z = B(-161);
+												y = w[I];
+												w = h[d];
+												j = p[Z];
+												g = h[f[1]];
+												F = h[f[2]];
+												R = F(q, E);
+												Z = g[R];
+												Y = j[Z];
+												q = 20913907747861;
+												Z = h[f[1]];
+												R = B(65);
+												g = h[f[2]];
+												F = g(R, q);
+												j = Z[F];
+												I = Y[j];
+												y[w] = I;
+												y = 4798610;
+											end;
+										else
+											if y < 12726017 then
+												y = 9696552;
+											else
+												q = 4738567278909;
+												Z = h[f[2]];
+												R = B(-251);
+												g = h[f[3]];
+												F = g(R, q);
+												j = Z[F];
+												Y = I[j];
+												Z = h[f[2]];
+												R = B(229);
+												q = 4403549605893;
+												g = h[f[3]];
+												F = g(R, q);
+												j = Z[F];
+												y = n[21](Y, j);
+												y = y and 12608385 or 5391012;
+											end;
+										end;
+									else
+										if y < 13209563 then
+											if y < 13130756 then
+												u = B(74);
+												ya = 22850997113633;
+												N = h[f[1]];
+												S = h[f[2]];
+												i = S(u, ya);
+												ya = 18241282785884;
+												z = N[i];
+												H = I[z];
+												N = h[f[1]];
+												u = B(-88);
+												S = h[f[2]];
+												i = S(u, ya);
+												z = N[i];
+												y = H[z];
+												H = B(157);
+												H = y[H];
+												H = H(y);
+												y = 4370053;
+											else
+												j = h[f[1]];
+												F = B(133);
+												R = 34881567653605;
+												Z = h[f[2]];
+												g = Z(F, R);
+												w = j[g];
+												y = O[w];
+												w = B(198);
+												w = y[w];
+												w = w(y, G);
+												y = 11319130;
+											end;
+										else
+											if y < 13457600 then
+												j = B(-59);
+												R = B(-16);
+												a = 22250757116146;
+												A = B(-137);
+												Y = p[j];
+												F = p[R];
+												q = h[f[1]];
+												E = h[f[2]];
+												s = E(A, a);
+												R = q[s];
+												g = F[R];
+												y = 8290557;
+												F = h[d];
+												Z = g[F];
+												j = Y(Z);
+												Z = h[f[1]];
+												q = 29970122665223;
+												g = h[f[2]];
+												R = B(232);
+												F = g(R, q);
+												Y = Z[F];
+												I = n[22](j, Y);
+												w = I;
+											else
+												v = B(-150);
+												Q = t();
+												w = B(-244);
+												O = 34515410517392;
+												h[Q] = X[1];
+												y = p[w];
+												w = B(249);
+												w = y[w];
+												P = h[f[1]];
+												d = h[f[2]];
+												G = d(v, O);
+												U = P[G];
+												w = w(y, U);
+												U = t();
+												h[U] = w;
+												O = B(61);
+												w = B(-244);
+												y = p[w];
+												I = 9573774271188;
+												d = h[f[1]];
+												w = B(249);
+												Y = B(189);
+												G = h[f[2]];
+												v = G(O, I);
+												j = 6662771349565;
+												w = y[w];
+												P = d[v];
+												G = B(-16);
+												w = w(y, P);
+												P = t();
+												h[P] = w;
+												d = p[G];
+												v = h[f[1]];
+												O = h[f[2]];
+												I = O(Y, j);
+												G = v[I];
+												w = d[G];
+												y = n[31](w);
+												y = y and 15451096 or 10440511;
+											end;
+										end;
+									end;
+								else
+									if y < 14589182 then
+										if y < 14418363 then
+											if y < 14319244 then
+												w = nil;
+												Z = t();
+												I = t();
+												G = B(18);
+												d = B(18);
+												y = nil;
+												Q = X;
+												Y = t();
+												U = t();
+												P = t();
+												h[U] = y;
+												h[P] = w;
+												O = B(8);
+												w = p[d];
+												d = B(161);
+												y = w[d];
+												d = t();
+												h[d] = y;
+												w = p[G];
+												v = B(98);
+												G = B(-206);
+												y = w[G];
+												G = y;
+												w = p[v];
+												v = B(190);
+												y = w[v];
+												w = p[O];
+												v = y;
+												O = B(43);
+												y = w[O];
+												O = y;
+												y = 0;
+												h[I] = y;
+												y = 2;
+												h[Y] = y;
+												w = 1;
+												y = {};
+												j = y;
+												y = {};
+												h[Z] = y;
+												y = 0;
+												g = y;
+												y = {};
+												R = 256;
+												q = R;
+												R = 1;
+												E = R;
+												R = 0;
+												s = E < R;
+												F = y;
+												R = w - E;
+												y = 10032434;
+											else
+												y = v;
+												Q[G] = y;
+												y = 12353401;
+											end;
+										else
+											if y < 14576373 then
+												R, s = q(F, R);
+												y = R and 1029663 or 5438630;
+											else
+												R = 0;
+												w = n[79](F);
+												y = n[22](w, R);
+												y = 11250007;
+											end;
+										end;
+									else
+										if y < 15053234 then
+											if y < 15001894 then
+												w = {};
+												y = p[B(-77)];
+											else
+												y = g and 2736211 or 2845271;
+											end;
+										else
+											G = B(-12);
+											Q = X[1];
+											P = X[3];
+											U = X[2];
+											d = t();
+											h[d] = X[4];
+											j = 23608008201698;
+											w = p[G];
+											R = 3162266176385;
+											v = h[f[1]];
+											Y = B(-231);
+											O = h[f[2]];
+											I = O(Y, j);
+											G = v[I];
+											Y = B(251);
+											y = w[G];
+											g = 18000757277052;
+											v = h[f[1]];
+											O = h[f[2]];
+											j = 1319668974797;
+											I = O(Y, j);
+											Y = 20372725352989;
+											Z = B(15);
+											G = v[I];
+											w = y(G);
+											G = w;
+											w = h[f[1]];
+											I = B(166);
+											v = h[f[2]];
+											O = v(I, Y);
+											I = B(-193);
+											y = w[O];
+											Y = 33787391343338;
+											w = U;
+											G[y] = w;
+											w = h[f[1]];
+											v = h[f[2]];
+											O = v(I, Y);
+											y = w[O];
+											O = B(0);
+											v = p[O];
+											I = h[f[1]];
+											Y = h[f[2]];
+											j = Y(Z, g);
+											g = B(-25);
+											O = I[j];
+											w = v[O];
+											j = 35;
+											O = 1;
+											Y = 0;
+											I = -20;
+											v = w(O, I, Y, j);
+											G[y] = v;
+											I = B(-83);
+											Y = 4752526348618;
+											w = h[f[1]];
+											v = h[f[2]];
+											F = 30910749208691;
+											Z = 8641737924464;
+											O = v(I, Y);
+											Y = 29686646172671;
+											y = w[O];
+											w = 1;
+											G[y] = w;
+											w = h[f[1]];
+											v = h[f[2]];
+											I = B(142);
+											O = v(I, Y);
+											y = w[O];
+											w = Q;
+											v = B(-12);
+											G[y] = w;
+											w = p[v];
+											O = h[f[1]];
+											j = B(141);
+											I = h[f[2]];
+											Y = I(j, Z);
+											j = B(215);
+											Z = 5664160978075;
+											v = O[Y];
+											y = w[v];
+											O = h[f[1]];
+											I = h[f[2]];
+											Y = I(j, Z);
+											v = O[Y];
+											w = y(v);
+											j = 15414034282515;
+											v = w;
+											w = h[f[1]];
+											O = h[f[2]];
+											Y = B(-91);
+											I = O(Y, j);
+											y = w[I];
+											I = B(0);
+											O = p[I];
+											Y = h[f[1]];
+											j = h[f[2]];
+											Z = j(g, F);
+											j = 1;
+											I = Y[Z];
+											Y = 0;
+											w = O[I];
+											F = B(187);
+											Z = 0;
+											I = .5;
+											O = w(I, Y, j, Z);
+											v[y] = O;
+											Y = B(77);
+											w = h[f[1]];
+											j = 7666750594020;
+											O = h[f[2]];
+											I = O(Y, j);
+											y = w[I];
+											w = 1;
+											j = 10187973338384;
+											v[y] = w;
+											Y = B(-189);
+											w = h[f[1]];
+											O = h[f[2]];
+											I = O(Y, j);
+											y = w[I];
+											Y = B(-161);
+											q = 6832427735259;
+											I = p[Y];
+											j = h[f[1]];
+											Z = h[f[2]];
+											g = Z(F, R);
+											Y = j[g];
+											O = I[Y];
+											Y = h[f[1]];
+											j = h[f[2]];
+											g = B(192);
+											F = 10171866719489;
+											Z = j(g, F);
+											I = Y[Z];
+											F = 29859523882144;
+											w = O[I];
+											E = 21242482773319;
+											v[y] = w;
+											w = h[f[1]];
+											j = 15938036283899;
+											Y = B(-84);
+											O = h[f[2]];
+											I = O(Y, j);
+											y = w[I];
+											w = P;
+											j = 17257705258696;
+											Y = B(90);
+											v[y] = w;
+											w = h[f[1]];
+											O = h[f[2]];
+											I = O(Y, j);
+											g = B(-95);
+											y = w[I];
+											I = B(209);
+											O = p[I];
+											Y = h[f[1]];
+											j = h[f[2]];
+											R = 26209764040537;
+											Z = j(g, F);
+											I = Y[Z];
+											Y = 200;
+											w = O[I];
+											I = 200;
+											j = 200;
+											O = w(I, Y, j);
+											v[y] = O;
+											w = h[f[1]];
+											Y = B(-55);
+											F = B(-125);
+											j = 24201805551627;
+											O = h[f[2]];
+											I = O(Y, j);
+											Y = B(-82);
+											y = w[I];
+											j = 33500693527007;
+											w = 14;
+											v[y] = w;
+											w = h[f[1]];
+											O = h[f[2]];
+											I = O(Y, j);
+											Y = B(-161);
+											y = w[I];
+											I = p[Y];
+											j = h[f[1]];
+											Z = h[f[2]];
+											g = Z(F, R);
+											Y = j[g];
+											F = 11130747431038;
+											O = I[Y];
+											Y = h[f[1]];
+											j = h[f[2]];
+											g = B(-87);
+											Z = j(g, F);
+											I = Y[Z];
+											w = O[I];
+											v[y] = w;
+											w = h[f[1]];
+											O = h[f[2]];
+											R = B(113);
+											Z = B(179);
+											Y = B(-11);
+											j = 4676288352515;
+											I = O(Y, j);
+											y = w[I];
+											w = G;
+											g = 15817773529483;
+											O = B(-12);
+											v[y] = w;
+											w = p[O];
+											I = h[f[1]];
+											Y = h[f[2]];
+											j = Y(Z, g);
+											O = I[j];
+											Z = B(175);
+											y = w[O];
+											I = h[f[1]];
+											g = 21951174004699;
+											Y = h[f[2]];
+											j = Y(Z, g);
+											O = I[j];
+											w = y(O);
+											O = t();
+											g = 33710079572642;
+											h[O] = w;
+											y = h[O];
+											Z = B(-187);
+											I = h[f[1]];
+											Y = h[f[2]];
+											j = Y(Z, g);
+											w = I[j];
+											j = B(0);
+											Y = p[j];
+											Z = h[f[1]];
+											g = h[f[2]];
+											F = g(R, q);
+											j = Z[F];
+											I = Y[j];
+											g = 1;
+											R = B(-199);
+											j = .5;
+											F = 0;
+											Z = 0;
+											Y = I(j, Z, g, F);
+											Z = B(199);
+											g = 29541686602616;
+											y[w] = Y;
+											y = h[O];
+											I = h[f[1]];
+											Y = h[f[2]];
+											q = 4665550606585;
+											j = Y(Z, g);
+											w = I[j];
+											j = B(0);
+											Y = p[j];
+											Z = h[f[1]];
+											g = h[f[2]];
+											F = g(R, q);
+											j = Z[F];
+											g = 0;
+											R = B(-62);
+											F = 0;
+											I = Y[j];
+											j = .5;
+											q = 28240271795900;
+											Z = 0;
+											Y = I(j, Z, g, F);
+											Z = B(-132);
+											g = 6831353960666;
+											y[w] = Y;
+											y = h[O];
+											I = h[f[1]];
+											Y = h[f[2]];
+											j = Y(Z, g);
+											w = I[j];
+											j = B(209);
+											Y = p[j];
+											Z = h[f[1]];
+											g = h[f[2]];
+											F = g(R, q);
+											j = Z[F];
+											I = Y[j];
+											g = 50;
+											j = 50;
+											Z = 50;
+											q = B(241);
+											Y = I(j, Z, g);
+											y[w] = Y;
+											y = h[O];
+											g = 8926288191609;
+											Z = B(89);
+											I = h[f[1]];
+											Y = h[f[2]];
+											j = Y(Z, g);
+											w = I[j];
+											Z = B(-161);
+											j = p[Z];
+											g = h[f[1]];
+											F = h[f[2]];
+											R = F(q, E);
+											E = 18219807294024;
+											Z = g[R];
+											Y = j[Z];
+											Z = h[f[1]];
+											R = B(151);
+											q = 12157275941946;
+											g = h[f[2]];
+											F = g(R, q);
+											j = Z[F];
+											I = Y[j];
+											R = B(-139);
+											Z = B(-29);
+											y[w] = I;
+											y = h[O];
+											I = h[f[1]];
+											g = 18960711763194;
+											Y = h[f[2]];
+											j = Y(Z, g);
+											w = I[j];
+											q = 28831921596643;
+											j = B(209);
+											Y = p[j];
+											Z = h[f[1]];
+											g = h[f[2]];
+											F = g(R, q);
+											j = Z[F];
+											I = Y[j];
+											Z = 200;
+											g = 200;
+											j = 200;
+											Y = I(j, Z, g);
+											y[w] = Y;
+											g = 19198015948247;
+											y = h[O];
+											Z = B(-34);
+											I = h[f[1]];
+											Y = h[f[2]];
+											j = Y(Z, g);
+											Z = B(222);
+											w = I[j];
+											I = 14;
+											y[w] = I;
+											g = 25118809054049;
+											y = h[O];
+											I = h[f[1]];
+											q = B(-173);
+											Y = h[f[2]];
+											j = Y(Z, g);
+											Z = B(-16);
+											w = I[j];
+											I = G;
+											y[w] = I;
+											j = p[Z];
+											g = h[f[1]];
+											F = h[f[2]];
+											R = F(q, E);
+											Z = g[R];
+											Y = j[Z];
+											j = h[d];
+											I = Y[j];
+											w = I;
+											y = I and 13233556 or 8290557;
+										end;
+									end;
+								end;
+							else
+								if y < 16206850 then
+									if y < 15608529 then
+										if y < 15389562 then
+											if y < 15188247 then
+												Z = 14771917075901;
+												y = h[f[3]];
+												O = 6856050776305;
+												P = h[f[1]];
+												j = B(102);
+												d = h[f[2]];
+												v = B(-175);
+												G = d(v, O);
+												w = P[G];
+												G = h[f[3]];
+												O = h[f[1]];
+												I = h[f[2]];
+												Y = I(j, Z);
+												v = O[Y];
+												d = G[v];
+												P = n[34](d);
+												y[w] = P;
+												y = 16471031;
+											else
+												H = B(119);
+												u = B(-79);
+												ya = 4240335867757;
+												y = p[H];
+												N = h[f[1]];
+												S = h[f[2]];
+												i = S(u, ya);
+												z = N[i];
+												H = y(z);
+												y = 9547555;
+											end;
+										else
+											if y < 15436474 then
+												Z = h[f[2]];
+												g = h[f[3]];
+												R = B(239);
+												q = 10590638810759;
+												F = g(R, q);
+												q = 12878852468442;
+												j = Z[F];
+												Y = I[j];
+												Z = h[f[2]];
+												g = h[f[3]];
+												R = B(-38);
+												F = g(R, q);
+												j = Z[F];
+												y = n[24](Y, j);
+												y = y and 3605102 or 12757894;
+											else
+												w = B(-16);
+												y = p[w];
+												d = h[f[1]];
+												O = B(234);
+												I = 9230166401428;
+												G = h[f[2]];
+												v = G(O, I);
+												w = d[v];
+												d = {};
+												y[w] = d;
+												y = 10440511;
+											end;
+										end;
+									else
+										if y < 15790303 then
+											if y < 15691130 then
+												y = true;
+												w = { y };
+												y = p[B(-154)];
+											else
+												y = w and 7816431 or 10123061;
+											end;
+										else
+											if y < 15866665 then
+												y = D(13652385, { P, U });
+												w = { y };
+												y = p[B(-236)];
+											else
+												Y = 22497725272536;
+												d = B(-16);
+												I = B(-151);
+												w = p[d];
+												G = h[f[1]];
+												v = h[f[2]];
+												O = v(I, Y);
+												Z = B(226);
+												d = G[O];
+												O = B(130);
+												y = w[d];
+												d = h[f[1]];
+												I = 5895022515570;
+												G = h[f[2]];
+												g = 20314741524967;
+												v = G(O, I);
+												O = B(-161);
+												w = d[v];
+												v = p[O];
+												I = h[f[1]];
+												Y = h[f[2]];
+												j = Y(Z, g);
+												O = I[j];
+												G = v[O];
+												j = B(37);
+												O = h[f[1]];
+												Z = 28707363743855;
+												I = h[f[2]];
+												Y = I(j, Z);
+												v = O[Y];
+												d = G[v];
+												y[w] = d;
+												y = 8629511;
+											end;
+										end;
+									end;
+								else
+									if y < 16369867 then
+										if y < 16284599 then
+											if y < 16269609 then
+												P, v = d(U, P);
+												y = P and 195077 or 7014102;
+											else
+												Q = nil;
+												w = {};
+												y = p[B(35)];
+											end;
+										else
+											if y < 16338765 then
+												G = B(-124);
+												I = 18304635486871;
+												w = h[f[1]];
+												O = B(-116);
+												U = h[f[2]];
+												v = 7162076535310;
+												P = h[f[3]];
+												d = P(G, v);
+												Q = U[d];
+												y = w[Q];
+												Q = y;
+												d = h[f[2]];
+												G = h[f[3]];
+												v = G(O, I);
+												P = d[v];
+												U = n[25](Q, P);
+												w = U;
+												y = U and 1050656 or 7201500;
+											else
+												y = h[f[1]];
+												G = 15412960507922;
+												d = B(-153);
+												Q = h[f[2]];
+												U = h[f[3]];
+												P = U(d, G);
+												w = Q[P];
+												I = 23393253283098;
+												P = B(209);
+												U = p[P];
+												d = h[f[2]];
+												O = B(-152);
+												G = h[f[3]];
+												v = G(O, I);
+												P = d[v];
+												I = 18661128651747;
+												G = 40;
+												d = 40;
+												Q = U[P];
+												P = 40;
+												U = Q(P, d, G);
+												y[w] = U;
+												y = h[f[1]];
+												d = B(146);
+												O = B(-182);
+												Q = h[f[2]];
+												G = 9738061783917;
+												U = h[f[3]];
+												P = U(d, G);
+												w = Q[P];
+												P = B(209);
+												U = p[P];
+												d = h[f[2]];
+												G = h[f[3]];
+												v = G(O, I);
+												P = d[v];
+												Q = U[P];
+												G = 180;
+												d = 180;
+												v = 3612177730852;
+												P = 180;
+												U = Q(P, d, G);
+												y[w] = U;
+												G = B(-93);
+												w = h[f[1]];
+												U = h[f[2]];
+												P = h[f[3]];
+												d = P(G, v);
+												Q = U[d];
+												y = w[Q];
+												Q = h[f[2]];
+												d = B(-220);
+												G = 2923888216739;
+												U = h[f[3]];
+												P = U(d, G);
+												w = Q[P];
+												Q = false;
+												y[w] = Q;
+												y = 2370120;
+											end;
+										end;
+									else
+										if y < 16608521 then
+											if y < 16396504 then
+												g = h[f[2]];
+												E = 29287202024075;
+												F = h[f[3]];
+												y = 11702629;
+												q = B(-238);
+												R = F(q, E);
+												Z = g[R];
+												j = I[Z];
+												Y = j;
+											else
+												y = p[B(243)];
+												Q = nil;
+												U = nil;
+												w = {};
+											end;
+										else
+											R = 2;
+											F = Z[R];
+											g = F;
+											y = 15046092;
+										end;
+									end;
+								end;
+							end;
+						end;
+					end;
+				end;
+				y = #l;
+				return L(w);
+			end, function()
+				P = 1 + P;
+				U[P] = 1;
+				return P;
+			end, function(y, p)
+				local B = d(p);
+				local L = function(L, f)
+						return X(y, { L, f }, p, B);
+					end;
+				return L;
+			end;
+		return (v(13814694, {}))(L(Q));
+	end)(getfenv and getfenv() or _ENV, unpack or table[B(220)], newproxy, setmetatable, getmetatable, select, { ... });
+end)(...);
