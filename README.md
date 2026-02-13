@@ -1,134 +1,102 @@
-# Aimware v5.4.1 for Roblox
+# AIMWARE V6 for Roblox
 
-![Aimware GUI](./Pictures/gui.png)
+![Teaser Visuals](./Pictures/6.0.0/Visuals.png)
 
-A universal cheat menu for Roblox, inspired by the legendary CS:GO cheat, **Aimware.net**. This is a fan project dedicated to recreating the classic Aimware experience within the Roblox engine. This script is designed to be universal and is not made for one specific game.
+**Dominate the competition with the most advanced, feature-rich script for Roblox.**
+Inspired by the legendary Aimware V6, this software brings a premium cheating experience to Roblox with a pixel-perfect GUI, advanced Ragebot technology, and stunning visuals.
 
 ---
 
-## ✨ Features
+## ✨ Feature Highlights
 
-Below is a comprehensive list of all current features, categorized.
+*   **Premium V6 GUI**: A faithful recreation of the Aimware V6 desktop interface, featuring smooth animations, drag-and-drop interaction, and a fully custom design system.
+*   **Advanced Ragebot**: Dominate HvH servers with industry-leading prediction, resolver logic, and customizable anti-aim.
+*   **Legitbot**: Play subtly with humanized aim assistance and smoothing.
+*   **Visuals**: See everything with highly configurable ESP, Chams, and World effects.
+*   **Cloud Configs**: Save and load your settings instantly.
 
-### Legitbot
-Designed for subtle cheating that appears legitimate to other players and spectators.
+---
 
-*   **Aimbot**: Automatically assists your aim towards enemy players.
-*   **AimKey**: Activates the aimbot only when a specific key (e.g., `MouseButton2`) is held down.
-*   **Smoothing**: Adjusts the smoothness of the aimbot's targeting for a human-like feel.
-*   **AutoFire**: Fires automatically when the aimbot has a target.
-*   **Fire On Press**: Fires when the aimbot key is pressed.
-*   **Wall Check**: Ensures the aimbot only locks onto visible players.
-*   **Semirage**: A more aggressive form of legitbot.
-    *   **Silent Aim**: Aims at the target without moving your camera view.
-    *   **Aim FOV**: A separate field of view for the semirage aimbot.
+## 🎯 Legitbot
+
+Designed for subtle assistance, the Legitbot helps you hit your shots while looking completely natural.
+
+*   **Aimbot**: Smooth camera assistance that tracks targets within a defined FOV.
 *   **Triggerbot**: Automatically fires when your crosshair is over an enemy.
-
-### Ragebot
-For aggressive gameplay where stealth is not a priority. Annihilate the entire server.
-
-*   **Aimbot**:
-    *   **Silent Aim**: Aim is not visible on your screen.
-    *   **FOV Slider**: Adjusts the field of view (FOV) circle.
-    *   **Team Check**: Prevents targeting teammates.
-    *   **Visible Check**: Locks only onto visible enemies.
-    *   **Auto Fire**: Automatically shoots at the target with adjustable delay.
-    *   **Auto Stop**: Stops your movement when a target is visible for better accuracy.
-*   **Anti-Aim**:
-    *   **Spinbot**: Rapidly spins your character to make headshots difficult.
-    *   **Jitter**: Randomly shakes your character's rotation.
-    *   **Pitch Up**: Forces your character to look up.
-*   **Movement**:
-    *   **Bunnyhop**: Automatically jumps when hitting the ground.
-    *   **AutoStrafer (Subtick)**: Flicks your head and boosts speed in the air.
-    *   **Strafer Speed**: Adjustable speed for the autostrafer.
-
-### Visuals
-Enhance your in-game awareness by seeing things others can't.
-
-*   **Player ESP**:
-    *   **Box ESP**: Draws 2D boxes around players.
-    *   **Name ESP**: Displays player names with a **Wave Text Animation**.
-    *   **Distance ESP**: Shows distance to players with **Wave Text Animation**.
-    *   **Skeleton ESP**: Draws the player's skeleton structure.
-    *   **Local Trails**: Creates a trail behind your character.
-    *   **Colors**: Fully customizable colors for all ESP elements.
-*   **Chams**:
-    *   **Global Chams**: See players through walls with customizable materials (ForceField, Neon, etc.).
-    *   **Local Chams**: Customize your own character's appearance with materials, transparency, and **Rainbow Overlay**.
-*   **Viewmodel**:
-    *   **Offsets**: Adjust X, Y, Z positions of your weapon viewmodel.
-    *   **FOV**: Change the field of view of the viewmodel.
-*   **UI Elements**:
-    *   **Watermark**: Displays client info (User, Ping).
-    *   **Debug Info**: Shows detailed stats (FPS, Ping, Memory, Player Stats, World Info).
-
-### World
-Modify the game world for a tactical or performance advantage.
-
-*   **FPS Booster**: Drastically lowers world graphics and removes textures to provide a massive FPS boost.
-*   **World Color**: Change the ambient color of the game world.
-*   **No Flash/Smoke**: Removes flashbang and smoke effects.
-
-### Misc
-A collection of miscellaneous cheats and trolling features.
-
-> ** Warning:** These features are considered high-risk on servers with a server-sided anticheat. Use them with caution.
-
-#### Movement
-*   **Fly**: Fly around the map with adjustable speed.
-*   **Walk Speed**: Modify your character's walking speed.
-*   **Jump Power**: Modify your character's jump height.
-*   **Infinite Jump**: Jump unlimited times in the air.
-*   **High Jump**: Perform a single super-high jump.
-
-#### Combat
-*   **Spinbot**: Basic spinbot implementation.
-*   **Pitch Down**: Forces camera to look down (unsafe).
-*   **Fling**: Violently pushes other players away upon collision.
-*   **Auto-Clicker**: Automatically clicks your mouse.
-
-#### Troll
-*   **Fall**: Makes other players trip (if supported).
-*   **Stick to Player**: Follows a target player closely.
-*   **Teleport to Player**: Teleports you to a target.
-*   **Lag Player**: Attempts to lag a target player.
-*   **Orbit Player**: Makes a target player orbit around you.
-*   **Invisible**: Makes your character invisible.
-*   **Fake Crash**: Shows a fake crash screen.
-*   **Confuse Controls**: Inverts movement controls.
-
-#### Utility
-*   **Infinity Yield**: Loads the popular Infinity Yield admin script.
-*   **Fullbright**: Illuminates the map.
-*   **Server Hopper**: Joins a different server.
-*   **Script Executor**: Execute custom Lua scripts directly from the menu.
+*   **Weapon Configs**: Customize settings for different weapon types.
+*   **Semirage**: A hybrid mode offering "Silent Aim" functionality without the aggression of the full Ragebot.
+    *   **Silent Aim**: Redirects bullets to the target without moving your camera.
+    *   **Hit Chance**: Configurable randomization to mimic human error.
 
 ---
 
-## Installation
+## 💀 Ragebot
 
-This script requires a functioning **Roblox Executor** to run.
+For when subtlety isn't an option. The Ragebot is built for aggressive play and "Hack vs Hack" (HvH) scenarios.
 
-1.  Open your preferred Roblox Executor.
-2.  Paste the script:
-    ```lua
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/hutaoshusband/aimware-port-roblox/main/Main.lua"))()
-    ```
+### Aimbot & Targeting
+*   **Silent Aim**: Fires at targets perfectly without locking your camera view.
+*   **Auto Fire**: Automatically handles shooting with "Smart Hold" or classic modes.
+*   **Resolver**: specialized logic to hit moving or anti-aiming targets.
+*   **Prediction**: Advanced velocity prediction to hit targets even with high ping.
+*   **Multi-Point Targeting**: Scans multiple hitboxes (Head, Chest, Arms, Legs) to find the best visible point.
+
+![Hitscan Teaser](./Pictures/6.0.0/Hitscan.png)
+
+### Anti-Aim
+Make yourself harder to hit with advanced character manipulation.
+*   **Pitch Manipulation**: Down, Up, Jitter, and Custom angles.
+*   **Yaw Customization**: Spin, Jitter, Switch, and target-based logic to desync your hitbox.
+*   **Desync**: Manipulates your real character position vs. visual position.
+*   **Visualizer**: See your own anti-aim in third-person view.
+
+![Anti-Aim Teaser](./Pictures/6.0.0/Anti-Aim.png)
 
 ---
 
-## Configuration
+## 👁️ Visuals
 
-*   **Toggle GUI**: Custom keybind to open/close the menu (Default: `RightShift`).
-*   **Settings Tab**: Save and load your configurations.
-*   **Unload Cheat**: Safely removes the UI and disables all features.
+Enhance your awareness with beautiful, performant ESP and world modifications.
+
+![Visuals Showcase](./Pictures/6.0.0/Visuals.png)
+
+### Player ESP
+*   **Box & Name**: Clean 2D boxes (Corner/Full) with health bars and wave-animated text.
+*   **Skeleton**: Detailed bone overlays showing player posture.
+*   **Chams**: See players through walls with customizable "Visible" and "Invisible" colors.
+*   **Offscreen Arrows**: Indicators for enemies outside your field of view.
+
+### World & Screen
+*   **Night Mode & Ambience**: Fully custom lighting, sky removal, and color grading.
+*   **Bullet Tracers**: Visualize bullet paths with rainbow or static colors.
+*   **Third Person**: Custom third-person camera with anti-aim visualization.
+*   **FOV Circle**: Visual representation of your aimbot's targeting radius.
 
 ---
 
-## 📜 Disclaimer
+## ⚙️ Misc & Settings
 
-*   This script is provided for **educational purposes only**.
-*   The use of exploits or cheats is a direct violation of the Roblox Terms of Service.
-*   The creator of this project is **not responsible** for any consequences resulting from its use, including but not limited to account suspensions or bans.
-*   **Use at your own risk.**
+### Miscellaneous Features
+*   **Movement**: Bunnyhop, Autostrafer (WASD/Forward), and Fly.
+*   **Combat**: Spinbot, Anti-Knife, and various fun "Troll" features (Fling, Orbit, etc.).
+*   **Utility**: Server Hopper, Fullbright, and an internal Script Executor.
+
+### Configuration System
+*   **Cloud Manager**: Easily Save, Load, and Delete configs.
+*   **Clipboard Support**: Export your config to text to share with friends.
+*   **Keybind System**: rapidly toggle features with custom hotkeys, displayed in an on-screen Keybind List.
+
+![Config Manager](./Pictures/6.0.0/Config.png)
+
+---
+
+## 🚀 Getting Started
+
+1.  Execute the script using your preferred executor.
+2.  Press **RightShift** to open the menu.
+3.  Configure your settings or load a preset.
+4.  Dominate.
+
+---
+
+*Educational Purpose Only. Use at your own risk.*
